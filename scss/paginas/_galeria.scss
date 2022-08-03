@@ -1,0 +1,52 @@
+.galeria-titulo{
+    background-color: $color-verde;
+    color: $color-transparencias;
+    &:hover{
+        @extend .animacion-titulo;
+    }
+}
+.boton-off{
+    color: $color-gris;
+}
+.boton-off:hover{
+    background-color: $color-negro;
+}
+.texto-calesita{
+    box-shadow:30px 20px 10px #2b2c2b;
+    & p{
+        background-color: $color-negro-transparente;
+    }
+    & h5{
+        background-color: $color-negro-transparente;
+    }
+}
+.calesita{
+    height: 40vh;
+    @include cuatro_cincuenta_px{
+        height: 65vh;
+    }
+    @include siete_seis_px{
+        height: 90vh;
+    }
+    @include nueve_ochenta_px{
+        height: 105vh;
+    }
+    @include diez_veinticinco_px{
+        height: 160vh;
+    }
+    @include doce_cincuenta_px{
+        height: 125vh;
+    }
+    @include trece_veinte_px{
+        height: 135vh;
+    }
+    @include diecinueve_veinte_px{
+        height: 100vh;
+    }
+}
+.mensaje{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 1.5rem;
+    text-align: center;
+}

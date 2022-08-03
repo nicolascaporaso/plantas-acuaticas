@@ -1,0 +1,20 @@
+{
+    "name": "plantas-acuaticas",
+    "version": "1.0.0",
+    "description": "version migracion a sass",
+    "main": "index.js",
+    "scripts": { 
+        "compile:sass": "sass --watch ./scss/main.scss ./css/estilo.css",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nicolascaporaso/plantas-acuaticas.git"
+    },
+    "author": "nicolas-caporaso",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nicolascaporaso/plantas-acuaticas/issues"
+    },
+    "homepage": "https://github.com/nicolascaporaso/plantas-acuaticas#readme"
+}
