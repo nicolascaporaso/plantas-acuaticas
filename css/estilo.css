@@ -614,7 +614,7 @@ body {
   margin-bottom: 50px;
 }
 .tienda__grid {
-  background-color: #3a3b38;
+  background-color: rgba(62, 68, 50, 0.2470588235);
 }
 @media screen and (min-width: 768px) {
   .tienda__grid {
