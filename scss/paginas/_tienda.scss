@@ -6,7 +6,7 @@
     margin-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    border: 1px solid black;
+    border: 1px solid $color-negro;
     box-shadow: 10px 10px 10px $color-verde-transparente;
     &__titulo{
         @extend .card__titulo;
@@ -16,7 +16,7 @@
         margin-bottom: 50px;
     }
     &__grid{
-        background-color: rgba(255, 228, 196, 0.363);
+        background-color: $color-gris;
         @include siete_seis_px{
             display: flex;
             flex-direction:column;
@@ -52,7 +52,7 @@
                 margin-left: auto;
                 margin-right: auto;
                 margin-top: 20;
-                border: 2px solid black;
+                border: 2px solid $color-negro;
                 margin-bottom: 50px;
             }
         }

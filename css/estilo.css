@@ -16,6 +16,12 @@ body {
   background-color: rgba(99, 140, 11, 0.1098039216);
 }
 
+.main-galeria {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .animacion-titulo, .galeria-titulo:hover, .card__titulo:hover, .tienda__grid__card__titulo:hover, .tienda__titulo:hover, .cursos__grilla__card-titulo:hover, .cursos-titulo:hover {
   animation-name: backcolor;
   animation-duration: 8s;
@@ -66,7 +72,7 @@ body {
   padding: 20px !important;
 }
 
-.flex__center {
+.flex__center, .grilla {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -425,7 +431,7 @@ body {
 }
 
 .texto-calesita {
-  box-shadow: 30px 20px 10px #2b2c2b;
+  box-shadow: 30px 20px 10px #3a3b38;
 }
 .texto-calesita p {
   background-color: rgba(0, 0, 0, 0.466);
@@ -435,49 +441,129 @@ body {
 }
 
 .calesita {
-  height: 40vh;
-}
-@media screen and (min-width: 450px) {
-  .calesita {
-    height: 65vh;
-  }
-}
-@media screen and (min-width: 768px) {
-  .calesita {
-    height: 90vh;
-  }
-}
-@media screen and (min-width: 980px) {
-  .calesita {
-    height: 105vh;
-  }
-}
-@media screen and (min-width: 1025px) {
-  .calesita {
-    height: 160vh;
-  }
-}
-@media screen and (min-width: 1250px) {
-  .calesita {
-    height: 125vh;
-  }
+  display: none;
 }
 @media screen and (min-width: 1320px) {
   .calesita {
-    height: 135vh;
-  }
-}
-@media screen and (min-width: 1920px) {
-  .calesita {
-    height: 100vh;
+    display: block;
   }
 }
 
 .mensaje {
-  margin-top: 30px;
-  margin-bottom: 50px;
+  margin-top: 1px;
+  margin-bottom: 1px;
   font-size: 1.5rem;
   text-align: center;
+}
+
+.grilla {
+  width: 100%;
+  flex-direction: column;
+}
+@media screen and (min-width: 980px) {
+  .grilla {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+  }
+}
+@media screen and (min-width: 1320px) {
+  .grilla {
+    display: none;
+  }
+}
+.grilla div {
+  width: 100%;
+  background-color: #00060a;
+  height: 400px;
+  background-size: cover;
+  margin: 8px;
+  box-shadow: 20px 20px 20px #3a3b38;
+}
+.grilla div:hover {
+  transform: scale(120%);
+  transition: 3s;
+}
+
+.img1 {
+  background-image: url("../imagenes/galeria/1.jpg");
+}
+
+.img2 {
+  background-image: url("../imagenes/galeria/2.jpg");
+}
+
+.img3 {
+  background-image: url("../imagenes/galeria/3.jpg");
+}
+
+.img4 {
+  background-image: url("../imagenes/galeria/4.jpg");
+}
+
+.img5 {
+  background-image: url("../imagenes/galeria/5.jpg");
+}
+
+.img6 {
+  background-image: url("../imagenes/galeria/6.jpg");
+}
+
+.img7 {
+  background-image: url("../imagenes/galeria/7.jpg");
+}
+
+.img8 {
+  background-image: url("../imagenes/galeria/8.jpg");
+}
+
+.img9 {
+  background-image: url("../imagenes/galeria/9.jpg");
+}
+
+.img10 {
+  background-image: url("../imagenes/galeria/10.jpg");
+}
+
+.img11 {
+  background-image: url("../imagenes/galeria/11.jpg");
+}
+
+.img12 {
+  background-image: url("../imagenes/galeria/12.jpg");
+}
+
+.img13 {
+  background-image: url("../imagenes/galeria/13.jpg");
+}
+
+.img14 {
+  background-image: url("../imagenes/galeria/14.jpg");
+}
+
+.img15 {
+  background-image: url("../imagenes/galeria/15.jpg");
+}
+
+.img16 {
+  background-image: url("../imagenes/galeria/16.jpg");
+}
+
+.img17 {
+  background-image: url("../imagenes/galeria/17.jpg");
+}
+
+.img18 {
+  background-image: url("../imagenes/galeria/18.jpg");
+}
+
+.img19 {
+  background-image: url("../imagenes/galeria/19.jpg");
+}
+
+.img20 {
+  background-image: url("../imagenes/galeria/20.jpg");
 }
 
 .color {
@@ -518,7 +604,7 @@ body {
   margin-bottom: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  border: 1px solid black;
+  border: 1px solid #00060a;
   box-shadow: 10px 10px 10px rgba(99, 140, 11, 0.1098039216);
 }
 .tienda__titulo {
@@ -528,7 +614,7 @@ body {
   margin-bottom: 50px;
 }
 .tienda__grid {
-  background-color: rgba(255, 228, 196, 0.363);
+  background-color: #3a3b38;
 }
 @media screen and (min-width: 768px) {
   .tienda__grid {
@@ -571,7 +657,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20;
-  border: 2px solid black;
+  border: 2px solid #00060a;
   margin-bottom: 50px;
 }
 

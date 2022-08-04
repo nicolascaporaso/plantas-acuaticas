@@ -12,7 +12,7 @@
     background-color: $color-negro;
 }
 .texto-calesita{
-    box-shadow:30px 20px 10px #2b2c2b;
+    box-shadow:30px 20px 10px $color-gris;
     & p{
         background-color: $color-negro-transparente;
     }
@@ -21,32 +21,45 @@
     }
 }
 .calesita{
-    height: 40vh;
-    @include cuatro_cincuenta_px{
-        height: 65vh;
-    }
-    @include siete_seis_px{
-        height: 90vh;
-    }
-    @include nueve_ochenta_px{
-        height: 105vh;
-    }
-    @include diez_veinticinco_px{
-        height: 160vh;
-    }
-    @include doce_cincuenta_px{
-        height: 125vh;
-    }
+    display: none;
     @include trece_veinte_px{
-        height: 135vh;
-    }
-    @include diecinueve_veinte_px{
-        height: 100vh;
+        display: block;
     }
 }
 .mensaje{
-    margin-top: 30px;
-    margin-bottom: 50px;
+    margin-top: 1px;
+    margin-bottom: 1px;
     font-size: 1.5rem;
     text-align: center;
+}
+
+.grilla{
+    @extend .flex__center;
+    width: 100%; 
+    flex-direction: column;
+    @include nueve_ochenta_px{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    }
+    @include trece_veinte_px{
+        display: none;
+    }
+    & div{
+        width: 100%;
+        background-color: $color-negro;
+        height: 400px;
+        background-size:cover;
+        margin: 8px;
+        box-shadow:20px 20px 20px $color-gris;
+        &:hover{
+        transform: scale(120%);
+        transition:3s;
+        }
+    }
+}
+
+@for $i from 1 through 20{
+    .img#{$i} { background-image: url('../imagenes/galeria/#{$i}.jpg'); }
 }
