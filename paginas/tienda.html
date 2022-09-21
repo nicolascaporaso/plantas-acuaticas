@@ -28,6 +28,7 @@
                 <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="cursos.html"> Cursos </a></li>
                 <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none boton-off" href=""> Tienda </a></li>
                 <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="formulario.html"> Contacto </a></li>
+                <li class="barra__lista__item"><button class="boton" id="open" href="#">Carrito <i class="fa-solid fa-cart-shopping"></i> <span id="contador-carrito"></span> </a></li>
             </ul>
         </nav>
         <div class="portada">
@@ -43,96 +44,20 @@
             </picture>
             <h1 class="portada__titulo">PLANTASACUATICAS.COM.AR</h1>
         </div>
+        <div class="modal-container" id="modal_container">
+            <div class="modal-carrito">
+                    <h3>Carrito de compras</h3>
+                <button id="cerrar">Cerrar</button>
+                <div id="carrito-contenedor"></div>
+                <button id="borrar">BORRAR</button>
+            </div>
+        </div>
     </header>
     <!-- ----------------------------------main------------------------------- -->
     <main class="tienda">
-    <h2 class="tienda__titulo">Bienvenido a nuestra tienda, Podra adquirir variedad en plantas de acuario, de la mejor calidad, y con el envio mas seguro.</h2>
-    <div class="tienda__grid">
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Valisneria</h3>
-            <P class="tienda__grid__card__parrafo">Esta planta, puede reproducirse de dos formas: por flores y estolones. Cuando las condiciones son propicias para la vallisneria, genera flores, cuyos tallos largos llegan a la superficie y emergen. Pero como norma general se reproducirán en el 90% de las veces es mediante estolones.</P>
-            <p class="tienda__grid__card__parrafo">Precio: $250</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/valisneria.jpg" alt="planta valisneria, tallos largos y finos, color verde.">
-            <p class="boton-comprar">Comprar<a class="boton-comprar__link" href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Helecho de java</h3>
-            <P class="tienda__grid__card__parrafo">El helecho de Java es muy fácil de reproducir. Puedes arrancar una parte del rizoma y volver a fijarlo a un objeto del acuario o esperar hasta que la planta madre forme plantas hijas. Las plantas hijas se reconocen por los esquejes que se forman en las puntas de las hojas.</P>
-            <p class="tienda__grid__card__parrafo">Precio: $270</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/helechojava.jpg" alt="helecho de java, hojas medianas, verde oscuro">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Cabomba</h3>
-            <p class="tienda__grid__card__parrafo">La Cabomba caroliniana procede de América Central. Es una planta de tallos que puede alcanzar hasta los 80 cm. En acuarios su desarrollo no será superior a los 30 o 40 cm. Su tallo se presenta largo y fino con hojas también finas repartidas por todo lo largo de su extensión. Sus hojas de color verde intenso la convierten en una planta muy atractiva para el acuario.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $310</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/cabomba.jpg" alt="tallos finos, con mucho follaje, en forma de agujas cortas">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Elodea</h3>
-            <p class="tienda__grid__card__parrafo">Se usa en acuariofilia, para oxigenar estanques y acuarios. Ocupa masas de agua de temperaturas moderadas y limpias, de pH neutro y bien iluminadas. El factor limitante es la temperatura.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $240</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/elodea.jpg" alt="tallos finos, largos, con muchas ramificaciones cortas">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Potus de agua</h3>
-            <p class="tienda__grid__card__parrafo">El potus es una planta tropical que se adapta muy bien al interior de casa y al hidrocultivo. Solo hay que introducir el extremo de un tallo en agua y en pocas semanas comenzará a producir raíces. Poco después, crecerán nuevas hojas y el tallo se irá alargando.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $210</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/potus-en-agua.jpg" alt="planta tipo enredadera, hojas grandes">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Camalote</h3>
-            <p class="tienda__grid__card__parrafo">Al bloquear el paso de la luz, limita el crecimiento de otras plantas acuáticas y algas, además de detener o dificultar la circulación del agua. Reducen la temperatura del agua, toman sus nutrientes y pueden llegar a consumir el oxígeno de la misma.</p>
-            <p class="tienda__grid__card__parrafo">Precio: $230</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/camalote.jpg" alt="planta flotante, esponjosa de hojas grandes y abultadas">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Salvinia natans</h3>
-            <p class="tienda__grid__card__parrafo">pequeñas, flotantes con tallos trepadores, ramificados, pilosos sin ser verdaderas raíces. Las hojas de a 3, con 2 verdes, sésiles o córtamente pecioladas, achatadas, enteras, flotantes, 1 hoja finamente diseccionada, peciolada, parecida a una raíz, y pendiente. Las hojas sumergidas tienen soros que están rodeados por membranas basifijadas indusia </p>            
-            <p class="tienda__grid__card__parrafo">Precio: $330</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/Salvinia.jpg" alt="plantas de hojas pequeñas flotantes,color verde musgo">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Helecho de sumatra</h3>
-            <p class="tienda__grid__card__parrafo">Dada su forma, esta planta es a veces confundida con una planta de otra familia: Hygrophila difformis, conocida comúnmente como “Sinema”. La diferencia principal es que las hojas en C. Thalictroides nacen de la base y aunque algunas de ellas lleguen a parecer tallos en plantas desarrolladas, parecerían varios tallos; mientras que en H.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $360</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/helecho-sumatra.jpg" alt="planta de tallos alargados circulares con hojas planas">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Lirio de agua</h3>
-            <p class="tienda__grid__card__parrafo">es una planta que pertenece a la familia de las Aráceas y es originaria de Sudáfrica, más precisamente de la región del Cabo. Su nombre científico es Zantedeschia aethiopica y, además de los nombres anteriores, en algunos lugares también es conocida como Alcatraz, Aro de Etiopía y Cartucho.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $400</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/liriodeagua.jpg" alt=" calas de agua, hojas anchas, con flor blanca">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Hygrophila polysperma</h3>
-            <p class="tienda__grid__card__parrafo">Está dentro de las plantas de acuario más resistentes y se origina del sudeste asiático. El tallo es de 25-40 cm y 4-8 cm de ancho. Es una planta particularmente buena para los principiantes, ya que crece en casi todas las condiciones. Por lo general, crece tan rápido que es importante realizar podas constantes para que no tape otras plantas.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $285</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/Hygrophilapolysperma.jpeg" alt="tallo largo con hojas chicas en toda su extension, muy rectas.">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Sagitaria subulata</S></h3>
-            <p class="tienda__grid__card__parrafo">Conocida como sagittaria enana es una planta tapizante de crecimiento rápido y fácil mantenimiento. Es similar a las Echinodorus tenellus con hojas mas grandes, pero la sagittaria puede crecer en acuarios con iluminación mas moderada y sin adición de Co2. Definitivamente una planta apta para casi cualquier acuario, permitiendo tapizar todo el frente sin espacios libres.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $350</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/sagitariasubulata.jpg" alt="hojas muy alargadas, verde intenso, con muchas ramificaciones desde su base">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-        <div class="tienda__grid__card">
-            <h3 class="tienda__grid__card__titulo">Nombre: Echinodorus</S></h3>
-            <p class="tienda__grid__card__parrafo">Las Echinodorus forman un grupo de plantas de grandes dimensiones que se emplean para personalizar zonas determinadas del acuario debido a su gran porte. No se colocan formando grupos ya que además de por su tamaño compiten entre ellas por los nutrientes. Por lo general ocupan el plano medio del acuario no empleándose como plantas de fondo a pesar de su porte.</p>            
-            <p class="tienda__grid__card__parrafo">Precio: $450</p>
-            <img class="tienda__grid__card__img" src="../imagenes/tienda/echinodorus.jpg" alt="hojas grandes, que nacen desde la base de la tierra,">
-            <p class="boton-comprar">Comprar<a href=""></a></p>
-        </div>
-    </div>    
+        <h2 class="tienda__titulo">Bienvenido a nuestra tienda, Podra adquirir variedad en plantas de acuario, de la mejor calidad, y con el envio mas seguro.</h2>
+        <div id="tienda__grid" class="tienda__grid">
+        </div>    
     </main>
     <!---------------------------------footer------------------------------------->
     <footer class="footer">
@@ -145,4 +70,9 @@
                 <a class="footer__div__link" href="https://www.youtube.com/channel/UCnwFgyyPMeg50cOfVWx8bPw/featured"><i class="footer__div__link__ico fa-brands fa-youtube-square bg-youtube"></i></a>
         </div>
     </footer>
+    <script src="../js/tienda/stock.js" ></script>
+    <script src="../js/tienda/carrito.js" ></script>
+    <script src="../js/tienda/modal.js" ></script>
+    <script src="../js/tienda/generaweb.js" ></script>
 </body>
+</html>
