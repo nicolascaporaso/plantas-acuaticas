@@ -1,0 +1,33 @@
+.footer{
+    border: $color-negro solid 3px;
+    background-image: url('../imagenes/banner/imagen-principalb.jpg');
+    color: $color-blanco;
+    text-align: center;
+    &__div{
+        background-color: rgba(0, 0, 0, 0.562);
+        width: 100%;
+        &__titulo{
+            padding-top: 1px;
+        }
+        &__link{
+            &__ico{
+            margin: 1.5% 1% 2% 1%;
+            background-color: rgba(8, 0, 0, 0.637);
+            width: auto;
+            &:hover{
+                color: $color-blanco;
+                font-size: 1.5rem;
+            }
+        }
+        } 
+    } 
+}
+// aplica formato, colores segun red social
+@each $name, $value in $mapaDeColores {
+    .bg-#{$name} {
+    border:  $value 1px solid;
+    padding: 5px;
+    color: $value ;
+    font-size: 1rem;
+    }
+}
