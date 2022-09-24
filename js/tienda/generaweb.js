@@ -16,7 +16,14 @@ const mostrarProductos = (productos) => {
 
         const boton = document.getElementById( `boton${producto.id}` );
         boton.addEventListener('click', ()=> {
-            alert(`Se agrego el producto ${producto.nombre}`);
+            Swal.fire({
+                position: 'center',
+                icon: 'success',
+                title: `Se agrego el producto ${producto.nombre}`,
+                showConfirmButton: false,
+                timer: 1500
+            });
+
             noDuplicarCarrito(producto.id);
         });
 
