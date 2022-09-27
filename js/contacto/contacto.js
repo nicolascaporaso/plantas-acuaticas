@@ -1,11 +1,8 @@
 
-
 const btn = document.getElementById('envio_formulario');
-
 document.getElementById('form')
 .addEventListener('submit', function(event) {
 event.preventDefault();
-
 envio_formulario.value = 'Enviando...';
 
 const serviceID = 'service_miw8f0g';
@@ -34,24 +31,27 @@ emailjs.sendForm(serviceID, templateID, this)
 });
 
 
+let nombre = document.getElementById("nombre");
+let telefono = document.getElementById("telefono");
+let consulta = document.getElementById("consulta");
+let mail = document.getElementById("mail");
 
+nombre.addEventListener('blur', (event) => {
+    nombre.value !="" ? nombre.style.backgroundColor = "green": nombre.style.backgroundColor = "red";
+    campo = event.target;
+    nombregx =/[^0-9-.%+]{1,12}/;
+    (nombregx.test(campo.value)) ? nombre.style.backgroundColor = "green": nombre.style.backgroundColor = "red";
+});
 
-// const enviarFormulario = document.getElementById("envio_formulario");
+mail.addEventListener('blur', (event) => {
+    campo = event.target;
+    emailRegex = /^[-\w.%+]{1,64}@(?:[A-Z0-9-]{1,63}\.){1,125}[A-Z]{2,63}$/i;
+    //condicion ternaria si no es mail valido
+    (emailRegex.test(campo.value)) ? mail.style.backgroundColor = "green": mail.style.backgroundColor = "red";
+});
 
-// enviarFormulario.addEventListener("click", ()=>{
-
-//     let nombre = document.getElementById("campo-nombre");
-//     let correo = document.getElementById("campo-mail");
-//     let telefono = document.getElementById("telefono");
-//     let newsletter = document.getElementById("newsletter"); 
-//     let pais = document.getElementById("campo-pais");
-//     let consulta = document.getElementById("consulta");
-
-    
-    
-
-
-
-
-
-
+telefono.addEventListener('blur', (event) => {
+    campo = event.target; 
+    telRegex =/\d\d\d-\d\d-\d\d\d\d-\d\d\d\d\b/;
+    (telRegex.test(campo.value)) ? telefono.style.backgroundColor = "green": telefono.style.backgroundColor = "red";
+});

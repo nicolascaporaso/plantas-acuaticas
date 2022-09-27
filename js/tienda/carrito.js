@@ -88,8 +88,8 @@ let noDuplicarCarrito = (idCantidad) =>{
 let borraItem = () => {
 const collection = document.getElementsByClassName("boton-eliminar");
 for (let i = 0; i < collection.length; i++) {
-    collection[i].style.backgroundColor = "red";
     let botonBorrar = document.getElementById(collection[i].id);
+    collection[i].style.backgroundColor = "red";
     botonBorrar.addEventListener('click', ()=> {
         let numero = collection[i].id
         numero = numero.slice(8); 
