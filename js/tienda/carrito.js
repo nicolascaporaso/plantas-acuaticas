@@ -3,8 +3,14 @@ let carritoDeCompras = []
 window.addEventListener('DOMContentLoaded', () => {
     if (localStorage.getItem('carritoDeCompras')){
         carritoDeCompras = JSON.parse(localStorage.getItem('carritoDeCompras'));
-        console.log(carritoDeCompras);
         llenarCarrito(carritoDeCompras);
+        Swal.fire({
+            position: 'center',
+            icon: 'info',
+            title: `Continue con su compra, Tiene plantas en su carrito.`,
+            showConfirmButton: false,
+            timer: 1500
+        });
         }
 });
 
@@ -39,6 +45,7 @@ let vaciar = () =>{
     //guardamos en Local Storage el Carrito
     localStorage.setItem('carritoDeCompras',JSON.stringify(carritoDeCompras));
     location.reload();
+    localStorage.clear();
 }
 
 // funcion para modificar la cantidad de productos en el carrito
@@ -86,18 +93,27 @@ let noDuplicarCarrito = (idCantidad) =>{
 
 
 let borraItem = () => {
+    console.log(carritoDeCompras);
 const collection = document.getElementsByClassName("boton-eliminar");
 for (let i = 0; i < collection.length; i++) {
     let botonBorrar = document.getElementById(collection[i].id);
     collection[i].style.backgroundColor = "red";
     botonBorrar.addEventListener('click', ()=> {
-        let numero = collection[i].id
+        let numero = collection[i].id;
+        console.log(numero);
+        let borraI= document.getElementById(numero);
+        console.log(borraI);
+        borraI = borraI.parentNode
+        console.log(borraI);
+        borraI.parentNode.removeChild(borraI);
         numero = numero.slice(8); 
         let item = carritoDeCompras.findIndex((product) => product.id === parseInt(numero));
         carritoDeCompras.splice(item,1);
-        console.log(carritoDeCompras);
+        if (carritoDeCompras.length=="0"){
+            localStorage.clear();
+        }else{
         localStorage.setItem('carritoDeCompras',JSON.stringify(carritoDeCompras));
-        location.reload();
+        }
     });
 }
 }
