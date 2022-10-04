@@ -1,3 +1,13 @@
+const misProductos =('../data.json');
+const productos =[];
+
+
+fetch (misProductos)
+.then((response) => response.json())
+.then (productos => {
+    console.log(productos);
+    mostrarProductos(productos);
+});
 
 const mostrarProductos = (productos) => {
     const contenedorProductos = document.getElementById("tienda__grid");
@@ -23,12 +33,9 @@ const mostrarProductos = (productos) => {
                 showConfirmButton: false,
                 timer: 1500
             });
-
             noDuplicarCarrito(producto.id);
         });
 
     });
 
 }
-
-mostrarProductos(productos);

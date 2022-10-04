@@ -15,15 +15,15 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 
 const carritoIndex = (productoId)=>{
-
+ console.log(productos);
     const contenedorCarrito = document.getElementById("carrito-contenedor");
 
     const llenarProductosCarrito = ()=> {
-        let producto  = productos.find( producto => producto.id == productoId );
+        let producto = productos.find( producto => producto.id == productoId );
         carritoDeCompras.push(producto);
         console.log(carritoDeCompras);
 
-        producto.cantidad = 1
+        producto.cantidad = 1;
 
         let div = document.createElement("div")
         div.classList.add("productoEnCarrito")

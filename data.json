@@ -1,0 +1,19 @@
+[
+    {"id":"1", "nombre":" Valisneria", "descripcion":"Esta planta, puede reproducirse de dos formas: por flores y estolones. Cuando las condiciones son propicias para la vallisneria, genera flores, cuyos tallos largos llegan a la superficie y emergen. Pero como norma general se reproducirán en el 90% de las veces es mediante estolones.", "precio": "250", "img":"../imagenes/tienda/valisneria.jpg", "cantidad":"1"},
+    {
+        "id":"2",
+        "nombre":" Helecho de java",
+        "descripcion":"El helecho de Java es muy fácil de reproducir. Puedes arrancar una parte del rizoma y volver a fijarlo a un objeto del acuario o esperar hasta que la planta madre forme plantas hijas. Las plantas hijas se reconocen por los esquejes que se forman en las puntas de las hojas.",
+        "precio":"270",
+        "img":"../imagenes/tienda/helechojava.jpg",
+        "cantidad":"1"
+    },
+    {
+        "id":"3",
+        "nombre":"Cabomba",
+        "descripcion":"La Cabomba caroliniana procede de América Central. Es una planta de tallos que puede alcanzar hasta los 80 cm. En acuarios su desarrollo no será superior a los 30 o 40 cm. Su tallo se presenta largo y fino con hojas también finas repartidas por todo lo largo de su extensión. Sus hojas de color verde intenso la convierten en una planta muy atractiva para el acuario.",
+        "precio":"310",
+        "img":"../imagenes/tienda/cabomba.jpg",
+        "cantidad":"1"
+    }
+]
