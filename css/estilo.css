@@ -109,7 +109,7 @@ body {
   width: 100%;
   padding: 5px;
   border: solid 1px #00060a;
-  text-shadow: 3px 4px 3px #3a3b38;
+  text-shadow: 3px 4px 3px rgba(79, 85, 68, 0.631372549);
 }
 @media screen and (min-width: 980px) {
   .barra__lista__item__link {
@@ -423,7 +423,7 @@ body {
   color: rgba(171, 189, 70, 0.514);
 }
 .boton-off {
-  color: #3a3b38;
+  color: rgba(79, 85, 68, 0.631372549);
 }
 
 .boton-off:hover {
@@ -431,7 +431,7 @@ body {
 }
 
 .texto-calesita {
-  box-shadow: 30px 20px 10px #3a3b38;
+  box-shadow: 30px 20px 10px rgba(79, 85, 68, 0.631372549);
 }
 .texto-calesita p {
   background-color: rgba(0, 0, 0, 0.466);
@@ -479,7 +479,7 @@ body {
   height: 400px;
   background-size: cover;
   margin: 8px;
-  box-shadow: 20px 20px 20px #3a3b38;
+  box-shadow: 20px 20px 20px rgba(79, 85, 68, 0.631372549);
 }
 .grilla div:hover {
   transform: scale(120%);
@@ -614,7 +614,7 @@ body {
   margin-bottom: 50px;
 }
 .tienda__grid {
-  background-color: rgba(62, 68, 50, 0.2470588235);
+  background-color: rgba(225, 247, 238, 0.226);
 }
 @media screen and (min-width: 768px) {
   .tienda__grid {
@@ -659,6 +659,94 @@ body {
   margin-top: 20;
   border: 2px solid #00060a;
   margin-bottom: 50px;
+}
+
+/* Modal */
+.modal-container {
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  background-color: transparent;
+  width: 100%;
+  height: 100vh;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+  border-radius: 10px;
+  z-index: 100;
+}
+
+/* hacer visible el modal  */
+.modal-active {
+  opacity: 1;
+  visibility: visible;
+  z-index: 50;
+}
+
+.modal-carrito {
+  width: 90%;
+  max-width: 400px;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 10px;
+  padding-bottom: 3%;
+  overflow-y: auto;
+  position: relative;
+  transform: var(--transform);
+  transition: var(--transition);
+  text-align: center;
+}
+
+.productoEnCarrito {
+  border-left: 5px solid lightblue;
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+  margin: 5px 0;
+  padding: 5px 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.boton-eliminar {
+  background-color: white;
+  color: rgb(18, 18, 19);
+  border: none;
+  font-size: 20px;
+}
+
+.cantidadoculta-carrito {
+  display: none;
+}
+
+.posicion {
+  position: absolute;
+  top: 1%;
+  left: -17%;
+  color: rgb(7, 0, 0);
+  border: 1px solid rgb(5, 0, 0);
+  font-size: 2rem;
+  padding: 1px;
+  background-color: aliceblue;
+  height: 50px;
+  width: 50px;
+  text-align: justify;
+  background-image: url("../../imagenes/tienda/carrito.png");
+  background-size: 50px;
+}
+
+.position {
+  position: relative;
+  width: 310px;
+  height: 310px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carrito {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 /*# sourceMappingURL=estilo.css.map */
