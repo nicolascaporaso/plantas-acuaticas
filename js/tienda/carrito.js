@@ -1,7 +1,7 @@
 let carritoDeCompras = [];
 
 //carga de datos del local storage
-window.addEventListener('DOMContentLoaded', () => {
+const cargaDataStorage = () => {
     if (localStorage.getItem('carritoDeCompras')) {
         carritoDeCompras = JSON.parse(localStorage.getItem('carritoDeCompras'));
         llenarCarrito(carritoDeCompras);
@@ -24,7 +24,7 @@ window.addEventListener('DOMContentLoaded', () => {
             });
         }
     }
-});
+}
 
 //llenado de modal con productos agregados por usuario
 const carritoIndex = (productoId) => {
@@ -81,6 +81,7 @@ const llenarCarrito = (carrito) => {
         <button id="eliminar${producto.id}" class="boton-eliminar" ><i class="fa-solid fa-trash-can"></i></button>`;
         contenedorCarrito.appendChild(div);
         borraItem(producto.id);
+        poneCantCarrito(producto.id, producto.cantidad);
     })
 };
 

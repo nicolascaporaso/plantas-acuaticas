@@ -8,6 +8,7 @@ const getProductosAsync = async () => {
         const trae = await fetch(misProductos)
         productos = await trae.json()
         mostrarProductos(productos);
+        cargaDataStorage();
     } catch (error) {
         Swal.fire({
             position: 'center',
@@ -19,7 +20,10 @@ const getProductosAsync = async () => {
     }
 }
 
+
+window.addEventListener('DOMContentLoaded', () => {
 getProductosAsync();
+});
 
 //genera listado de productos en tienda html
 const mostrarProductos = (productos) => {
