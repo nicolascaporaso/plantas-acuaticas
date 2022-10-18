@@ -688,12 +688,13 @@ body {
   margin: auto;
   background-color: #fff;
   border-radius: 6px;
-  padding: 1rem;
+  padding: 10px;
   padding-bottom: 3%;
   overflow-y: auto;
   position: relative;
   transform: var(--transform);
   transition: var(--transition);
+  text-align: center;
 }
 
 .productoEnCarrito {
@@ -720,15 +721,17 @@ body {
 .posicion {
   position: absolute;
   top: 1%;
-  right: 1%;
-  color: red;
-  border: 3px solid white;
-  border-radius: 50%;
+  left: -17%;
+  color: rgb(7, 0, 0);
+  border: 1px solid rgb(5, 0, 0);
+  font-size: 2rem;
   padding: 1px;
   background-color: aliceblue;
-  height: 30px;
-  width: 30px;
-  text-align: center;
+  height: 50px;
+  width: 50px;
+  text-align: justify;
+  background-image: url("../../imagenes/tienda/carrito.png");
+  background-size: 50px;
 }
 
 .position {
@@ -737,6 +740,13 @@ body {
   height: 310px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.carrito {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 /*# sourceMappingURL=estilo.css.map */

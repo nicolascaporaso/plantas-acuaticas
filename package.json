@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "version migracion a sass",
     "main": "index.js",
-    "scripts": { 
+    "scripts": {
         "compile:sass": "sass --watch ./scss/main.scss ./css/estilo.css",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/nicolascaporaso/plantas-acuaticas/issues"
     },
-    "homepage": "https://github.com/nicolascaporaso/plantas-acuaticas#readme"
+    "homepage": "https://github.com/nicolascaporaso/plantas-acuaticas#readme",
+    "dependencies": {
+        "mercadopago": "^1.5.14"
+    }
 }

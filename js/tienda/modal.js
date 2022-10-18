@@ -3,24 +3,39 @@ const abrirCarrito = document.getElementById("open")
 const cerrarCarrito = document.getElementById("cerrar")
 const modalCarrito = document.querySelector(".modal-carrito")
 const vaciarCarro = document.getElementById('borrar');
+const compra = document.getElementById('comprar');
 
-abrirCarrito.addEventListener("click", ()=>{
-    modalContendor.classList.toggle("modal-active")
-    borraItem();
-} )
-
-cerrarCarrito.addEventListener("click", ()=>{
-    modalContendor.classList.remove("modal-active")
+abrirCarrito.addEventListener("click", () => {
+    if (carritoDeCompras.length != "0") {
+        modalContendor.classList.toggle("modal-active");
+        sumaTotal();
+    } else {
+        Swal.fire({
+            position: 'center',
+            icon: 'info',
+            title: `TU CARRITO AUN ESTA VACIO`,
+            showConfirmButton: false,
+            timer: 2500
+        });
+    }
 })
 
-modalContendor.addEventListener("click", ()=>{
-    cerrarCarrito.click()
+compra.addEventListener('click', () => {
+    pagar();
+});
+
+cerrarCarrito.addEventListener("click", () => {
+    modalContendor.classList.remove("modal-active");
 })
 
-modalCarrito.addEventListener("click", (e)=>{
-    e.stopPropagation()
+modalContendor.addEventListener("click", () => {
+    cerrarCarrito.click();
 })
 
-vaciarCarro.addEventListener('click', ()=>{
+modalCarrito.addEventListener("click", (e) => {
+    e.stopPropagation();
+})
+
+vaciarCarro.addEventListener('click', () => {
     vaciar();
 });

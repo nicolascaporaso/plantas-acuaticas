@@ -1,14 +1,27 @@
-const misProductos =('../data.json');
-const productos =[];
 
+const misProductos = ('../data.json');
+let productos = [];
 
-fetch (misProductos)
-.then((response) => response.json())
-.then (productos => {
-    console.log(productos);
-    mostrarProductos(productos);
-});
+//funcion asincronica para traer datos del data json
+const getProductosAsync = async () => {
+    try {
+        const trae = await fetch(misProductos)
+        productos = await trae.json()
+        mostrarProductos(productos);
+    } catch (error) {
+        Swal.fire({
+            position: 'center',
+            icon: 'success',
+            title: `se produjo un error ${error}`,
+            showConfirmButton: false,
+            timer: 1500
+        });
+    }
+}
 
+getProductosAsync();
+
+//genera listado de productos en tienda html
 const mostrarProductos = (productos) => {
     const contenedorProductos = document.getElementById("tienda__grid");
 
@@ -20,12 +33,12 @@ const mostrarProductos = (productos) => {
         <p class="tienda__grid__card__parrafo">Precio: $${producto.precio}</p>
         <div class="position"><p class="tienda__grid__card__parrafo cantidadoculta-carrito posicion" id="compro${producto.id}">cantidad: </p>
         <img class="tienda__grid__card__img" src="${producto.img}" alt="planta acuatica"></div>
-        <p class="boton-comprar" id=boton${producto.id}>Comprar<a href=""></a></p>`
+        <p class="boton-comprar" id=boton${producto.id}>Agregar<a href=""></a></p>`
 
         contenedorProductos.appendChild(div);
 
-        const boton = document.getElementById( `boton${producto.id}` );
-        boton.addEventListener('click', ()=> {
+        const boton = document.getElementById(`boton${producto.id}`);
+        boton.addEventListener('click', () => {
             Swal.fire({
                 position: 'center',
                 icon: 'success',
@@ -35,7 +48,6 @@ const mostrarProductos = (productos) => {
             });
             noDuplicarCarrito(producto.id);
         });
-
     });
-
 }
+
