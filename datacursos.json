@@ -1,0 +1,87 @@
+[
+    {
+        "id":"1",
+        "titulo":"Como Tapizar un acuario",
+        "descripcion":"Tapizar un acuario consiste en lograr una capa uniforme de plantas bajas, que le den la apariencia de alfombrado, para ellos se utilizan pinzas muy largas. <br>La forma más fácil de plantar en el acuario es con el nivel de agua a tan sólo unos pocos centímetros sobre el sustrato. Muchos acuaristas tradicionalmente plantan cuando el acuario está lleno, pero de esta manera es mas difícil orientarse dentro del agua y plantar correctamente en la grava. Además, es probable que al hacerlo de esta forma, se remueva el sustrato y se enturbie el agua.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/9TmUrrpHRs8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"2",
+        "titulo":" Que es el sustrato",
+        "descripcion":"Antes de nada, es importante que definamos bien a qué nos referimos cuando decimos sustrato. En el mundo botánico y agricultor, un sustrato es la superficie en la que una planta vive, siempre con todos los nutrientes necesarios a su alcance para que pueda crecer fuerte y sana.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/F8Uz-r1_sKk' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"3",
+        "titulo":"Que troncos se pueden usar",
+        "descripcion":"Las raíces y troncos juegan un papel fundamental como esqueleto o estructura base de un acuario plantado, marcando el diseño o esencia de éste, y creando una decoración natural para la pecera que será difícil de superar con adornos artificiales. <br>Además, los troncos de acuario crean toda una serie de escondrijos y recovecos en los que los peces se sentirán como en casa.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/oTNHgeuDJig' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"4",
+        "titulo":"Consejos de decoracion",
+        "descripcion":"Tenemos que recordar que la función de un acuario es recrear el hábitat natural de los peces y plantas para garantizar su salud y bienestar. Además de esta función, decorar un acuario es una forma muy entretenida de dotar de belleza y vida al acuario, y en definitiva, a tu hogar. <br>La decoración de un acuario puede llegar a ser un arte, pero para ello debemos elegir muy bien los elementos decorativos -aconsejamos que siempre sean materiales naturales- que formarán parte de él.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/W5Jv14gLW5o' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"5",
+        "titulo":"Como cuidar las plantas",
+        "descripcion":"Para evitar que se pudran, y que en consecuencia deterioren la calidad del agua del estanque, el tonel o la charca, se deben podar las hojas, las ramas y las flores. También es recomendable extender una tela metálica sobre el estanque si las plantas acuáticas están cerca de árboles de hoja caduca.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/rySSzhmFVyE' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"6",
+        "titulo":"Como armar un paludario",
+        "descripcion":"Un Paludario, también llamado Acuaterrario o acuario con cascada, es la fusión de un acuario con un terrario. Pudiendo mantener plantas tanto dentro como fuera del agua.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto'src='https://www.youtube.com/embed/HMJPaPjJyFM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"7",
+        "titulo":"Como hacer una cascada de arena",
+        "descripcion":"se trata de un fenómeno natural provocado por repentinas inundaciones en la zona, las cuales habrían formado una mezcla de arena, granizo y otros materiales pesados, dando forma a un torrente que se desplaza a gran velocidad.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto'src='https://www.youtube.com/embed/iCVkQxdOq5Y' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"8",
+        "titulo":"Efecto neblina en paludario",
+        "descripcion":"Se utilizan aparatos especiles, o se usan nebulizadores de formas casera para crear la neblina, tener en cuenta no usar agua del acuario, ya que se estaran liberando bacterias en el aire.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/R4zffZj8XfA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"9",
+        "titulo":"Como hacer un sistema de lluvia para acuarios",
+        "descripcion":"Los sistemas de lluvias para terrarios proporcionan una agradable humedad y frescor en el ambiente del terrario. Algo que es necesario para el completo desarrollo de los reptiles y para hacer que se sientan de la mejor forma posible.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/h4gf8thVXmA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"10",
+        "titulo":"Paludario con 2 cascadas y neblina",
+        "descripcion":"Excelente video que explica el funcionamiento basico de las bombas y los generadores de neblina, se debe tener en cuenta los espacios para estos equipos y como camuflarlos dentro del acuario.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto'src='https://www.youtube.com/embed/OZIiGZD3AQ0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"11",
+        "titulo":"ACUARIO de AGUAS NEGRAS con PECES SALVAJES",
+        "descripcion":"un biotopo que la mayoría de los acuaristas ya han visto a través de fotos en nuestro grupo o en la web pero pocos han intentado reproducirlo. Las plantaciones de agua oscura y una alfombra de hojas en el fondo no están realmente al alcance de todos. Pero todos estos elementos juntos pueden ayudarte a recrear una verdadera sección transversal de la naturaleza de si se insertan correctamente. Un acuario con aguas tan oscuras donde la mayoría de las plantas no pueden prosperar y los peces son virtualmente invisibles puede parecer absurdo para algunos. Sin embargo, puede haber muchas buenas razones para invertir tiempo y dinero en un biotopo de aguas negras . La mayoría de los acuaristas experimentados sabrán que muchos peces de acuario habitan en realidad en aguas oscuras blandas y ácidas en la naturaleza . Intentar recrear estos hábitats puede ser un proyecto muy divertido y desafiante.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/V1cBkthloIU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"12",
+        "titulo":"Hardscaping y selección de plantas",
+        "descripcion":"Es el diseño básico de un paisaje acuático compuesto por rocas, troncos, madera, grava, arena… Un buen hardscape es la base del aquascaping o bien sólo podemos hacer un acuario con este tipo de diseño, considerado un diseño minimalista.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/NnAJwffr0V4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"13",
+        "titulo":"Guía básica para mantener acuarios plantados, CO2",
+        "descripcion":"El CO2 (Dióxido de carbono o anhídrido carbónico) es una pieza fundamental en un acuario plantado. Su presencia incidirá directamente sobre la salud de tus plantas. Este tema es muy interesante y muy demandado por los aficionados tanto a los acuarios como al aquascaping en general.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/fEK32TzzO6A' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"14",
+        "titulo":"Balance entre fosfatos, nitratos y nitrato potasico los claves de un acuario perfecto",
+        "descripcion":"Si hay un pequeño exceso de potasio en el acuario lo único que vamos a notar es que los brotes nuevos crecen más delgados y retorcidos, y además tienen a amarillear. Notarás que las hojas se arrugan como un pergamino. No influirá en el bienestar de peces, gambas y caracoles. Tampoco favorece la proliferación de algas.",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/IFEeNcV-sgA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    }
+    
+]
