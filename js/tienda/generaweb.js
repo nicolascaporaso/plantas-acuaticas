@@ -34,8 +34,7 @@ const mostrarProductos = (productos) => {
         <p class="tienda__grid__card__parrafo">${producto.descripcion}</p>            
         <p class="tienda__grid__card__parrafo">Precio: $${producto.precio}</p>
         <div class="position"><p class="tienda__grid__card__parrafo cantidadoculta-carrito posicion" id="compro${producto.id}">cantidad: </p>
-        <img class="tienda__grid__card__img" src="${producto.img}" alt="planta acuatica"></div>
-        <p class="boton-comprar" id=boton${producto.id}>Agregar<a href=""></a></p>`
+        <img class="tienda__grid__card__img" src="${producto.img}" alt="planta acuatica"></div>`
 
         contenedorProductos.appendChild(div);
 
