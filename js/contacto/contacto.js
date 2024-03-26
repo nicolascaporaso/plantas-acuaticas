@@ -5,6 +5,7 @@ document.getElementById('form')
         event.preventDefault();
         envio_formulario.value = 'Enviando...';
 
+        //meter esto en variable de entorno
         const serviceID = 'service_d352wkh';
         const templateID = 'template_g50ajmg';
 
@@ -22,7 +23,7 @@ document.getElementById('form')
                 envio_formulario.value = 'Error';
                 Swal.fire({
                     position: 'center',
-                    icon: 'success',
+                    icon: 'error',
                     title: "hubo un error al intentar enviar el formulario",
                     showConfirmButton: false,
                     timer: 1500
