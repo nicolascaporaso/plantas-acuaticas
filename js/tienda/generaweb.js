@@ -1,31 +1,30 @@
-
 const misProductos = ('../data.json');
 let productos = [];
 
-//funcion asincronica para traer datos del data json
+// Función asincrónica para traer datos del archivo JSON
 const getProductosAsync = async () => {
     try {
-        const trae = await fetch(misProductos)
-        productos = await trae.json()
+        const trae = await fetch(misProductos);
+        productos = await trae.json();
         mostrarProductos(productos);
         cargaDataStorage();
     } catch (error) {
         Swal.fire({
             position: 'center',
             icon: 'success',
-            title: `se produjo un error ${error}`,
+            title: `Se produjo un error: ${error}`,
             showConfirmButton: false,
             timer: 1500
         });
     }
 }
 
-
+// Se ejecuta cuando el contenido del DOM ha sido cargado
 window.addEventListener('DOMContentLoaded', () => {
-getProductosAsync();
+    getProductosAsync();
 });
 
-//genera listado de productos en tienda html
+// Genera listado de productos en tienda HTML
 const mostrarProductos = (productos) => {
     const contenedorProductos = document.getElementById("tienda__grid");
 
@@ -46,7 +45,7 @@ const mostrarProductos = (productos) => {
             Swal.fire({
                 position: 'center',
                 icon: 'success',
-                title: `Se agrego el producto ${producto.nombre}`,
+                title: `Se agregó el producto ${producto.nombre}`,
                 showConfirmButton: false,
                 timer: 1500
             });
@@ -54,4 +53,3 @@ const mostrarProductos = (productos) => {
         });
     });
 }
-
