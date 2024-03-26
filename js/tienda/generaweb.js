@@ -7,7 +7,6 @@ const getProductosAsync = async () => {
         const trae = await fetch(misProductos);
         productos = await trae.json();
         mostrarProductos(productos);
-        cargaDataStorage();
     } catch (error) {
         Swal.fire({
             position: 'center',
@@ -40,16 +39,5 @@ const mostrarProductos = (productos) => {
 
         contenedorProductos.appendChild(div);
 
-        const boton = document.getElementById(`boton${producto.id}`);
-        boton.addEventListener('click', () => {
-            Swal.fire({
-                position: 'center',
-                icon: 'success',
-                title: `Se agregó el producto ${producto.nombre}`,
-                showConfirmButton: false,
-                timer: 1500
-            });
-            noDuplicarCarrito(producto.id);
-        });
     });
 }
