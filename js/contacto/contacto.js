@@ -5,7 +5,7 @@ document.getElementById('form')
         event.preventDefault();
         envio_formulario.value = 'Enviando...';
 
-        const serviceID = 'service_miw8f0g';
+        const serviceID = 'service_d352wkh';
         const templateID = 'template_g50ajmg';
 
         emailjs.sendForm(serviceID, templateID, this)
