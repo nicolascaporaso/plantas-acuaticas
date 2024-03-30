@@ -85,6 +85,12 @@
     },
     {
         "id":"15",
+        "titulo":"Cómo tener un acuario saludable con MÍNIMOS CAMBIOS DE AGUA",
+        "descripcion":"Aunque un buen cambio de agua siempre es necesario para reestablecer el balance del ecosistema, utilizando determinados métodos de filtración podemos ahorrarnos realizar estos cambios tan seguido, permitiéndonos disfrutar de un acuario estable y saludable, minimizando el esfuerzo y el gasto de agua. ",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/wV99xIQ-xR0?si=zU1KKB8y7VuJT55I' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"16",
         "titulo":"Balance entre fosfatos, nitratos y nitrato potasico los claves de un acuario perfecto",
         "descripcion":"Si hay un pequeño exceso de potasio en el acuario lo único que vamos a notar es que los brotes nuevos crecen más delgados y retorcidos, y además tienen a amarillear. Notarás que las hojas se arrugan como un pergamino. No influirá en el bienestar de peces, gambas y caracoles. Tampoco favorece la proliferación de algas.",
         "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/IFEeNcV-sgA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
