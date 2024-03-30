@@ -79,6 +79,12 @@
     },
     {
         "id":"14",
+        "titulo":"De Principiante a Experto: Secretos para un Acuario Exuberante!!",
+        "descripcion":"Descubre los secretos para crear un acuario plantado exuberante y vibrante. Desde la selección de plantas adecuadas hasta el equilibrio perfecto de iluminación, fertilización y circulación del agua, este video te guiará paso a paso para transformar tu acuario en un paraíso acuático. ",
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/H2Iop4W7iM0?si=d_tF083fFltMMmVp' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    },
+    {
+        "id":"15",
         "titulo":"Balance entre fosfatos, nitratos y nitrato potasico los claves de un acuario perfecto",
         "descripcion":"Si hay un pequeño exceso de potasio en el acuario lo único que vamos a notar es que los brotes nuevos crecen más delgados y retorcidos, y además tienen a amarillear. Notarás que las hojas se arrugan como un pergamino. No influirá en el bienestar de peces, gambas y caracoles. Tampoco favorece la proliferación de algas.",
         "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/IFEeNcV-sgA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
