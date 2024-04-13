@@ -6,27 +6,27 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://plantasacuaticas.com.ar/cursos</loc>
+        <loc>http://plantasacuaticas.com.ar/paginas/cursos</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://plantasacuaticas.com.ar/formulario</loc>
+        <loc>http://plantasacuaticas.com.ar/paginas/formulario</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://plantasacuaticas.com.ar/galeria</loc>
+        <loc>http://plantasacuaticas.com.ar/paginas/galeria</loc>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://plantasacuaticas.com.ar/plantas</loc>
+        <loc>http://plantasacuaticas.com.ar/paginas/plantas</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://plantasacuaticas.com.ar/tienda</loc>
+        <loc>http://plantasacuaticas.com.ar/paginas/tienda</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
