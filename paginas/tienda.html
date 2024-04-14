@@ -1,76 +1,70 @@
-<!DOCTYPE html>
-<html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="venta de plantas online, las mejores plantas de internet, al mejor precio.">
-        <meta name="keywords" content=", tienda online, venta de plantas, cactus, suculentas, plantas carnivoras, plantas acuaticas, acuarios, cursos, acuaticas de ribera, acuaticas flotantes, acuaticas oxigenadoras">
-        <meta name="author" content="nicolas caporaso">
-        <title>Tienda Online</title>
-        <!-- link a iconos  -->
-        <script src="https://kit.fontawesome.com/eff7621339.js" crossorigin="anonymous"></script>
-        <!-- hoja de estilos -->
-        <link href="../css/estilo.css" rel="stylesheet" type="text/css">
-        <!-- fuentes -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet"> 
-    </head>
-<!-- --------------------         navbar          ------------------------- -->
+<!doctype html>
+<html lang=es>
+<head>
+<meta charset=UTF-8>
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta name=description content="venta de plantas online, las mejores plantas de internet, al mejor precio.">
+<meta name=keywords content=", tienda online, venta de plantas, cactus, suculentas, plantas carnivoras, plantas acuaticas, acuarios, cursos, acuaticas de ribera, acuaticas flotantes, acuaticas oxigenadoras">
+<meta name=author content="nicolas caporaso">
+<title>Tienda Online</title>
+<script src=https://kit.fontawesome.com/eff7621339.js crossorigin=anonymous></script>
+<link href=../css/estilo.css rel=stylesheet>
+<link rel=preconnect href=https://fonts.googleapis.com>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel=stylesheet>
+</head>
 <body>
-    <header>
-        <nav class="barra">
-            <ul class="barra__lista pl-0 m-0">
-                <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="https://topedegama28.mercadoshops.com.ar/"> Tienda </a></li>
-                <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="../index.html"> <i class="fa-solid fa-house-chimney"></i></a></li>
-                <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="tienda.html"> Plantas Acuaticas  </a></li>
-                <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="plantas.html"> Plantas Terrestres </a></li>
-                <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="galeria.html"> Galeria de Acuarios </a></li>
-                <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="cursos.html"> Cursos </a></li>
-                <li class="barra__lista__item"><a class="barra__lista__item__link text-decoration-none" href="./formulario.html"> Contacto </a></li>
-            </ul>
-        </nav>
-        <div class="portada">
-            <picture class="portada__picture">
-                <source class="portada__picture__source" srcset="../imagenes/banner/imagen-principalb.jpg" media="(min-width: 2685px)">
-                <source class="portada__picture__source" srcset="../imagenes/banner/imagen-principalb.jpg" media="(min-width: 1920px)">
-                <source class="portada__picture__source" srcset="../imagenes/banner/imagen-principalb.jpg" media="(min-width: 1320px)">
-                <source class="portada__picture__source" srcset="../imagenes/banner/imagen-principalb.jpg" media="(min-width: 1025px)">
-                <source class="portada__picture__source" srcset="../imagenes/banner/imagen-principalb.jpg" media="(min-width: 980px)">
-                <source class="portada__picture__source" srcset="../imagenes/banner/imagen-principalb.jpg" media="(min-width: 768px)">
-                <source class="portada__picture__source" srcset="../imagenes/banner/imagen-principalb.jpg" media="(min-width: 450px)">
-                <img class="portada__picture__imagen" src="../imagenes/banner/imagen-principalb.jpg" alt="fuente de agua al aire libre con plantas acuaticas flotantes">
-            </picture>
-            <h1 class="portada__titulo">PLANTASACUATICAS.COM.AR</h1>
-        </div>
-        <div class="modal-container" id="modal_container">
-            <div class="modal-carrito">
-                    <h3>Carrito de compras</h3>
-                <div id="carrito-contenedor"></div>
-                <p id="total"></p>
-                <button id="borrar" class="carrito">Vaciar</button>
-                <button id="cerrar" class="carrito">Cerrar</button>
-                <button id="comprar" class="carrito">Comprar</button>
-            </div>
-        </div>
-    </header>
-    <!-- ----------------------------------main------------------------------- -->
-    <main class="tienda">
-        <h2 class="tienda__titulo">Explora nuestro completo listado de plantas acuáticas: encuentra aquí una breve pero informativa guía sobre cada especie, diseñada para ayudarte a elegir las plantas perfectas para tu acuario. Desde las exuberantes hasta las de bajo mantenimiento, nuestra selección te brinda una visión detallada de cada planta, facilitando tu decisión de compra. Descubre cómo transformar tu acuario en un oasis de belleza natural con nuestras recomendaciones. ¡Encuentra la inspiración que necesitas y lleva a casa tus favoritas hoy mismo desde nuestra tienda online!</h2>
-        <div id="tienda__grid" class="tienda__grid">
-        </div>    
-    </main>
-    <!---------------------------------footer------------------------------------->
-    <footer class="footer">
-        <div class="footer__div">
-                <h4 class="footer__div__titulo">Para estar al dia de nuestras novedades, visita nuestras redes sociales.</h4>
-                <a class="footer__div__link" href="https://facebook.com/todosy"><i class="footer__div__link__ico fa-brands fa-facebook-square bg-facebook"></i></a>
-                <a class="footer__div__link" href="https://api.whatsapp.com/send?phone=+549113841&text=dejame%20tu%20mensaje%20de%20plantasacuaticas"><i class="footer__div__link__ico fa-brands fa-whatsapp-square bg-whatssap"></i></a>
-                <a class="footer__div__link" href="https://www.instagram.com/plantasacuaticas.com.ar/"><i class="footer__div__link__ico fa-brands fa-instagram-square bg-instagram"></i></a>
-        </div>
-    </footer>
-    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="../js/tienda/generaweb.js" ></script>
+<header>
+<nav class=barra>
+<ul class="barra__lista pl-0 m-0">
+<li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=https://topedegama28.mercadoshops.com.ar/ > Tienda </a></li>
+<li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=../index.html> <i class="fa-solid fa-house-chimney"></i></a></li>
+<li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=tienda.html> Plantas Acuaticas </a></li>
+<li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=plantas.html> Plantas Terrestres </a></li>
+<li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=galeria.html> Galeria de Acuarios </a></li>
+<li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=cursos.html> Cursos </a></li>
+<li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=./formulario.html> Contacto </a></li>
+</ul>
+</nav>
+<div class=portada>
+<picture class=portada__picture>
+<source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg media="(min-width: 2685px)">
+<source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg media="(min-width: 1920px)">
+<source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg media="(min-width: 1320px)">
+<source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg media="(min-width: 1025px)">
+<source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg media="(min-width: 980px)">
+<source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg media="(min-width: 768px)">
+<source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg media="(min-width: 450px)">
+<img class=portada__picture__imagen src=../imagenes/banner/imagen-principalb.jpg alt="fuente de agua al aire libre con plantas acuaticas flotantes">
+</picture>
+<h1 class=portada__titulo>PLANTASACUATICAS.COM.AR</h1>
+</div>
+<div class=modal-container id=modal_container>
+<div class=modal-carrito>
+<h3>Carrito de compras</h3>
+<div id=carrito-contenedor></div>
+<p id=total></p>
+<button id=borrar class=carrito>Vaciar</button>
+<button id=cerrar class=carrito>Cerrar</button>
+<button id=comprar class=carrito>Comprar</button>
+</div>
+</div>
+</header>
+<main class=tienda>
+<h2 class=tienda__titulo>Explora nuestro completo listado de plantas acuáticas: encuentra aquí una breve pero informativa guía sobre cada especie, diseñada para ayudarte a elegir las plantas perfectas para tu acuario. Desde las exuberantes hasta las de bajo mantenimiento, nuestra selección te brinda una visión detallada de cada planta, facilitando tu decisión de compra. Descubre cómo transformar tu acuario en un oasis de belleza natural con nuestras recomendaciones. ¡Encuentra la inspiración que necesitas y lleva a casa tus favoritas hoy mismo desde nuestra tienda online!</h2>
+<div id=tienda__grid class=tienda__grid>
+</div>
+</main>
+<footer class=footer>
+<div class=footer__div>
+<h4 class=footer__div__titulo>Para estar al dia de nuestras novedades, visita nuestras redes sociales.</h4>
+<a class=footer__div__link href=https://facebook.com/todosy><i class="footer__div__link__ico fa-brands fa-facebook-square bg-facebook"></i></a>
+<a class=footer__div__link href="https://api.whatsapp.com/send?phone=+549113841&text=dejame%20tu%20mensaje%20de%20plantasacuaticas"><i class="footer__div__link__ico fa-brands fa-whatsapp-square bg-whatssap"></i></a>
+<a class=footer__div__link href=https://www.instagram.com/plantasacuaticas.com.ar/ ><i class="footer__div__link__ico fa-brands fa-instagram-square bg-instagram"></i></a>
+</div>
+</footer>
+<script src=//cdn.jsdelivr.net/npm/sweetalert2@11></script>
+<script src=../js/tienda/generaweb.js></script>
 </body>
 </html>

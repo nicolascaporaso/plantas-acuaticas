@@ -1,31 +1,3 @@
-const misCursos = ('../datacursos.json');
-let cursos = [];
-
-
-//funcion asincronica para traer datos del data json
-const getCursosAsync = async () => {
-    try {
-        const trae = await fetch(misCursos)
-        cursos = await trae.json()
-        mostrarCursos(cursos);
-    } catch (error) {
-    }
-}
-
-window.addEventListener('DOMContentLoaded', () => {
-    getCursosAsync();
-});
-
-//genera listado de cursos
-const mostrarCursos = (curso) => {
-    const cardCursos = document.getElementById("curso");
-    curso.forEach(cur => {
-        const div = document.createElement("div");
-        div.classList.add("cursos__grilla__card");
-        div.innerHTML += `<h3 class="cursos__grilla__card-titulo">${cur.titulo}</h3> 
-        <p class="cursos__grilla__card-parrafo">${cur.descripcion}</p>            
-        ${cur.video}`
-        cardCursos.appendChild(div);
-    });
-}
-
+const misCursos="../datacursos.json";let cursos=[];const getCursosAsync=async()=>{try{let s=await fetch("../datacursos.json");cursos=await s.json(),mostrarCursos(cursos)}catch(r){}};window.addEventListener("DOMContentLoaded",()=>{getCursosAsync()});const mostrarCursos=s=>{let r=document.getElementById("curso");s.forEach(s=>{let o=document.createElement("div");o.classList.add("cursos__grilla__card"),o.innerHTML+=`<h3 class="cursos__grilla__card-titulo">${s.titulo}</h3> 
+        <p class="cursos__grilla__card-parrafo">${s.descripcion}</p>            
+        ${s.video}`,r.appendChild(o)})};
