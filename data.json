@@ -2,211 +2,211 @@
     {
         "id": "1",
         "nombre": "Valisneria",
-        "descripcion": "Esta planta puede reproducirse de dos formas: por flores y estolones. Cuando las condiciones son propicias para la Valisneria, genera flores, cuyos tallos largos llegan a la superficie y emergen. Pero como norma general, se reproducirá en el 90% de las veces mediante estolones.",
+        "descripcion": "Se reproduce por flores o estolones. Normalmente, se reproduce mediante estolones en el 90% de los casos.",
         "img": "../imagenes/tienda/valisneria.jpg"
     },
     {
         "id": "2",
         "nombre": "Helecho de java",
-        "descripcion": "El Helecho de Java es muy fácil de reproducir. Puedes arrancar una parte del rizoma y volver a fijarlo a un objeto del acuario o esperar hasta que la planta madre forme plantas hijas. Las plantas hijas se reconocen por los esquejes que se forman en las puntas de las hojas.",
+        "descripcion": "Fácil de reproducir. Puedes arrancar una parte del rizoma y fijarla a un objeto o esperar a que forme plantas hijas en las puntas de las hojas.",
         "img": "../imagenes/tienda/helechojava.jpg"
     },
     {
         "id": "3",
         "nombre": "Cabomba",
-        "descripcion": "La Cabomba caroliniana procede de América Central. Es una planta de tallos que puede alcanzar hasta los 80 cm. En acuarios, su desarrollo no será superior a los 30 o 40 cm. Su tallo se presenta largo y fino con hojas también finas repartidas por todo lo largo de su extensión. Sus hojas de color verde intenso la convierten en una planta muy atractiva para el acuario.",
+        "descripcion": "Procede de América Central. Puede alcanzar hasta 80 cm en su hábitat natural, pero en acuarios no supera 30-40 cm. Hojas largas y finas de color verde intenso.",
         "img": "../imagenes/tienda/cabomba.jpg"
     },
     {
         "id": "4",
         "nombre": "Elodea",
-        "descripcion": "Se usa en acuariofilia para oxigenar estanques y acuarios. Ocupa masas de agua de temperaturas moderadas y limpias, de pH neutro y bien iluminadas. El factor limitante es la temperatura.",
+        "descripcion": "Usada para oxigenar acuarios. Requiere agua limpia, temperatura moderada, pH neutro y buena iluminación.",
         "img": "../imagenes/tienda/elodea.jpg"
     },
     {
         "id": "5",
         "nombre": "Potus de Agua",
-        "descripcion": "El Potus es una planta tropical que se adapta muy bien al interior de casa y al hidrocultivo. Solo hay que introducir el extremo de un tallo en agua y en pocas semanas comenzará a producir raíces. Poco después, crecerán nuevas hojas y el tallo se irá alargando.",
+        "descripcion": "Planta tropical que se adapta bien al interior y al hidrocultivo. Introduce el tallo en agua y crecerá raíces y hojas nuevas en pocas semanas.",
         "img": "../imagenes/tienda/potus-en-agua.jpg"
     },
     {
         "id": "6",
         "nombre": "Camalote",
-        "descripcion": "Al bloquear el paso de la luz, limita el crecimiento de otras plantas acuáticas y algas, además de detener o dificultar la circulación del agua. Reducen la temperatura del agua, toman sus nutrientes y pueden llegar a consumir el oxígeno de la misma.",
+        "descripcion": "Bloquea la luz, limita el crecimiento de otras plantas y algas, y reduce la temperatura del agua. Consume nutrientes y oxígeno.",
         "img": "../imagenes/tienda/camalote.jpg"
     },
     {
         "id": "7",
         "nombre": "Salvinia Natans",
-        "descripcion": "Pequeñas, flotantes con tallos trepadores, ramificados, pilosos sin ser verdaderas raíces. Las hojas de a 3, con 2 verdes, sésiles o córtamente pecioladas, achatadas, enteras, flotantes, 1 hoja finamente diseccionada, peciolada, parecida a una raíz, y pendiente. Las hojas sumergidas tienen soros que están rodeados por membranas basifijadas indusia",
+        "descripcion": "Planta flotante con tallos ramificados y hojas en grupos de tres. Las hojas sumergidas tienen soros rodeados por membranas.",
         "img": "../imagenes/tienda/salvinia.jpg"
     },
     {
         "id": "8",
         "nombre": "Helecho de Sumatra",
-        "descripcion": "Dada su forma, esta planta es a veces confundida con una planta de otra familia: Hygrophila difformis, conocida comúnmente como 'Sinema'. La diferencia principal es que las hojas en C. Thalictroides nacen de la base y aunque algunas de ellas lleguen a parecer tallos en plantas desarrolladas, parecerían varios tallos; mientras que en H.",
+        "descripcion": "A veces confundida con Hygrophila difformis. Las hojas nacen de la base y pueden parecer varios tallos en plantas desarrolladas.",
         "img": "../imagenes/tienda/helecho-sumatra.jpg"
     },
     {
         "id": "9",
         "nombre": "Lirio de Agua",
-        "descripcion": "Es una planta que pertenece a la familia de las Aráceas y es originaria de Sudáfrica, más precisamente de la región del Cabo. Su nombre científico es Zantedeschia aethiopica y, además de los nombres anteriores, en algunos lugares también es conocida como Alcatraz, Aro de Etiopía y Cartucho.",
+        "descripcion": "Pertenece a las Aráceas y es originaria de Sudáfrica. También conocida como Zantedeschia aethiopica, Alcatraz, Aro de Etiopía y Cartucho.",
         "img": "../imagenes/tienda/liriodeagua.jpg"
     },
     {
         "id": "10",
         "nombre": "Hygrophila polysperma",
-        "descripcion": "Está dentro de las plantas de acuario más resistentes y se origina del sudeste asiático. El tallo es de 25-40 cm y 4-8 cm de ancho. Es una planta particularmente buena para los principiantes, ya que crece en casi todas las condiciones. Por lo general, crece tan rápido que es importante realizar podas constantes para que no tape otras plantas.",
+        "descripcion": "Planta resistente del sudeste asiático. Crece de 25-40 cm de alto y 4-8 cm de ancho. Buena para principiantes, crece rápido y requiere podas constantes.",
         "img": "../imagenes/tienda/Hygrophilapolysperma.jpg"
     },
     {
         "id": "11",
         "nombre": "Sagitaria subulata",
-        "descripcion": "Conocida como Sagittaria enana, es una planta tapizante de crecimiento rápido y fácil mantenimiento. Es similar a las Echinodorus tenellus con hojas más grandes, pero la Sagittaria puede crecer en acuarios con iluminación más moderada y sin adición de CO2. Definitivamente una planta apta para casi cualquier acuario, permitiendo tapizar todo el frente sin espacios libres.",
+        "descripcion": "Conocida como Sagittaria enana, es una planta tapizante de rápido crecimiento y fácil cuidado. Similar a Echinodorus tenellus pero con hojas más grandes. Crece bien con luz moderada y sin CO2, ideal para casi cualquier acuario.",
         "img": "../imagenes/tienda/Sagitariasubulata.jpg"
     },
     {
         "id": "12",
         "nombre": "Echinodorus",
-        "descripcion": "Las Echinodorus forman un grupo de plantas de grandes dimensiones que se emplean para personalizar zonas determinadas del acuario debido a su gran porte. No se colocan formando grupos ya que, además de por su tamaño, compiten entre ellas por los nutrientes. Por lo general, ocupan el plano medio del acuario no empleándose como plantas de fondo a pesar de su porte.",
+        "descripcion": "Grupo de plantas grandes para zonas específicas del acuario. No se agrupan debido a su tamaño y competencia por nutrientes. Generalmente ocupan el plano medio y no se usan como plantas de fondo.",
         "img": "../imagenes/tienda/Echinodorus.jpg"
     },
     {
         "id": "13",
         "nombre": "Musgo de Java",
-        "descripcion": "El musgo de Java, también conocido como Taxiphyllum barbieri, es una planta de acuario popular debido a su facilidad de mantenimiento y su capacidad para agregar un aspecto natural a cualquier acuario. Crece bien en una variedad de condiciones de agua y luz, y es una excelente opción para principiantes.",
+        "descripcion": "Taxiphyllum barbieri, planta popular por su fácil mantenimiento y aspecto natural. Crece bien en diversas condiciones de agua y luz. Ideal para principiantes.",
         "img": "../imagenes/tienda/mussodejava.jpg"
     },
     {
         "id": "14",
         "nombre": "Anubias",
-        "descripcion": "Las Anubias son plantas de acuario de crecimiento lento que son ideales para agregar estructura y belleza a un acuario. Son conocidas por sus hojas gruesas y duras, que son resistentes al daño por los peces y otras criaturas del acuario. Además, son una excelente opción para acuarios con poca luz.",
+        "descripcion": "Plantas de crecimiento lento con hojas gruesas y duraderas. Resisten daño de peces y son adecuadas para acuarios con poca luz.",
         "img": "../imagenes/tienda/anubias.jpg"
     },
     {
         "id": "15",
         "nombre": "Cryptocoryne Wendti Green",
-        "descripcion": "Las Cryptocorynes son plantas de acuario populares que son valoradas por su belleza y facilidad de cuidado. Son conocidas por sus hojas gruesas y resistentes, que vienen en una variedad de formas y colores. Son una excelente opción para acuarios plantados de baja tecnología.",
+        "descripcion": "Plantas populares por su belleza y fácil cuidado. Hojas gruesas y resistentes en varias formas y colores. Perfectas para acuarios de baja tecnología.",
         "img": "../imagenes/tienda/CryptocoryneWendtiGreen.jpg"
     },
     {
         "id": "16",
         "nombre": "Hemianthus callitrichoides",
-        "descripcion": "Conocida comúnmente como hierba de Cuba, esta planta acuática es perfecta para crear un exuberante césped en acuarios de tamaño pequeño o mediano. Requiere una cantidad moderada a alta de luz y dióxido de carbono para crecer bien, pero el resultado final puede ser espectacular.",
+        "descripcion": "Conocida como hierba de Cuba, ideal para crear céspedes en acuarios pequeños o medianos. Requiere luz y CO2 moderados a altos.",
         "img": "../imagenes/tienda/hemianthuscallitrichoides.jpg"
     },
     {
         "id": "17",
         "nombre": "Vallisneria gigantea",
-        "descripcion": "Esta variedad de Vallisneria es conocida por sus largas hojas en forma de cinta que pueden alcanzar hasta 2 metros de longitud. Es una excelente planta para acuarios grandes, ya que puede crear un fondo denso y natural. Además, proporciona refugio y desove para muchos peces.",
+        "descripcion": "Variedad de Vallisneria con hojas en cinta que pueden alcanzar hasta 2 metros. Excelente para acuarios grandes, creando un fondo denso y natural.",
         "img": "../imagenes/tienda/vallisneriagigantea.jpg"
     },
     {
         "id": "18",
         "nombre": "Bacopa monnieri",
-        "descripcion": "La Bacopa monnieri es una planta acuática de crecimiento lento que se destaca por sus hojas redondas y carnosas. Es una excelente planta de primer plano o de medio plano y puede tolerar una variedad de condiciones de agua. Además, se ha utilizado tradicionalmente en la medicina herbal.",
+        "descripcion": "Planta de crecimiento lento con hojas redondas y carnosas. Ideal para primer plano o medio plano. Tolerante a diversas condiciones de agua.",
         "img": "../imagenes/tienda/bacopamonnieri.jpg"
     },
     {
         "id": "19",
         "nombre": "Cryptocoryne wendtii red",
-        "descripcion": "Esta variedad de Cryptocoryne es muy popular en acuarios debido a su fácil mantenimiento y hermoso follaje. Viene en una variedad de colores, desde verde hasta marrón rojizo, y puede crecer bien en una variedad de condiciones de agua y luz. Es una excelente planta de fondo o de medio plano.",
+        "descripcion": "Variedad de Cryptocoryne popular por su fácil cuidado y follaje colorido. Ideal para fondo o medio plano, crece bien en varias condiciones de agua y luz.",
         "img": "../imagenes/tienda/cryptocorynewendtiired.jpg"
     },
     {
         "id": "20",
         "nombre": "Limnophila sessiliflora",
-        "descripcion": "También conocida como Ambulia, esta planta acuática tiene tallos largos y finos con hojas pequeñas y plumosas. Es una planta de rápido crecimiento que puede crear un efecto de bosque en el acuario si se planta en grupos. Es una excelente planta para principiantes debido a su facilidad de cuidado.",
+        "descripcion": "También conocida como Ambulia, tiene tallos largos y hojas plumosas. Planta de rápido crecimiento que puede formar un efecto de bosque en el acuario. Fácil de cuidar.",
         "img": "../imagenes/tienda/limnophilasessiliflora.jpg"
     },
     {
         "id": "21",
         "nombre": "Staurogyne repens",
-        "descripcion": "La Staurogyne repens es una planta acuática de crecimiento bajo y compacto que es ideal para el primer plano o para crear un tapiz en el acuario. Requiere luz moderada a alta y dióxido de carbono para crecer bien, pero puede ser una planta muy gratificante para aquellos dispuestos a proporcionar las condiciones adecuadas.",
+        "descripcion": "Planta de crecimiento bajo y compacto, ideal para primer plano o tapiz en el acuario. Requiere luz moderada a alta y CO2 para un buen crecimiento.",
         "img": "../imagenes/tienda/Staurogynerepens.jpg"
     },
     {
         "id": "22",
         "nombre": "Rotala rotundifolia",
-        "descripcion": "Esta planta acuática tiene tallos delgados y hojas pequeñas y redondeadas que crecen en verticilos alrededor del tallo. Es una planta de rápido crecimiento que puede crear un efecto de bosque en el acuario si se planta en grupos. Es una excelente planta para principiantes debido a su facilidad de cuidado.",
+        "descripcion": "Planta acuática con tallos delgados y hojas pequeñas en verticilos. Crece rápido y puede formar un efecto de bosque en el acuario si se planta en grupos. Ideal para principiantes por su facilidad de cuidado.",
         "img": "../imagenes/tienda/rotalarotundifolia.jpg"
     },
     {
         "id": "23",
         "nombre": "Echinodorus tenellus",
-        "descripcion": "Conocida como 'Hierba de Amazonas', esta planta acuática es perfecta para crear un exuberante césped en acuarios de tamaño pequeño a mediano. Requiere una cantidad moderada a alta de luz y dióxido de carbono para crecer bien, pero el resultado final puede ser espectacular.",
+        "descripcion": "Conocida como 'Hierba de Amazonas', ideal para crear un césped en acuarios pequeños a medianos. Requiere luz moderada a alta y CO2 para un crecimiento óptimo.",
         "img": "../imagenes/tienda/echinodorustenellus.jpg"
     },
     {
         "id": "24",
         "nombre": "Cryptocoryne parva",
-        "descripcion": "Esta pequeña Cryptocoryne es ideal para acuarios pequeños y es conocida por su crecimiento lento y compacto. Aunque puede tardar un poco en establecerse, una vez que lo hace, forma densos grupos de hojas verdes que crean un aspecto natural y hermoso.",
+        "descripcion": "Pequeña y compacta, ideal para acuarios pequeños. Crece lentamente pero forma densos grupos de hojas verdes, creando un aspecto natural y atractivo.",
         "img": "../imagenes/tienda/cryptocoryneparva.jpg"
     },
     {
         "id": "25",
         "nombre": "Microsorum Pteropus Windelov",
-        "descripcion": "Conocido comúnmente como 'Helecho de Java', esta planta es popular en acuarios debido a su resistencia y hermoso follaje. Tiene hojas anchas y onduladas que pueden crecer hasta varios centímetros de largo. Es una excelente planta para principiantes y puede tolerar una variedad de condiciones de agua y luz.",
+        "descripcion": "Conocido como 'Helecho de Java', popular por su resistencia y follaje ondulado. Buena opción para principiantes, tolera varias condiciones de agua y luz.",
         "img": "../imagenes/tienda/MicrosorumPteropusWindelov.jpg"
     },
     {
         "id": "26",
         "nombre": "Riccia fluitans",
-        "descripcion": "También conocida como Riccia, esta planta acuática flotante es muy popular en acuarios plantados debido a su aspecto único y su facilidad de cuidado. Forma densos cojines verdes en la superficie del agua y proporciona refugio y desove para muchos peces.",
+        "descripcion": "Planta flotante conocida como Riccia. Forma densos cojines verdes en la superficie del agua, proporcionando refugio para peces y es fácil de cuidar.",
         "img": "../imagenes/tienda/ricciafluitans.jpg"
     },
     {
         "id": "27",
         "nombre": "Utricularia graminifolia",
-        "descripcion": "Esta planta acuática es conocida por su apariencia similar a la hierba y su tamaño pequeño. Crece bien en acuarios de tamaño pequeño a mediano y puede formar un exuberante césped en el fondo del acuario si se planta en grupos. Requiere una cantidad moderada a alta de luz y nutrientes.",
+        "descripcion": "Planta de aspecto similar a hierba, ideal para acuarios pequeños a medianos. Forma un césped denso si se planta en grupos. Requiere luz y nutrientes moderados a altos.",
         "img": "../imagenes/tienda/utriculariagraminifolia.jpg"
     },
     {
         "id": "28",
         "nombre": "Hydrocotyle tripartita",
-        "descripcion": "También conocida como 'Moneda de Brasil', esta planta acuática es perfecta para crear un tapiz denso y verde en el primer plano del acuario. Tiene hojas pequeñas y redondeadas que crecen en verticilos alrededor del tallo y puede formar densas alfombras si se planta en grupos.",
+        "descripcion": "También conocida como 'Moneda de Brasil', ideal para un tapiz denso en el primer plano del acuario. Tiene hojas pequeñas en verticilos y puede formar alfombras si se planta en grupos.",
         "img": "../imagenes/tienda/hydrocotyletripartita.jpg"
     },
     {
         "id": "29",
         "nombre": "Marsilea hirsuta",
-        "descripcion": "Conocida como 'Trebol de 4 hojas', esta planta acuática tiene un aspecto similar al trébol terrestre. Es perfecta para crear un exuberante césped en el primer plano del acuario y puede crecer bien en una variedad de condiciones de agua y luz.",
+        "descripcion": "Conocida como 'Trebol de 4 hojas', tiene un aspecto similar al trébol. Ideal para el primer plano, crece bien en diversas condiciones de agua y luz.",
         "img": "../imagenes/tienda/marsileahirsuta.jpg"
     },
     {
         "id": "30",
         "nombre": "Alternanthera reineckii",
-        "descripcion": "Esta planta acuática es conocida por sus hojas de color rojo intenso que pueden agregar un toque de color vibrante al acuario. Requiere una cantidad moderada a alta de luz y nutrientes para mantener su color rojo brillante y puede crecer bien en una variedad de condiciones de agua.",
+        "descripcion": "Planta acuática con hojas de color rojo intenso que añaden vibrante color al acuario. Requiere luz y nutrientes moderados a altos para mantener su color rojo brillante.",
         "img": "../imagenes/tienda/alternantherareineckii.jpg"
     },
     {
         "id": "31",
         "nombre": "Nymphaea",
-        "descripcion": "También conocida como lirio de agua, esta planta acuática es conocida por sus hermosas flores que flotan en la superficie del agua. Viene en una variedad de colores y puede agregar un toque de belleza natural a cualquier acuario. Requiere luz moderada y puede crecer bien en acuarios de tamaño mediano a grande.",
+        "descripcion": "También conocida como lirio de agua, con flores flotantes en diversos colores. Añade belleza natural al acuario. Requiere luz moderada y es adecuada para acuarios medianos a grandes.",
         "img": "../imagenes/tienda/nymphaea.jpg"
     },
     {
         "id": "32",
         "nombre": "Cryptocoryne crispatula balansae",
-        "descripcion": "Esta variedad de Cryptocoryne es conocida por sus hojas largas y delgadas que pueden crecer hasta varios centímetros de longitud. Es una excelente planta para el fondo o el medio plano del acuario y puede tolerar una variedad de condiciones de agua y luz.",
+        "descripcion": "Variedad de Cryptocoryne con hojas largas y delgadas. Ideal para el fondo o medio plano del acuario. Tolerante a diversas condiciones de agua y luz.",
         "img": "../imagenes/tienda/Cryptocorynecrispatulabalansae.jpg"
     },
     {
         "id": "33",
         "nombre": "Ludwigia repens",
-        "descripcion": "Esta planta acuática es conocida por sus hojas de color rojo brillante que pueden agregar un toque de color vibrante al acuario. Requiere una cantidad moderada a alta de luz y nutrientes para mantener su color rojo intenso y puede crecer bien en una variedad de condiciones de agua.",
+        "descripcion": "Planta con hojas de color rojo brillante que añaden color al acuario. Requiere luz y nutrientes moderados a altos para mantener su color rojo intenso.",
         "img": "../imagenes/tienda/ludwigia.jpg"
     },
     {
         "id": "34",
         "nombre": "Bucephalandra Red Cherry",
-        "descripcion": "Esta planta acuática es conocida por sus hojas gruesas y duras que vienen en una variedad de formas y colores. Es una excelente planta para agregar estructura y belleza a un acuario y puede crecer bien en una variedad de condiciones de agua y luz.",
+        "descripcion": "Conocida por sus hojas gruesas y duras en diversas formas y colores. Agrega estructura y belleza al acuario, creciendo bien en diversas condiciones de agua y luz.",
         "img": "../imagenes/tienda/BucephalandraRedCherry.jpg"
     },
     {
         "id": "35",
         "nombre": "Vesicularia reticulata",
-        "descripcion": "Esta planta acuática es popular en acuarios plantados debido a su aspecto único y su facilidad de cuidado. Forma densos cojines verdes en la superficie del agua y proporciona refugio y desove para muchos peces.",
+        "descripcion": "Planta popular en acuarios por su aspecto único. Forma cojines verdes en la superficie del agua, proporcionando refugio para peces y es fácil de cuidar.",
         "img": "../imagenes/tienda/Vesiculariareticulata.jpg"
     }
 ]
