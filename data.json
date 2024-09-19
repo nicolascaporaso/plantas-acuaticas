@@ -9,7 +9,8 @@
         "id": "2",
         "nombre": "Helecho de java",
         "descripcion": "Fácil de reproducir. Puedes arrancar una parte del rizoma y fijarla a un objeto o esperar a que forme plantas hijas en las puntas de las hojas.",
-        "img": "../imagenes/tienda/helechojava.jpg"
+        "img": "../imagenes/tienda/helechojava.jpg",
+        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1135584322-helechos-de-java-microsorum-pteropus-_JM#item_id=MLA1135584322&component=tabbed_carrousel&page_from=home&custom_categories=false"
     },
     {
         "id": "3",
@@ -63,7 +64,8 @@
         "id": "11",
         "nombre": "Sagitaria subulata",
         "descripcion": "Conocida como Sagittaria enana, es una planta tapizante de rápido crecimiento y fácil cuidado. Similar a Echinodorus tenellus pero con hojas más grandes. Crece bien con luz moderada y sin CO2, ideal para casi cualquier acuario.",
-        "img": "../imagenes/tienda/Sagitariasubulata.jpg"
+        "img": "../imagenes/tienda/Sagitariasubulata.jpg",
+        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1134991868-sagitaria-subulata-x10-unidades-_JM#item_id=MLA1134991868&component=tabbed_carrousel&page_from=home&custom_categories=false"
     },
     {
         "id": "12",
@@ -87,7 +89,8 @@
         "id": "15",
         "nombre": "Cryptocoryne Wendti Green",
         "descripcion": "Plantas populares por su belleza y fácil cuidado. Hojas gruesas y resistentes en varias formas y colores. Perfectas para acuarios de baja tecnología.",
-        "img": "../imagenes/tienda/CryptocoryneWendtiGreen.jpg"
+        "img": "../imagenes/tienda/CryptocoryneWendtiGreen.jpg",
+        "link": "https://topedegama28.mercadoshops.com.ar/MLA-1135549605-planta-acuatica-cryptocoryne-para-peceras-_JM#item_id=MLA1135549605&component=tabbed_carrousel&page_from=home&custom_categories=false"
     },
     {
         "id": "16",
@@ -208,5 +211,19 @@
         "nombre": "Vesicularia reticulata",
         "descripcion": "Planta popular en acuarios por su aspecto único. Forma cojines verdes en la superficie del agua, proporcionando refugio para peces y es fácil de cuidar.",
         "img": "../imagenes/tienda/Vesiculariareticulata.jpg"
+    },
+    {
+        "id": "36",
+        "nombre": "Lentejita de agua",
+        "descripcion": "Sus hojas pequeñas, en forma de disco, forman una alfombra verde en la superficie del agua. Ofrece refugio natural para los peces y evita algas.",
+        "img": "../imagenes/tienda/Lentejadeagua.jpg",
+        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1764204046-lenteja-de-agua-_JM#item_id=MLA1764204046&component=tabbed_carrousel&page_from=home&custom_categories=false"
+    },
+    {
+        "id": "37",
+        "nombre": "Hygrophila polysperma Rosanervig",
+        "descripcion": "Planta resistente del sudeste asiático. Crece de 25-40 cm de alto y 4-8 cm de ancho. Buena para principiantes, crece rápido y requiere podas constantes.",
+        "img": "../imagenes/tienda/poliespermarosanervig.jpg",
+        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1450924093-hygrophila-polysperma-rosanervig-planta-acuatica-novatos-_JM"
     }
 ]
