@@ -2,4 +2,4 @@ const misProductos="../data.json";let productos=[];const getProductosAsync=async
         <p class="tienda__grid__card__parrafo">${t.descripcion}</p>
         <p class="comprar" ${t.link ? `onclick="window.location.href='${t.link}'"` : 'style="cursor: default;"'}>Comprar</p>            
         <div class="position"><p class="tienda__grid__card__parrafo cantidadoculta-carrito posicion" id="compro${t.id}">cantidad: </p>
-        <img class="tienda__grid__card__img" src="${t.img}" alt="planta acuatica"></div>`,a.appendChild(o)})};
+        <a href="${t.ficha}" target="_blank"><img class="tienda__grid__card__img" src="${t.img}" alt="planta acuatica"></a></div>`,a.appendChild(o)})};

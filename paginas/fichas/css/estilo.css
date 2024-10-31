@@ -1,0 +1,364 @@
+.boton-comprar,
+.main-galeria {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.barra__lista__item,
+.boton-comprar,
+.footer,
+.portada__subtitulo {
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: 0;
+    font-family: Courgette, cursive;
+    list-style: none;
+}
+
+.portada__picture__imagen,
+body {
+    width: 100%;
+}
+
+.body-galeria,
+.contenedor,
+.cursos,
+.cursos__grilla {
+    background-color: rgba(99, 140, 11, .1);
+}
+
+.main-galeria {
+    width: 90%;
+}
+
+.animacion-titulo,
+.card__titulo:hover,
+.cursos-titulo:hover,
+.cursos__grilla__card-titulo:hover,
+.galeria-titulo:hover,
+.tienda__grid__card__titulo:hover,
+.tienda__titulo:hover {
+    animation-name: backcolor;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes backcolor {
+    0%,
+    100%,
+    50% {
+        background-color: #3f3c3c;
+    }
+
+    25%,
+    75% {
+        background-color: #fff;
+    }
+}
+
+.animacion-boton-comprar,
+.boton-comprar {
+    animation-name: backcolor-boton-compra;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes backcolor-boton-compra {
+    0%,
+    100%,
+    50% {
+        background-color: #53a732;
+    }
+
+    25%,
+    75% {
+        background-color: #fff;
+    }
+}
+
+.padding {
+    padding: 20px !important;
+}
+
+.flex__center,
+.grilla {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+}
+
+.barra {
+    background: #196e1d;
+}
+
+.portada__subtitulo,
+.texto-calesita h5,
+.texto-calesita p {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.barra__lista__item__link {
+    font-size: 1.5rem; /* Reducido para mayor elegancia */
+    display: inline-block;
+    color: #00060a;
+    padding: 10px 15px; /* Ajustado para menos espacio */
+    border: 1px solid #00060a;
+    text-shadow: 2px 2px 2px rgba(79, 85, 68, .5);
+}
+
+.barra__lista__item__link:hover {
+    background: #f1f3f5;
+}
+
+.portada {
+    width: 100%;
+    position: relative;
+}
+
+.portada__titulo {
+    font-size: 2rem; /* Ajustado para mayor legibilidad */
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    color: #fcf5f5;
+    text-shadow: 5px 5px 3px #638c0b;
+}
+
+@media screen and (min-width: 450px) {
+    .portada__titulo {
+        top: 7%;
+        left: 15%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .portada__titulo {
+        font-size: 3rem;
+        top: 8%;
+        left: 3%;
+    }
+}
+
+@media screen and (min-width: 980px) {
+    .barra {
+        position: sticky;
+        top: 0;
+        z-index: 20;
+    }
+
+    .barra__lista {
+        text-align: center;
+    }
+
+    .barra__lista__item {
+        display: inline;
+    }
+
+    .barra__lista__item__link {
+        padding: 10px 20px;
+        width: auto;
+        border: none;
+    }
+
+    .portada__titulo {
+        font-size: 4rem;
+    }
+}
+
+@media screen and (min-width: 1320px) {
+    .portada__titulo {
+        font-size: 6rem;
+        text-shadow: 10px 10px 10px #638c0b;
+    }
+}
+
+.portada__subtitulo {
+    font-size: 1rem;
+    padding: 5px 10px;
+    position: absolute;
+    top: 20%;
+    left: 0;
+    color: #fcf5f5;
+    text-shadow: 3px 3px 2px #00060a;
+}
+
+@media screen and (min-width: 768px) {
+    .portada__subtitulo {
+        font-size: 1.5rem;
+    }
+
+    .contenedor,
+    .cursos,
+    .cursos__grilla {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: stretch;
+        justify-content: space-around;
+        align-items: flex-start;
+    }
+}
+
+.boton-comprar {
+    display: block;
+    border-radius: 25px;
+    border: 1px solid #000;
+    margin: 20px auto; /* Ajustado para centrar */
+    width: 120px; /* Ampliado para un botón más elegante */
+    text-shadow: 2px 3px 1px rgba(0, 0, 0, .5);
+    padding: 10px; /* Ajustado para más espacio interno */
+    background-color: #c6612f;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+}
+
+.footer {
+    border: 2px solid #00060a;
+    background-image: url("../imagenes/banner/imagen-principalb.jpg");
+    color: #fcf5f5;
+    padding: 20px; /* Añadido padding para elegancia */
+}
+
+.footer__div {
+    background-color: rgba(0, 0, 0, .6);
+    width: 100%;
+    padding: 10px; /* Añadido padding para espacio */
+}
+
+.footer__div__titulo {
+    padding-top: 5px; /* Ajustado para espacio */
+}
+
+.bg-blogger,
+.bg-facebook,
+.bg-instagram,
+.bg-whatssap,
+.bg-youtube {
+    padding: 5px;
+    font-size: 1rem;
+}
+
+.footer__div__link__ico {
+    margin: 10px;
+    background-color: rgba(8, 0, 0, .5);
+    width: auto;
+}
+
+.footer__div__link__ico:hover {
+    color: #fcf5f5;
+    font-size: 1.5rem;
+}
+
+.bg-whatssap {
+    border: 1px solid #3bfa0b;
+    color: #3bfa0b;
+}
+
+.bg-facebook {
+    border: 1px solid #4112db;
+    color: #4112db;
+}
+
+.bg-youtube {
+    border: 1px solid #d91005;
+    color: #d91005;
+}
+
+.bg-blogger {
+    border: 1px solid #fb884e;
+    color: #fb884e;
+}
+
+.bg-instagram {
+    border: 1px solid #ef0dd1;
+    color: #ef0dd1;
+}
+
+.card__titulo,
+.cursos-titulo,
+.cursos__grilla__card-titulo,
+.tienda__grid__card__titulo,
+.tienda__titulo {
+    text-align: center;
+    margin-bottom: 20px; /* Reducido para menos espacio */
+    background-color: rgba(171, 189, 70, .5);
+}
+
+.card__parrafo,
+.cursos__grilla__card-parrafo {
+    background-color: rgba(99, 140, 11, .1);
+    margin: 10px; /* Reducido para menos espacio */
+    padding: 15px; /* Ajustado para más espacio interno */
+    text-align: justify;
+}
+
+.card__lista {
+    margin-bottom: 20px; /* Reducido para menos espacio */
+}
+
+.card__lista__item__parrafo {
+    background-color: rgba(99, 140, 11, .1);
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.imagen__picture__respaldo,
+.tienda {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 450px) {
+    .portada__subtitulo {
+        top: 40%;
+        padding: 5px;
+    }
+
+    .card__parrafo,
+    .cursos__grilla__card-parrafo {
+        padding: 30px; /* Ajustado para menos espacio */
+    }
+
+    .card__lista__item__parrafo {
+        padding: 8px;
+    }
+}
+
+.imagen__picture__respaldo {
+    width: 92%;
+    border: 5px solid #aa9250;
+    display: block;
+    margin-bottom: 30px; /* Reducido para menos espacio */
+}
+
+@media screen and (min-width: 768px) {
+    .imagen__picture__respaldo {
+        width: 78%; /* Ajustado para mayor elegancia */
+    }
+}
+
+@media screen and (min-width: 980px) {
+    .imagen__picture__respaldo {
+        width: 70%; /* Ajustado para mayor elegancia */
+    }
+}
+
+@media screen and (min-width: 1320px) {
+    .imagen__picture__respaldo {
+        width: 65%; /* Ajustado para mayor elegancia */
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .portada {
+        height: 100vh; /* Ajustado para ocupar toda la altura */
+    }
+}
