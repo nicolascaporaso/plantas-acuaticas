@@ -1,0 +1,149 @@
+.tienda{
+    background-color:$color-verde-transparente;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid $color-negro;
+    box-shadow: 10px 10px 10px $color-verde-transparente;
+    &__titulo{
+        @extend .card__titulo;
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    &__grid{
+        background-color:rgba(225, 247, 238, 0.226) ;
+        @include siete_seis_px{
+            display: flex;
+            flex-direction:column;
+            flex-flow: wrap;
+            align-items: center;
+            justify-items: center;
+        }
+        @include diez_veinticinco_px {
+            display: grid;
+            grid-template-columns: auto auto auto;
+            gap: 20px;
+        }
+        &__card{
+            @include siete_seis_px{
+                width: 50%;
+            }
+            @include diez_veinticinco_px {
+                width: 100%;
+            }
+            &__titulo{
+                @extend .card__titulo;
+                margin-top: 15px;
+                margin-left:40px ;
+                margin-right: 40px;
+            }
+            &__parrafo{
+                margin-left: 60px;
+                margin-right: 60px;
+                padding-bottom: 30px;
+            }
+            &__img{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 20;
+                border: 2px solid $color-negro;
+                margin-bottom: 50px;
+            }
+        }
+    }
+}
+
+
+/* Modal */
+.modal-container {
+    align-items: center;
+    justify-content: center;
+    position: fixed; 
+    background-color: transparent;
+    width: 100%;
+    height: 100vh;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+    border-radius: 10px ;
+    z-index: 100;
+} 
+
+  /* hacer visible el modal  */
+.modal-active {
+    opacity: 1;
+    visibility: visible;
+    z-index: 50;
+}
+
+.modal-carrito{
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 10px;
+    padding-bottom: 3%;
+    overflow-y: auto;
+    position: relative;
+    transform: var(--transform);
+    transition: var(--transition);
+    text-align: center;
+}
+
+.productoEnCarrito {
+    border-left: 5px solid lightblue;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    margin: 5px 0;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boton-eliminar {
+    background-color: white;
+    color: rgb(18, 18, 19);
+    border: none;
+    font-size: 20px;
+}
+
+// para que se muetre en lista cuantos voy comprando
+.cantidadoculta-carrito{
+    display: none;
+}
+
+.posicion{
+    position: absolute;
+    top: 1%;
+    left: -17%;
+    color: rgb(7, 0, 0);
+    border: 1px solid rgb(5, 0, 0);
+    font-size: 2rem;
+    padding: 1px;
+    background-color: aliceblue;
+    height:50px;
+    width:50px;
+    text-align:justify;
+    background-image: url('../../imagenes/tienda/carrito.png');
+    background-size:50px ;
+}
+
+.position{
+    position: relative;
+    width:310px;
+    height:310px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.carrito{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-left: 20px;
+}
