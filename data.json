@@ -4,7 +4,8 @@
         "nombre": "Valisneria",
         "descripcion": "Se reproduce por flores o estolones. Normalmente, se reproduce mediante estolones en el 90% de los casos.",
         "img": "../imagenes/tienda/valisneria.jpg",
-        "ficha":"../paginas/fichas/valisneria.html"
+        "ficha":"../paginas/fichas/valisneria.html",
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "2",
@@ -12,7 +13,7 @@
         "descripcion": "Fácil de reproducir. Puedes arrancar una parte del rizoma y fijarla a un objeto o esperar a que forme plantas hijas en las puntas de las hojas.",
         "img": "../imagenes/tienda/helechojava.jpg",
         "ficha":"../paginas/fichas/helechodejava.html",
-        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1135584322-helechos-de-java-microsorum-pteropus-_JM#item_id=MLA1135584322&component=tabbed_carrousel&page_from=home&custom_categories=false"
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "3",
@@ -20,7 +21,7 @@
         "descripcion": "Procede de América Central. Puede alcanzar hasta 80 cm en su hábitat natural, pero en acuarios no supera 30-40 cm. Hojas largas y finas de color verde intenso.",
         "img": "../imagenes/tienda/cabomba.jpg",
         "ficha":"../paginas/fichas/cabomba.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "4",
@@ -28,7 +29,7 @@
         "descripcion": "Usada para oxigenar acuarios. Requiere agua limpia, temperatura moderada, pH neutro y buena iluminación.",
         "img": "../imagenes/tienda/elodea.jpg",
         "ficha":"../paginas/fichas/elodea.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "5",
@@ -36,7 +37,7 @@
         "descripcion": "Planta tropical que se adapta bien al interior y al hidrocultivo. Introduce el tallo en agua y crecerá raíces y hojas nuevas en pocas semanas.",
         "img": "../imagenes/tienda/potus-en-agua.jpg",
         "ficha":"../paginas/fichas/potusdeagua.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "6",
@@ -44,7 +45,7 @@
         "descripcion": "Bloquea la luz, limita el crecimiento de otras plantas y algas, y reduce la temperatura del agua. Consume nutrientes y oxígeno.",
         "img": "../imagenes/tienda/camalote.jpg",
         "ficha":"../paginas/fichas/camalote.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "7",
@@ -52,7 +53,7 @@
         "descripcion": "Planta flotante con tallos ramificados y hojas en grupos de tres. Las hojas sumergidas tienen soros rodeados por membranas.",
         "img": "../imagenes/tienda/salvinia.jpg",
         "ficha":"../paginas/fichas/salvinia.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "8",
@@ -60,7 +61,7 @@
         "descripcion": "A veces confundida con Hygrophila difformis. Las hojas nacen de la base y pueden parecer varios tallos en plantas desarrolladas.",
         "img": "../imagenes/tienda/helecho-sumatra.jpg",
         "ficha":"../paginas/fichas/helechosumatra.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "9",
@@ -68,7 +69,7 @@
         "descripcion": "Pertenece a las Aráceas y es originaria de Sudáfrica. También conocida como Zantedeschia aethiopica, Alcatraz, Aro de Etiopía y Cartucho.",
         "img": "../imagenes/tienda/liriodeagua.jpg",
         "ficha":"../paginas/fichas/liriodeagua.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "10",
@@ -76,7 +77,7 @@
         "descripcion": "Planta resistente del sudeste asiático. Crece de 25-40 cm de alto y 4-8 cm de ancho. Buena para principiantes, crece rápido y requiere podas constantes.",
         "img": "../imagenes/tienda/Hygrophilapolysperma.jpg",
         "ficha":"../paginas/fichas/Hygrophilapolysperma.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "11",
@@ -84,7 +85,7 @@
         "descripcion": "Conocida como Sagittaria enana, es una planta tapizante de rápido crecimiento y fácil cuidado. Similar a Echinodorus tenellus pero con hojas más grandes. Crece bien con luz moderada y sin CO2, ideal para casi cualquier acuario.",
         "img": "../imagenes/tienda/Sagitariasubulata.jpg",
         "ficha":"../paginas/fichas/sagitariasubulata.html",
-        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1134991868-sagitaria-subulata-x10-unidades-_JM#item_id=MLA1134991868&component=tabbed_carrousel&page_from=home&custom_categories=false"
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "12",
@@ -92,7 +93,7 @@
         "descripcion": "Grupo de plantas grandes para zonas específicas del acuario. No se agrupan debido a su tamaño y competencia por nutrientes. Generalmente ocupan el plano medio y no se usan como plantas de fondo.",
         "img": "../imagenes/tienda/Echinodorus.jpg",
         "ficha":"../paginas/fichas/echinodorus.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "13",
@@ -100,7 +101,7 @@
         "descripcion": "Taxiphyllum barbieri, planta popular por su fácil mantenimiento y aspecto natural. Crece bien en diversas condiciones de agua y luz. Ideal para principiantes.",
         "img": "../imagenes/tienda/mussodejava.jpg",
         "ficha":"../paginas/fichas/musgodejava.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "14",
@@ -108,7 +109,7 @@
         "descripcion": "Plantas de crecimiento lento con hojas gruesas y duraderas. Resisten daño de peces y son adecuadas para acuarios con poca luz.",
         "img": "../imagenes/tienda/anubias.jpg",
         "ficha":"../paginas/fichas/anubias.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "15",
@@ -116,7 +117,7 @@
         "descripcion": "Plantas populares por su belleza y fácil cuidado. Hojas gruesas y resistentes en varias formas y colores. Perfectas para acuarios de baja tecnología.",
         "img": "../imagenes/tienda/CryptocoryneWendtiGreen.jpg",
         "ficha":"../paginas/fichas/CryptocoryneWendtiGreen.html",
-        "link": "https://topedegama28.mercadoshops.com.ar/MLA-1135549605-planta-acuatica-cryptocoryne-para-peceras-_JM#item_id=MLA1135549605&component=tabbed_carrousel&page_from=home&custom_categories=false"
+        "link": "https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "16",
@@ -124,7 +125,7 @@
         "descripcion": "Conocida como hierba de Cuba, ideal para crear céspedes en acuarios pequeños o medianos. Requiere luz y CO2 moderados a altos.",
         "img": "../imagenes/tienda/hemianthuscallitrichoides.jpg",
         "ficha":"../paginas/fichas/hemianthuscallitrichoides.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "17",
@@ -132,7 +133,7 @@
         "descripcion": "Variedad de Vallisneria con hojas en cinta que pueden alcanzar hasta 2 metros. Excelente para acuarios grandes, creando un fondo denso y natural.",
         "img": "../imagenes/tienda/vallisneriagigantea.jpg",
         "ficha":"../paginas/fichas/valisneriagigantea.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "18",
@@ -140,7 +141,7 @@
         "descripcion": "Planta de crecimiento lento con hojas redondas y carnosas. Ideal para primer plano o medio plano. Tolerante a diversas condiciones de agua.",
         "img": "../imagenes/tienda/bacopamonnieri.jpg",
         "ficha":"../paginas/fichas/bacopamonnieri.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "19",
@@ -148,7 +149,7 @@
         "descripcion": "Variedad de Cryptocoryne popular por su fácil cuidado y follaje colorido. Ideal para fondo o medio plano, crece bien en varias condiciones de agua y luz.",
         "img": "../imagenes/tienda/cryptocorynewendtiired.jpg",
         "ficha":"../paginas/fichas/cryptocorynewendtiired.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "20",
@@ -156,7 +157,7 @@
         "descripcion": "También conocida como Ambulia, tiene tallos largos y hojas plumosas. Planta de rápido crecimiento que puede formar un efecto de bosque en el acuario. Fácil de cuidar.",
         "img": "../imagenes/tienda/limnophilasessiliflora.jpg",
         "ficha":"../paginas/fichas/limnophilasessiliflora.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "21",
@@ -164,7 +165,7 @@
         "descripcion": "Planta de crecimiento bajo y compacto, ideal para primer plano o tapiz en el acuario. Requiere luz moderada a alta y CO2 para un buen crecimiento.",
         "img": "../imagenes/tienda/Staurogynerepens.jpg",
         "ficha":"../paginas/fichas/Staurogynerepens.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "22",
@@ -172,7 +173,7 @@
         "descripcion": "Planta acuática con tallos delgados y hojas pequeñas en verticilos. Crece rápido y puede formar un efecto de bosque en el acuario si se planta en grupos. Ideal para principiantes por su facilidad de cuidado.",
         "img": "../imagenes/tienda/rotalarotundifolia.jpg",
         "ficha":"../paginas/fichas/rotalarotundifolia.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "23",
@@ -180,7 +181,7 @@
         "descripcion": "Conocida como 'Hierba de Amazonas', ideal para crear un césped en acuarios pequeños a medianos. Requiere luz moderada a alta y CO2 para un crecimiento óptimo.",
         "img": "../imagenes/tienda/echinodorustenellus.jpg",
         "ficha":"../paginas/fichas/echinodorustenellus.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "24",
@@ -188,7 +189,7 @@
         "descripcion": "Pequeña y compacta, ideal para acuarios pequeños. Crece lentamente pero forma densos grupos de hojas verdes, creando un aspecto natural y atractivo.",
         "img": "../imagenes/tienda/cryptocoryneparva.jpg",
         "ficha":"../paginas/fichas/cryptocoryneparva.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "25",
@@ -196,7 +197,7 @@
         "descripcion": "Conocido como 'Helecho de Java', popular por su resistencia y follaje ondulado. Buena opción para principiantes, tolera varias condiciones de agua y luz.",
         "img": "../imagenes/tienda/MicrosorumPteropusWindelov.jpg",
         "ficha":"../paginas/fichas/MicrosorumPteropusWindelov.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "26",
@@ -204,7 +205,7 @@
         "descripcion": "Planta flotante conocida como Riccia. Forma densos cojines verdes en la superficie del agua, proporcionando refugio para peces y es fácil de cuidar.",
         "img": "../imagenes/tienda/ricciafluitans.jpg",
         "ficha":"../paginas/fichas/ricciafluitans.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "27",
@@ -212,7 +213,7 @@
         "descripcion": "Planta de aspecto similar a hierba, ideal para acuarios pequeños a medianos. Forma un césped denso si se planta en grupos. Requiere luz y nutrientes moderados a altos.",
         "img": "../imagenes/tienda/utriculariagraminifolia.jpg",
         "ficha":"../paginas/fichas/utriculariagraminifolia.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "28",
@@ -220,7 +221,7 @@
         "descripcion": "También conocida como 'Moneda de Brasil', ideal para un tapiz denso en el primer plano del acuario. Tiene hojas pequeñas en verticilos y puede formar alfombras si se planta en grupos.",
         "img": "../imagenes/tienda/hydrocotyletripartita.jpg",
         "ficha":"../paginas/fichas/hydrocotyletripartita.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "29",
@@ -228,7 +229,7 @@
         "descripcion": "Conocida como 'Trebol de 4 hojas', tiene un aspecto similar al trébol. Ideal para el primer plano, crece bien en diversas condiciones de agua y luz.",
         "img": "../imagenes/tienda/marsileahirsuta.jpg",
         "ficha":"../paginas/fichas/marsileahirsuta.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "30",
@@ -236,7 +237,7 @@
         "descripcion": "Planta acuática con hojas de color rojo intenso que añaden vibrante color al acuario. Requiere luz y nutrientes moderados a altos para mantener su color rojo brillante.",
         "img": "../imagenes/tienda/alternantherareineckii.jpg",
         "ficha":"../paginas/fichas/alternantherareineckii.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "31",
@@ -244,7 +245,7 @@
         "descripcion": "También conocida como lirio de agua, con flores flotantes en diversos colores. Añade belleza natural al acuario. Requiere luz moderada y es adecuada para acuarios medianos a grandes.",
         "img": "../imagenes/tienda/nymphaea.jpg",
         "ficha":"../paginas/fichas/nymphaea.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "32",
@@ -252,7 +253,7 @@
         "descripcion": "Variedad de Cryptocoryne con hojas largas y delgadas. Ideal para el fondo o medio plano del acuario. Tolerante a diversas condiciones de agua y luz.",
         "img": "../imagenes/tienda/Cryptocorynecrispatulabalansae.jpg",
         "ficha":"../paginas/fichas/Cryptocorynecrispatulabalansae.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "33",
@@ -260,7 +261,7 @@
         "descripcion": "Planta con hojas de color rojo brillante que añaden color al acuario. Requiere luz y nutrientes moderados a altos para mantener su color rojo intenso.",
         "img": "../imagenes/tienda/ludwigia.jpg",
         "ficha":"../paginas/fichas/ludwigiarepens.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "34",
@@ -268,7 +269,7 @@
         "descripcion": "Conocida por sus hojas gruesas y duras en diversas formas y colores. Agrega estructura y belleza al acuario, creciendo bien en diversas condiciones de agua y luz.",
         "img": "../imagenes/tienda/BucephalandraRedCherry.jpg",
         "ficha":"../paginas/fichas/BucephalandraRedCherry.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "35",
@@ -276,7 +277,7 @@
         "descripcion": "Planta popular en acuarios por su aspecto único. Forma cojines verdes en la superficie del agua, proporcionando refugio para peces y es fácil de cuidar.",
         "img": "../imagenes/tienda/Vesiculariareticulata.jpg",
         "ficha":"../paginas/fichas/Vesiculariareticulata.html",
-        "link":""
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "36",
@@ -284,7 +285,7 @@
         "descripcion": "Sus hojas pequeñas, en forma de disco, forman una alfombra verde en la superficie del agua. Ofrece refugio natural para los peces y evita algas.",
         "img": "../imagenes/tienda/Lentejadeagua.jpg",
         "ficha":"../paginas/fichas/Lentejadeagua.html",
-        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1764204046-lenteja-de-agua-_JM#item_id=MLA1764204046&component=tabbed_carrousel&page_from=home&custom_categories=false"
+        "link":"https://plantasacuaticasba.onrender.com/"
     },
     {
         "id": "37",
@@ -292,6 +293,6 @@
         "descripcion": "Planta resistente del sudeste asiático. Crece de 25-40 cm de alto y 4-8 cm de ancho. Buena para principiantes, crece rápido y requiere podas constantes.",
         "img": "../imagenes/tienda/poliespermarosanervig.jpg",
         "ficha":"../paginas/fichas/poliespermarosanervig.html",
-        "link":"https://topedegama28.mercadoshops.com.ar/MLA-1450924093-hygrophila-polysperma-rosanervig-planta-acuatica-novatos-_JM"
+        "link":"https://plantasacuaticasba.onrender.com/"
     }
 ]

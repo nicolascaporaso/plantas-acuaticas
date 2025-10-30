@@ -1,0 +1,65 @@
+/* CSS para fichas de Plantas Acuáticas */
+.ficha {
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding: 24px;
+    margin: 20px auto;
+    max-width: 900px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #222;
+    line-height: 1.6;
+}
+
+.ficha h2 {
+    font-size: 1.8rem;
+    margin-bottom: 16px;
+    color: #2a7a4f;
+}
+
+.ficha h3 {
+    font-size: 1.4rem;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    color: #3b9d66;
+}
+
+.ficha p {
+    font-size: 1rem;
+    margin-bottom: 12px;
+}
+
+.ficha ul {
+    margin-left: 20px;
+    margin-bottom: 12px;
+}
+
+.ficha ul li {
+    margin-bottom: 6px;
+}
+
+.ficha table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 12px;
+}
+
+.ficha table th, .ficha table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.ficha table th {
+    background-color: #f0f0f0;
+}
+
+.ficha a {
+    color: #1e7d53;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.ficha a:hover {
+    text-decoration: underline;
+}

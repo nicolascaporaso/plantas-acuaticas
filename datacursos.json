@@ -27,7 +27,7 @@
         "id":"5",
         "titulo":"Qué es un Terrario y Qué Hay que Tener en Cuenta",
         "descripcion":"Los terrarios recrean un mundo natural en un espacio reducido. Plantas, musgos, rocas y pequeños organismos coexisten en armonía. Aprende a construir un terrario en una botella con imágenes y explicaciones detalladas.",
-        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/watch?v=8gnktbvsoqA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/8gnktbvsoqA?si=RybU_N8MRV6cTOdy' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
     },
     {
         "id":"6",
@@ -51,7 +51,7 @@
         "id":"9",
         "titulo":"Cómo Hacer un Sistema de Lluvia para Acuarios",
         "descripcion":"Los sistemas de lluvia para terrarios proporcionan humedad y frescor, esenciales para el desarrollo de los reptiles y su bienestar.",
-        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/watch?v=81aKYryDxEc' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/81aKYryDxEc?si=SrfYgzc2aJyELjFo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
     },
     {
         "id":"10",
@@ -81,7 +81,7 @@
         "id":"14",
         "titulo":"De Principiante a Experto: Secretos para un Acuario Exuberante",
         "descripcion":"Descubre cómo crear un acuario plantado exuberante y vibrante. Aprende sobre selección de plantas, iluminación, fertilización y circulación del agua para transformar tu acuario en un paraíso acuático.",
-        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/watch?v=DfjRK3xTAQw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/DfjRK3xTAQw?si=7yiNVQvqAK3_KD7t' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
     },
     {
         "id":"15",
@@ -93,7 +93,7 @@
         "id":"16",
         "titulo":"Plantas emergidas",
         "descripcion":"cultivo de plantas emergido, para principiantes.",
-        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/watch?v=uwavBPFwajg&list=PL_6-OcqXwu88XEvgz5udXHi5oMELzBRmU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+        "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/uwavBPFwajg?si=0cmEgIiAke8XAkjI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
     },
     {
         "id":"17",
@@ -102,3 +102,4 @@
         "video":"<iframe class='cursos__grilla__card-video' width='280' height='auto' src='https://www.youtube.com/embed/IFEeNcV-sgA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
     }
 ]
+
