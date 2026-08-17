@@ -30,6 +30,7 @@
             gap: 20px;
         }
         &__card{
+            padding-bottom: 20px;
             @include siete_seis_px{
                 width: 50%;
             }
@@ -47,13 +48,69 @@
                 margin-right: 60px;
                 padding-bottom: 30px;
             }
+            &__comprar{
+                display: block;
+                width: fit-content;
+                margin: 0 auto 18px;
+                padding: 10px 22px;
+                border-radius: 999px;
+                background-color: #196e1d;
+                color: #fff;
+                border: 2px solid #0f4f14;
+                text-decoration: none;
+                box-shadow: 0 8px 16px rgba(25, 110, 29, 0.25);
+                transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+            }
+            &__comprar:hover{
+                transform: translateY(-2px);
+                box-shadow: 0 12px 20px rgba(25, 110, 29, 0.3);
+                background-color: #208326;
+            }
+            &__link{
+                display: block;
+                position: relative;
+                cursor: pointer;
+                width: fit-content;
+                margin-left: auto;
+                margin-right: auto;
+                overflow: hidden;
+                border-radius: 14px;
+            }
+            &__overlay{
+                position: absolute;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                z-index: 1;
+                padding: 14px 12px 12px;
+                background: linear-gradient(to top, rgba(7, 39, 10, 0.92), rgba(7, 39, 10, 0.18));
+                color: #fff;
+                text-align: center;
+            }
+            &__overlay-title{
+                display: block;
+                font-size: 1rem;
+                font-weight: 700;
+                margin-bottom: 4px;
+                letter-spacing: 0.3px;
+            }
+            &__overlay-text{
+                display: block;
+                font-size: 0.9rem;
+            }
             &__img{
                 display: block;
                 margin-left: auto;
                 margin-right: auto;
-                margin-top: 20;
+                margin-top: 0;
                 border: 2px solid $color-negro;
-                margin-bottom: 50px;
+                margin-bottom: 0;
+                transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+            }
+            &__link:hover &__img{
+                transform: scale(1.02);
+                box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+                filter: brightness(0.92);
             }
         }
     }
