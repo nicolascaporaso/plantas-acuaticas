@@ -61,6 +61,101 @@ function truncate(value, maxLength) {
     return `${value.slice(0, maxLength - 1).trimEnd()}…`;
 }
 
+function estimateSnippetPixels(value) {
+    const widths = {
+        " ": 3,
+        "i": 3,
+        "l": 3,
+        "I": 4,
+        "j": 4,
+        "f": 4,
+        "r": 4,
+        "t": 4,
+        "J": 5,
+        "L": 5,
+        "1": 5,
+        "c": 5,
+        "k": 5,
+        "s": 5,
+        "v": 5,
+        "x": 5,
+        "y": 5,
+        "z": 5,
+        "a": 6,
+        "b": 6,
+        "d": 6,
+        "e": 6,
+        "g": 6,
+        "h": 6,
+        "n": 6,
+        "o": 6,
+        "p": 6,
+        "q": 6,
+        "u": 6,
+        "0": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6,
+        "7": 6,
+        "8": 6,
+        "9": 6,
+        "A": 7,
+        "B": 7,
+        "C": 7,
+        "D": 7,
+        "E": 7,
+        "F": 7,
+        "G": 7,
+        "H": 7,
+        "K": 7,
+        "N": 7,
+        "O": 7,
+        "P": 7,
+        "R": 7,
+        "S": 7,
+        "T": 7,
+        "U": 7,
+        "V": 7,
+        "X": 7,
+        "Y": 7,
+        "Z": 7,
+        "m": 8,
+        "w": 8,
+        "M": 8,
+        "Q": 8,
+        "W": 9
+    };
+
+    return [...String(value || "")].reduce((total, char) => total + (widths[char] || 6), 0);
+}
+
+function trimToPixelWidth(value, maxPixels) {
+    const text = String(value || "").trim();
+
+    if (!text) {
+        return "";
+    }
+
+    if (estimateSnippetPixels(text) <= maxPixels) {
+        return text;
+    }
+
+    const words = text.split(/\s+/);
+    let current = "";
+
+    for (const word of words) {
+        const candidate = current ? `${current} ${word}` : word;
+        if (estimateSnippetPixels(`${candidate}…`) > maxPixels) {
+            return current ? `${current}…` : truncate(word, Math.max(20, word.length));
+        }
+        current = candidate;
+    }
+
+    return text;
+}
+
 function ensureNoTrailingSlash(value) {
     return value.endsWith("/") ? value.slice(0, -1) : value;
 }
@@ -201,16 +296,18 @@ function buildPrimaryQueryHeading(commonName, scientificName) {
 }
 
 function buildSeoDescription(item, commonName, scientificName) {
-    const parts = [
-        scientificName ? `${commonName} (${scientificName})` : commonName,
-        item.dificultad ? `dificultad ${item.dificultad.toLowerCase()}` : "",
+    const primaryTerm = scientificName ? `${commonName} (${scientificName})` : commonName;
+    const keywordGroups = [
+        "ficha técnica y cuidados",
         item.iluminación ? `luz ${item.iluminación.toLowerCase()}` : "",
         item.temperatura ? `temperatura ${item.temperatura}` : "",
         item.pH ? `pH ${item.pH}` : "",
-        item["ubicación recomendada"] ? `ubicación ${item["ubicación recomendada"]}` : ""
+        item["CO₂"] ? `CO2 ${item["CO₂"].toLowerCase()}` : "",
+        item["cómo reproducirla"] ? "reproducción" : "",
+        "acuario plantado"
     ].filter(Boolean);
 
-    return truncate(parts.join(", "), 160);
+    return trimToPixelWidth(`${primaryTerm}: ${keywordGroups.join(", ")}.`, 1000);
 }
 
 function buildIntro(item, commonName, scientificName) {
@@ -635,13 +732,13 @@ function buildStoreHtmlContent(plants) {
     <meta http-equiv=X-UA-Compatible content="IE=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
     <meta name=description
-        content="Plantas Acuáticas para Principiantes: Explora nuestro completo catálogo de plantas acuáticas y descubre una amplia variedad de especies junto con sus características únicas. Encuentra información detallada sobre cuidados, hábitats y más para crear el acuario perfecto. ¡Sumérgete en el fascinante mundo de la acuarofilia con nosotros">
+        content="Plantas acuáticas para principiantes: explorá nuestro catálogo y descubrí una amplia variedad de especies con información sobre cuidados, hábitats y todo lo necesario para armar tu acuario ideal.">
     <meta name="keywords"
-        content="topedegama28, un jardin bajo el agua, tienda online, https://maps.app.goo.gl/owfaRDHtynTZ1Sw98, tienda de plantas, tiendas plantas acuaticas, plantas acuaticas, acuarios, tutoriales acuarofilia, acuaticas de ribera, acuaticas flotantes, acuaticas oxigenadoras, cactus, suculentas, helechos, musgos, plantas carnivoras, jardineria">
+        content="plantasacuaticasba, un jardín bajo el agua, tienda online, https://maps.app.goo.gl/owfaRDHtynTZ1Sw98, tienda de plantas, tiendas de plantas acuáticas, plantas acuáticas, acuarios, tutoriales de acuarofilia, acuáticas de ribera, acuáticas flotantes, acuáticas oxigenadoras, cactus, suculentas, helechos, musgos, plantas carnívoras, jardinería">
     <meta name=author content="nicolas caporaso">
     <link rel="canonical" href="${escapeHtml(toAbsoluteUrl(STORE_URL))}">
     <meta name="robots" content="index, follow">
-    <title>catálogo de plantas acuáticas: variedades y características</title>
+    <title>Catálogo de plantas acuáticas: variedades y características</title>
     <script src=https://kit.fontawesome.com/eff7621339.js crossorigin=anonymous></script>
     <link href=../css/estilo.css rel=stylesheet>
     <link rel=preconnect href=https://fonts.googleapis.com>
@@ -666,9 +763,9 @@ function buildStoreHtmlContent(plants) {
                 <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=cursos.html>
                         Cursos </a></li>
                 <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none"
-                        href=./guiaBasica.html> Guia Basica Para Acuarios </a></li>
+                        href=./guiaBasica.html> Guía básica para acuarios </a></li>
                 <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none"
-                        href=./guiaAvanzada.html> Guia Avanzada Para Acuarios </a></li>
+                        href=./guiaAvanzada.html> Guía avanzada para acuarios </a></li>
             </ul>
         </nav>
         <div class=portada>
@@ -698,7 +795,7 @@ function buildStoreHtmlContent(plants) {
             pero informativa sobre cada especie, diseñada para ayudarte a elegir las plantas acuáticas perfectas para tu
             acuario.</h2>
 
-        <h2 class=tienda__titulo>Haz clic en una imagen para abrir la ficha técnica completa...</h2>
+        <h2 class=tienda__titulo>Hacé clic en una imagen para abrir la ficha técnica completa.</h2>
 
         <section class="card" style="margin: 1rem auto; max-width: 1100px;">
             <div class="card__parrafo">
@@ -715,7 +812,7 @@ function buildStoreHtmlContent(plants) {
     </main>
     <footer class=footer>
         <div class=footer__div>
-            <h3 class=footer__div__titulo>Para estar al día con nuestras novedades, visita nuestras redes sociales.</h3>
+            <h3 class=footer__div__titulo>Para estar al día con nuestras novedades, visitá nuestras redes sociales.</h3>
             <a class=footer__div__link href="https://www.facebook.com/profile.php?id=61582745956564"><i
                     class="footer__div__link__ico fa-brands fa-facebook-square bg-facebook"></i></a>
             <a class=footer__div__link

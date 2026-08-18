@@ -15,7 +15,7 @@
     },
     "seo": {
       "title": "Valisneria (Vallisneria spp.): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Valisneria (Vallisneria spp.), dificultad fácil, luz baja a media, temperatura 18 - 28 °C, pH 6.5 - 8.0, ubicación Fondo"
+      "description": "Valisneria (Vallisneria spp.): ficha técnica y cuidados, luz baja a media, temperatura 18 - 28 °C, pH 6.5 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -67,7 +67,7 @@
   },
   {
     "id": "2",
-    "nombre": "Helecho de java",
+    "nombre": "Helecho de Java",
     "nombreCientifico": "Microsorum pteropus",
     "slug": "helecho-de-java",
     "descripcionCatalogo": "Nombre científico: Microsorum pteropus | Dificultad: Fácil | Ubicación: Troncos y rocas (medio plano / fondo) | Luz: Baja a Media",
@@ -80,8 +80,8 @@
       "ruta": "/plantas/helecho-de-java/"
     },
     "seo": {
-      "title": "Helecho de java (Microsorum pteropus): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Helecho de java (Microsorum pteropus), dificultad fácil, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 7.5, ubicación Troncos y rocas (medio plano / fondo)"
+      "title": "Helecho de Java (Microsorum pteropus): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Helecho de Java (Microsorum pteropus): ficha técnica y cuidados, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -96,7 +96,7 @@
     "guiasRelacionadas": [],
     "fuente": {
       "id": "2",
-      "nombre común": "Helecho de java",
+      "nombre común": "Helecho de Java",
       "nombre científico": "Microsorum pteropus",
       "familia": "Polypodiaceae",
       "origen": "Sudeste Asiático",
@@ -147,7 +147,7 @@
     },
     "seo": {
       "title": "Cabomba (Cabomba caroliniana): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Cabomba (Cabomba caroliniana), dificultad media, luz media a alta, temperatura 18 - 26 °C, pH 6.0 - 7.0, ubicación Fondo"
+      "description": "Cabomba (Cabomba caroliniana): ficha técnica y cuidados, luz media a alta, temperatura 18 - 26 °C, pH 6.0 - 7.0, CO2 recomendado, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -209,7 +209,7 @@
     },
     "seo": {
       "title": "Elodea (Egeria densa): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Elodea (Egeria densa), dificultad fácil, luz media, temperatura 10 - 26 °C, pH 6.5 - 8.0, ubicación Fondo o medio plano"
+      "description": "Elodea (Egeria densa): ficha técnica y cuidados, luz media, temperatura 10 - 26 °C, pH 6.5 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -275,7 +275,7 @@
     },
     "seo": {
       "title": "Potus de Agua (Epipremnum aureum): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Potus de Agua (Epipremnum aureum), dificultad muy fácil, luz baja a alta (fuera del agua), temperatura 15 - 30 °C, pH 6.0 - 8.0, ubicación Filtración / Parte s…"
+      "description": "Potus de Agua (Epipremnum aureum): ficha técnica y cuidados, luz baja a alta (fuera del agua), temperatura 15 - 30 °C, pH 6.0 - 8.0, CO2 no requerido, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -336,7 +336,7 @@
     },
     "seo": {
       "title": "Camalote (Eichhornia crassipes): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Camalote (Eichhornia crassipes), dificultad fácil, luz alta, temperatura 15 - 30 °C, pH 6.0 - 7.5, ubicación Superficie del acuario abierto / Estanque"
+      "description": "Camalote (Eichhornia crassipes): ficha técnica y cuidados, luz alta, temperatura 15 - 30 °C, pH 6.0 - 7.5, CO2 no necesario (aire libre), reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -402,7 +402,7 @@
     },
     "seo": {
       "title": "Salvinia Natans (Salvinia natans): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Salvinia Natans (Salvinia natans), dificultad fácil, luz media a alta, temperatura 18 - 28 °C, pH 6.0 - 7.5, ubicación Superficie del acuario"
+      "description": "Salvinia Natans (Salvinia natans): ficha técnica y cuidados, luz media a alta, temperatura 18 - 28 °C, pH 6.0 - 7.5, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -459,7 +459,7 @@
     "slug": "helecho-de-sumatra",
     "descripcionCatalogo": "Nombre científico: Ceratopteris thalictroides | Dificultad: Media | Ubicación: Medio plano o fondo | Luz: Media",
     "imagen": "/imagenes/tienda/helecho-sumatra.jpg",
-    "altText": "Helecho de Sumatra con hojas encajesas muy vistosas.",
+    "altText": "Helecho de Sumatra con hojas muy recortadas y vistosas.",
     "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "helechosumatra.html",
@@ -468,11 +468,11 @@
     },
     "seo": {
       "title": "Helecho de Sumatra (Ceratopteris thalictroides): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Helecho de Sumatra (Ceratopteris thalictroides), dificultad media, luz media, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Medio plano o fondo"
+      "description": "Helecho de Sumatra (Ceratopteris thalictroides): ficha técnica y cuidados, luz media, temperatura 20 - 28 °C, pH 6.0 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
-        "label": "Helecho de java",
+        "label": "Helecho de Java",
         "href": "/plantas/helecho-de-java/"
       }
     ],
@@ -497,15 +497,15 @@
       "ubicación recomendada": "Medio plano o fondo",
       "cómo plantarla": "Plantar suavemente en el sustrato dejando la base de los pecíolos despejada.",
       "cómo reproducirla": "Generación de plántulas adventicias en los bordes de las hojas viejas.",
-      "problemas frecuentes": "Melancolía o deshacerse si hay cambios radicales en la química del agua.",
+      "problemas frecuentes": "Tiende a derretirse o deshacerse si hay cambios radicales en la química del agua.",
       "algas asociadas": "Sensible a algas filamentosas si el crecimiento se estanca.",
       "compatibilidad con peces": "Excelente con peces pacíficos.",
       "compatibilidad con gambas": "Muy amigable.",
       "uso en low-tech/high-tech": "Funciona bien en ambos sistemas.",
       "uso en acuarios de agua fría": "No recomendado (prefiere clima tropical).",
-      "ALT descriptivo": "Helecho de Sumatra con hojas encajesas muy vistosas.",
+      "ALT descriptivo": "Helecho de Sumatra con hojas muy recortadas y vistosas.",
       "enlaces a plantas similares": [
-        "Helecho de java"
+        "Helecho de Java"
       ],
       "enlace a guías relacionadas": [
         "../paginas/guias/propagacion-helechos.html"
@@ -529,7 +529,7 @@
     },
     "seo": {
       "title": "Lirio de Agua (Zantedeschia aethiopica): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Lirio de Agua (Zantedeschia aethiopica), dificultad fácil (cultivo palustre/emergido), luz alta, temperatura 15 - 25 °C, pH 6.0 - 7.5, ubicación Márgenes de es…"
+      "description": "Lirio de Agua (Zantedeschia aethiopica): ficha técnica y cuidados, luz alta, temperatura 15 - 25 °C, pH 6.0 - 7.5, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -590,7 +590,7 @@
     },
     "seo": {
       "title": "Hygrophila polysperma (Hygrophila polysperma): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Hygrophila polysperma (Hygrophila polysperma), dificultad fácil, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 8.0, ubicación Fondo o medio plano"
+      "description": "Hygrophila polysperma (Hygrophila polysperma): ficha técnica y cuidados, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -656,7 +656,7 @@
     },
     "seo": {
       "title": "Sagitaria subulata (Sagittaria subulata): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Sagitaria subulata (Sagittaria subulata), dificultad fácil, luz baja a media, temperatura 15 - 26 °C, pH 6.0 - 8.0, ubicación Primer plano o medio plano"
+      "description": "Sagitaria subulata (Sagittaria subulata): ficha técnica y cuidados, luz baja a media, temperatura 15 - 26 °C, pH 6.0 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -722,7 +722,7 @@
     },
     "seo": {
       "title": "Echinodorus (Echinodorus spp.): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Echinodorus (Echinodorus spp.), dificultad fácil, luz media, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Medio plano o punto focal aislado"
+      "description": "Echinodorus (Echinodorus spp.): ficha técnica y cuidados, luz media, temperatura 20 - 28 °C, pH 6.0 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -788,7 +788,7 @@
     },
     "seo": {
       "title": "Musgo de Java (Taxiphyllum barbieri): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Musgo de Java (Taxiphyllum barbieri), dificultad muy fácil, luz baja a media, temperatura 15 - 28 °C, pH 5.5 - 8.0, ubicación Troncos, rocas, suelos o paredes…"
+      "description": "Musgo de Java (Taxiphyllum barbieri): ficha técnica y cuidados, luz baja a media, temperatura 15 - 28 °C, pH 5.5 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -854,11 +854,11 @@
     },
     "seo": {
       "title": "Anubias (Anubias barteri): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Anubias (Anubias barteri), dificultad muy fácil, luz baja, temperatura 20 - 30 °C, pH 6.0 - 8.0, ubicación Primer plano o medio plano sobre rocas y troncos"
+      "description": "Anubias (Anubias barteri): ficha técnica y cuidados, luz baja, temperatura 20 - 30 °C, pH 6.0 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
-        "label": "Helecho de java",
+        "label": "Helecho de Java",
         "href": "/plantas/helecho-de-java/"
       },
       {
@@ -895,7 +895,7 @@
       "uso en acuarios de agua fría": "Apta para rangos templados.",
       "ALT descriptivo": "Anubias con hojas gruesas, oscuras y duras sobre un tronco.",
       "enlaces a plantas similares": [
-        "Helecho de java",
+        "Helecho de Java",
         "Bucephalandra Red Cherry"
       ],
       "enlace a guías relacionadas": [
@@ -920,7 +920,7 @@
     },
     "seo": {
       "title": "Cryptocoryne Wendti Green (Cryptocoryne wendtii 'Green'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Cryptocoryne Wendti Green (Cryptocoryne wendtii 'Green'), dificultad fácil, luz baja a media, temperatura 20 - 30 °C, pH 6.0 - 7.5, ubicación Primer plano o me…"
+      "description": "Cryptocoryne Wendti Green (Cryptocoryne wendtii 'Green'): ficha técnica y cuidados, luz baja a media, temperatura 20 - 30 °C, pH 6.0 - 7.5, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -986,7 +986,7 @@
     },
     "seo": {
       "title": "Hierba de Cuba (Hemianthus callitrichoides): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Hierba de Cuba (Hemianthus callitrichoides), dificultad alta, luz alta, temperatura 18 - 26 °C, pH 5.5 - 7.0, ubicación Primer plano"
+      "description": "Hierba de Cuba (Hemianthus callitrichoides): ficha técnica y cuidados, luz alta, temperatura 18 - 26 °C, pH 5.5 - 7.0, CO2 obligatorio (inyección constante), reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1052,7 +1052,7 @@
     },
     "seo": {
       "title": "Vallisneria gigantea (Vallisneria gigantea): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Vallisneria gigantea (Vallisneria gigantea), dificultad fácil, luz media, temperatura 18 - 28 °C, pH 6.5 - 8.0, ubicación Fondo de acuarios grandes"
+      "description": "Vallisneria gigantea (Vallisneria gigantea): ficha técnica y cuidados, luz media, temperatura 18 - 28 °C, pH 6.5 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1113,7 +1113,7 @@
     },
     "seo": {
       "title": "Bacopa monnieri (Bacopa monnieri): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Bacopa monnieri (Bacopa monnieri), dificultad fácil, luz baja a media, temperatura 15 - 30 °C, pH 5.5 - 8.0, ubicación Primer plano o medio plano"
+      "description": "Bacopa monnieri (Bacopa monnieri): ficha técnica y cuidados, luz baja a media, temperatura 15 - 30 °C, pH 5.5 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1179,7 +1179,7 @@
     },
     "seo": {
       "title": "Cryptocoryne wendtii red (Cryptocoryne wendtii 'Red'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Cryptocoryne wendtii red (Cryptocoryne wendtii 'Red'), dificultad fácil, luz media, temperatura 20 - 30 °C, pH 6.0 - 7.5, ubicación Medio plano"
+      "description": "Cryptocoryne wendtii red (Cryptocoryne wendtii 'Red'): ficha técnica y cuidados, luz media, temperatura 20 - 30 °C, pH 6.0 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1240,7 +1240,7 @@
     },
     "seo": {
       "title": "Ambulia (Limnophila sessiliflora): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Ambulia (Limnophila sessiliflora), dificultad fácil, luz media a alta, temperatura 22 - 28 °C, pH 6.0 - 7.5, ubicación Fondo"
+      "description": "Ambulia (Limnophila sessiliflora): ficha técnica y cuidados, luz media a alta, temperatura 22 - 28 °C, pH 6.0 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1306,7 +1306,7 @@
     },
     "seo": {
       "title": "Staurogyne repens (Staurogyne repens): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Staurogyne repens (Staurogyne repens), dificultad media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano o medio plano"
+      "description": "Staurogyne repens (Staurogyne repens): ficha técnica y cuidados, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, CO2 recomendado, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1372,7 +1372,7 @@
     },
     "seo": {
       "title": "Rotala rotundifolia (Rotala rotundifolia): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Rotala rotundifolia (Rotala rotundifolia), dificultad fácil a media, luz media a alta, temperatura 18 - 28 °C, pH 6.0 - 7.5, ubicación Medio plano o fondo"
+      "description": "Rotala rotundifolia (Rotala rotundifolia): ficha técnica y cuidados, luz media a alta, temperatura 18 - 28 °C, pH 6.0 - 7.5, CO2 opcional (mejora tonos rojizos), reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1438,7 +1438,7 @@
     },
     "seo": {
       "title": "Hierba de Amazonas (Echinodorus tenellus): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Hierba de Amazonas (Echinodorus tenellus), dificultad media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano"
+      "description": "Hierba de Amazonas (Echinodorus tenellus): ficha técnica y cuidados, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, CO2 recomendado, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1504,7 +1504,7 @@
     },
     "seo": {
       "title": "Cryptocoryne parva (Cryptocoryne parva): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Cryptocoryne parva (Cryptocoryne parva), dificultad media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano"
+      "description": "Cryptocoryne parva (Cryptocoryne parva): ficha técnica y cuidados, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1565,11 +1565,11 @@
     },
     "seo": {
       "title": "Helecho de Java Windelov (Microsorum pteropus 'Windelov'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Helecho de Java Windelov (Microsorum pteropus 'Windelov'), dificultad fácil, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 7.5, ubicación Troncos y rocas"
+      "description": "Helecho de Java Windelov (Microsorum pteropus 'Windelov'): ficha técnica y cuidados, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 7.5, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
-        "label": "Helecho de java",
+        "label": "Helecho de Java",
         "href": "/plantas/helecho-de-java/"
       }
     ],
@@ -1602,7 +1602,7 @@
       "uso en acuarios de agua fría": "Apto para agua templada.",
       "ALT descriptivo": "Helecho de Java Windelov con puntas de hojas fuertemente ramificadas y rizadas.",
       "enlaces a plantas similares": [
-        "Helecho de java"
+        "Helecho de Java"
       ],
       "enlace a guías relacionadas": [
         "../paginas/guias/variedades-microsorum.html"
@@ -1626,7 +1626,7 @@
     },
     "seo": {
       "title": "Riccia (Riccia fluitans): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Riccia (Riccia fluitans), dificultad media, luz media a alta, temperatura 15 - 28 °C, pH 6.0 - 7.5, ubicación Superficie o atada a mallas en primer plano"
+      "description": "Riccia (Riccia fluitans): ficha técnica y cuidados, luz media a alta, temperatura 15 - 28 °C, pH 6.0 - 7.5, CO2 recomendado, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1692,7 +1692,7 @@
     },
     "seo": {
       "title": "Utricularia graminifolia (Utricularia graminifolia): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Utricularia graminifolia (Utricularia graminifolia), dificultad alta, luz alta, temperatura 22 - 28 °C, pH 5.5 - 6.8, ubicación Primer plano"
+      "description": "Utricularia graminifolia (Utricularia graminifolia): ficha técnica y cuidados, luz alta, temperatura 22 - 28 °C, pH 5.5 - 6.8, CO2 obligatorio, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1758,7 +1758,7 @@
     },
     "seo": {
       "title": "Moneda de Brasil (Hydrocotyle tripartita): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Moneda de Brasil (Hydrocotyle tripartita), dificultad fácil a media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano o medio pla…"
+      "description": "Moneda de Brasil (Hydrocotyle tripartita): ficha técnica y cuidados, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, CO2 opcional (crece más compacto con co₂), reproducción, acuario…"
     },
     "relacionadas": [
       {
@@ -1824,7 +1824,7 @@
     },
     "seo": {
       "title": "Trébol de 4 hojas (Marsilea hirsuta): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Trébol de 4 hojas (Marsilea hirsuta), dificultad fácil, luz media, temperatura 18 - 26 °C, pH 6.0 - 7.5, ubicación Primer plano"
+      "description": "Trébol de 4 hojas (Marsilea hirsuta): ficha técnica y cuidados, luz media, temperatura 18 - 26 °C, pH 6.0 - 7.5, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1890,7 +1890,7 @@
     },
     "seo": {
       "title": "Alternanthera reineckii (Alternanthera reineckii): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Alternanthera reineckii (Alternanthera reineckii), dificultad media, luz alta, temperatura 17 - 28 °C, pH 6.0 - 7.0, ubicación Medio plano o fondo"
+      "description": "Alternanthera reineckii (Alternanthera reineckii): ficha técnica y cuidados, luz alta, temperatura 17 - 28 °C, pH 6.0 - 7.0, CO2 recomendado, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -1956,7 +1956,7 @@
     },
     "seo": {
       "title": "Lirio de agua / Nymphaea (Nymphaea spp.): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Lirio de agua / Nymphaea (Nymphaea spp.), dificultad media, luz media a alta, temperatura 22 - 30 °C, pH 6.0 - 7.5, ubicación Punto focal en medio plano o fondo"
+      "description": "Lirio de agua / Nymphaea (Nymphaea spp.): ficha técnica y cuidados, luz media a alta, temperatura 22 - 30 °C, pH 6.0 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -2017,7 +2017,7 @@
     },
     "seo": {
       "title": "Cryptocoryne crispatula balansae (Cryptocoryne crispatula var. balansae): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Cryptocoryne crispatula balansae (Cryptocoryne crispatula var. balansae), dificultad fácil, luz media, temperatura 22 - 28 °C, pH 7.0 - 8.0, ubicación Fondo o…"
+      "description": "Cryptocoryne crispatula balansae (Cryptocoryne crispatula var. balansae): ficha técnica y cuidados, luz media, temperatura 22 - 28 °C, pH 7.0 - 8.0, CO2 no necesario, reproducción, acuario…"
     },
     "relacionadas": [
       {
@@ -2083,7 +2083,7 @@
     },
     "seo": {
       "title": "Ludwigia repens (Ludwigia repens): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Ludwigia repens (Ludwigia repens), dificultad fácil, luz media a alta, temperatura 15 - 28 °C, pH 5.5 - 7.5, ubicación Medio plano o fondo"
+      "description": "Ludwigia repens (Ludwigia repens): ficha técnica y cuidados, luz media a alta, temperatura 15 - 28 °C, pH 5.5 - 7.5, CO2 opcional, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -2149,7 +2149,7 @@
     },
     "seo": {
       "title": "Bucephalandra Red Cherry (Bucephalandra sp. 'Red Cherry'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Bucephalandra Red Cherry (Bucephalandra sp. 'Red Cherry'), dificultad media, luz baja a media, temperatura 20 - 28 °C, pH 5.5 - 7.5, ubicación Troncos, rocas y…"
+      "description": "Bucephalandra Red Cherry (Bucephalandra sp. 'Red Cherry'): ficha técnica y cuidados, luz baja a media, temperatura 20 - 28 °C, pH 5.5 - 7.5, CO2 opcional (aprecia su aporte para mejores…"
     },
     "relacionadas": [
       {
@@ -2157,7 +2157,7 @@
         "href": "/plantas/anubias/"
       },
       {
-        "label": "Helecho de java",
+        "label": "Helecho de Java",
         "href": "/plantas/helecho-de-java/"
       }
     ],
@@ -2191,7 +2191,7 @@
       "ALT descriptivo": "Bucephalandra Red Cherry con hojas pequeñas, gruesas y visos rojizos metálicos sobre roca.",
       "enlaces a plantas similares": [
         "Anubias",
-        "Helecho de java"
+        "Helecho de Java"
       ],
       "enlace a guías relacionadas": [
         "../paginas/guias/cultivo-bucephalandras.html"
@@ -2215,7 +2215,7 @@
     },
     "seo": {
       "title": "Vesicularia reticulata (Vesicularia reticulata (Delta Moss)): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Vesicularia reticulata (Vesicularia reticulata (Delta Moss)), dificultad fácil, luz baja a media, temperatura 18 - 28 °C, pH 6.0 - 7.5, ubicación Troncos y roc…"
+      "description": "Vesicularia reticulata (Vesicularia reticulata (Delta Moss)): ficha técnica y cuidados, luz baja a media, temperatura 18 - 28 °C, pH 6.0 - 7.5, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -2281,7 +2281,7 @@
     },
     "seo": {
       "title": "Lentejita de agua (Lemna minor): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Lentejita de agua (Lemna minor), dificultad muy fácil, luz baja a alta, temperatura 10 - 30 °C, pH 5.0 - 8.0, ubicación Superficie del acuario"
+      "description": "Lentejita de agua (Lemna minor): ficha técnica y cuidados, luz baja a alta, temperatura 10 - 30 °C, pH 5.0 - 8.0, CO2 no necesario, reproducción, acuario plantado."
     },
     "relacionadas": [
       {
@@ -2347,7 +2347,7 @@
     },
     "seo": {
       "title": "Hygrophila polysperma Rosanervig (Hygrophila polysperma 'Rosanervig'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
-      "description": "Hygrophila polysperma Rosanervig (Hygrophila polysperma 'Rosanervig'), dificultad fácil, luz media a alta, temperatura 18 - 30 °C, pH 6.0 - 8.0, ubicación Medi…"
+      "description": "Hygrophila polysperma Rosanervig (Hygrophila polysperma 'Rosanervig'): ficha técnica y cuidados, luz media a alta, temperatura 18 - 30 °C, pH 6.0 - 8.0, CO2 no necesario, reproducción, acuario…"
     },
     "relacionadas": [
       {

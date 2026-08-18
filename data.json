@@ -32,7 +32,7 @@
   },
   {
     "id": "2",
-    "nombre común": "Helecho de java",
+    "nombre común": "Helecho de Java",
     "nombre científico": "Microsorum pteropus",
     "familia": "Polypodiaceae",
     "origen": "Sudeste Asiático",
@@ -236,14 +236,14 @@
     "ubicación recomendada": "Medio plano o fondo",
     "cómo plantarla": "Plantar suavemente en el sustrato dejando la base de los pecíolos despejada.",
     "cómo reproducirla": "Generación de plántulas adventicias en los bordes de las hojas viejas.",
-    "problemas frecuentes": "Melancolía o deshacerse si hay cambios radicales en la química del agua.",
+    "problemas frecuentes": "Tiende a derretirse o deshacerse si hay cambios radicales en la química del agua.",
     "algas asociadas": "Sensible a algas filamentosas si el crecimiento se estanca.",
     "compatibilidad con peces": "Excelente con peces pacíficos.",
     "compatibilidad con gambas": "Muy amigable.",
     "uso en low-tech/high-tech": "Funciona bien en ambos sistemas.",
     "uso en acuarios de agua fría": "No recomendado (prefiere clima tropical).",
-    "ALT descriptivo": "Helecho de Sumatra con hojas encajesas muy vistosas.",
-    "enlaces a plantas similares": ["Helecho de java"],
+    "ALT descriptivo": "Helecho de Sumatra con hojas muy recortadas y vistosas.",
+    "enlaces a plantas similares": ["Helecho de Java"],
     "enlace a guías relacionadas": ["../paginas/guias/propagacion-helechos.html"],
     "link": "https://plantasacuaticasba.onrender.com/"
   },
@@ -429,7 +429,7 @@
     "uso en low-tech/high-tech": "Ideal para Low-Tech y acuarios sombríos.",
     "uso en acuarios de agua fría": "Apta para rangos templados.",
     "ALT descriptivo": "Anubias con hojas gruesas, oscuras y duras sobre un tronco.",
-    "enlaces a plantas similares": ["Helecho de java", "Bucephalandra Red Cherry"],
+    "enlaces a plantas similares": ["Helecho de Java", "Bucephalandra Red Cherry"],
     "enlace a guías relacionadas": ["../paginas/guias/cuidado-de-anubias.html"],
     "link": "https://plantasacuaticasba.onrender.com/"
   },
@@ -770,7 +770,7 @@
     "uso en low-tech/high-tech": "Perfecto para Low-Tech.",
     "uso en acuarios de agua fría": "Apto para agua templada.",
     "ALT descriptivo": "Helecho de Java Windelov con puntas de hojas fuertemente ramificadas y rizadas.",
-    "enlaces a plantas similares": ["Helecho de java"],
+    "enlaces a plantas similares": ["Helecho de Java"],
     "enlace a guías relacionadas": ["../paginas/guias/variedades-microsorum.html"],
     "link": "https://plantasacuaticasba.onrender.com/"
   },
@@ -1049,7 +1049,7 @@
     "uso en low-tech/high-tech": "Apta para ambos sistemas, excelente en nano acuarios.",
     "uso en acuarios de agua fría": "No recomendado.",
     "ALT descriptivo": "Bucephalandra Red Cherry con hojas pequeñas, gruesas y visos rojizos metálicos sobre roca.",
-    "enlaces a plantas similares": ["Anubias", "Helecho de java"],
+    "enlaces a plantas similares": ["Anubias", "Helecho de Java"],
     "enlace a guías relacionadas": ["../paginas/guias/cultivo-bucephalandras.html"],
     "link": "https://plantasacuaticasba.onrender.com/"
   },
