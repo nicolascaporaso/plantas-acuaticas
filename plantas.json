@@ -1,0 +1,2400 @@
+[
+  {
+    "id": "1",
+    "nombre": "Valisneria",
+    "nombreCientifico": "Vallisneria spp.",
+    "slug": "valisneria",
+    "descripcionCatalogo": "Nombre científico: Vallisneria spp. | Dificultad: Fácil | Ubicación: Fondo | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/valisneria.jpg",
+    "altText": "Planta acuática Valisneria con hojas largas en forma de cinta verde brillante.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/valisneria-comun",
+    "ficha": {
+      "legacyArchivo": "valisneria.html",
+      "legacyRuta": "/paginas/fichas/valisneria.html",
+      "ruta": "/plantas/valisneria/"
+    },
+    "seo": {
+      "title": "Valisneria (Vallisneria spp.): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Valisneria (Vallisneria spp.), dificultad fácil, luz baja a media, temperatura 18 - 28 °C, pH 6.5 - 8.0, ubicación Fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Vallisneria gigantea",
+        "href": "/plantas/vallisneria-gigantea/"
+      },
+      {
+        "label": "Sagitaria subulata",
+        "href": "/plantas/sagitaria-subulata/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "1",
+      "nombre común": "Valisneria",
+      "nombre científico": "Vallisneria spp.",
+      "familia": "Hydrocharitaceae",
+      "origen": "Regiones tropicales y subtropicales de todo el mundo",
+      "dificultad": "Fácil",
+      "altura": "30 - 60+ cm",
+      "ancho": "10 - 20 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "18 - 28 °C",
+      "pH": "6.5 - 8.0",
+      "GH/KH": "GH 4 - 18",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Nutrientes en el sustrato recomendados",
+      "tipo de crecimiento": "Estolones / Roseta",
+      "ubicación recomendada": "Fondo",
+      "cómo plantarla": "Plantar los ejemplares separados unos centímetros en el sustrato de fondo, cuidando de no enterrar el punto de crecimiento central.",
+      "cómo reproducirla": "Se reproduce por flores o estolones. Normalmente, se reproduce mediante estolones en el 90% de los casos.",
+      "problemas frecuentes": "Pérdida de hojas viejas ante cambios bruscos de parámetros.",
+      "algas asociadas": "Sensible a algas filamentosas si hay exceso de nutrientes libres.",
+      "compatibilidad con peces": "Excelente; muy resistente a herbívoros.",
+      "compatibilidad con gambas": "Segura y proporciona excelente refugio.",
+      "uso en low-tech/high-tech": "Ideal para Low-Tech.",
+      "uso en acuarios de agua fría": "Apta para estanques y agua fría.",
+      "ALT descriptivo": "Planta acuática Valisneria con hojas largas en forma de cinta verde brillante.",
+      "enlaces a plantas similares": [
+        "Vallisneria gigantea",
+        "Sagitaria subulata"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantado-de-fondo.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/valisneria-comun"
+    }
+  },
+  {
+    "id": "2",
+    "nombre": "Helecho de java",
+    "nombreCientifico": "Microsorum pteropus",
+    "slug": "helecho-de-java",
+    "descripcionCatalogo": "Nombre científico: Microsorum pteropus | Dificultad: Fácil | Ubicación: Troncos y rocas (medio plano / fondo) | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/helechojava.jpg",
+    "altText": "Helecho de Java verde oscuro amarrado a un soporte decorativo.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/microsorum-pteropus",
+    "ficha": {
+      "legacyArchivo": "helechodejava.html",
+      "legacyRuta": "/paginas/fichas/helechodejava.html",
+      "ruta": "/plantas/helecho-de-java/"
+    },
+    "seo": {
+      "title": "Helecho de java (Microsorum pteropus): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Helecho de java (Microsorum pteropus), dificultad fácil, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 7.5, ubicación Troncos y rocas (medio plano / fondo)"
+    },
+    "relacionadas": [
+      {
+        "label": "Microsorum Pteropus Windelov",
+        "href": "/plantas/microsorum-pteropus-windelov/"
+      },
+      {
+        "label": "Anubias",
+        "href": "/plantas/anubias/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "2",
+      "nombre común": "Helecho de java",
+      "nombre científico": "Microsorum pteropus",
+      "familia": "Polypodiaceae",
+      "origen": "Sudeste Asiático",
+      "dificultad": "Fácil",
+      "altura": "15 - 30 cm",
+      "ancho": "12 - 20 cm",
+      "velocidad de crecimiento": "Lento",
+      "temperatura": "18 - 30 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 2 - 15",
+      "iluminación": "Baja a Media",
+      "CO₂": "Opcional",
+      "fertilización": "Abono líquido en columna",
+      "tipo de crecimiento": "Rizoma",
+      "ubicación recomendada": "Troncos y rocas (medio plano / fondo)",
+      "cómo plantarla": "Fijar el rizoma a un objeto (como una roca o tronco) usando hilo de algodón o sedal; nunca enterrar el rizoma directamente en el sustrato.",
+      "cómo reproducirla": "Fácil de reproducir. Puedes arrancar una parte del rizoma y fijarla a un objeto o esperar a que forme plantas hijas en las puntas de las hojas.",
+      "problemas frecuentes": "Negrura o marchitamiento por enterrar el rizoma en la grava.",
+      "algas asociadas": "Propensa a algas pincel en hojas viejas si la corriente es escasa.",
+      "compatibilidad con peces": "Apta para casi cualquier pez, incluso cíclidos herbívoros por su dureza.",
+      "compatibilidad con gambas": "Muy recomendada; sus raíces finas acumulan microfauna.",
+      "uso en low-tech/high-tech": "Perfecta para Low-Tech.",
+      "uso en acuarios de agua fría": "Apta para rangos templados.",
+      "ALT descriptivo": "Helecho de Java verde oscuro amarrado a un soporte decorativo.",
+      "enlaces a plantas similares": [
+        "Microsorum Pteropus Windelov",
+        "Anubias"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/fijacion-epifitas.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/microsorum-pteropus"
+    }
+  },
+  {
+    "id": "3",
+    "nombre": "Cabomba",
+    "nombreCientifico": "Cabomba caroliniana",
+    "slug": "cabomba",
+    "descripcionCatalogo": "Nombre científico: Cabomba caroliniana | Dificultad: Media | Ubicación: Fondo | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/cabomba.jpg",
+    "altText": "Planta de tallo Cabomba con hojas finas y plumosas de color verde intenso.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/cabomba-caroliniana",
+    "ficha": {
+      "legacyArchivo": "cabomba.html",
+      "legacyRuta": "/paginas/fichas/cabomba.html",
+      "ruta": "/plantas/cabomba/"
+    },
+    "seo": {
+      "title": "Cabomba (Cabomba caroliniana): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Cabomba (Cabomba caroliniana), dificultad media, luz media a alta, temperatura 18 - 26 °C, pH 6.0 - 7.0, ubicación Fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Rotala rotundifolia",
+        "href": "/plantas/rotala-rotundifolia/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "3",
+      "nombre común": "Cabomba",
+      "nombre científico": "Cabomba caroliniana",
+      "familia": "Cabombaceae",
+      "origen": "América Central y del Sur",
+      "dificultad": "Media",
+      "altura": "30 - 80 cm",
+      "ancho": "5 - 8 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "18 - 26 °C",
+      "pH": "6.0 - 7.0",
+      "GH/KH": "GH 2 - 10",
+      "iluminación": "Media a Alta",
+      "CO₂": "Recomendado",
+      "fertilización": "Macro y micronutrientes frecuentes",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Fondo",
+      "cómo plantarla": "Separar los tallos individualmente unos 2-3 cm entre sí para que la luz llegue a las hojas inferiores.",
+      "cómo reproducirla": "Por esquejes de tallo laterales replantados en el sustrato.",
+      "problemas frecuentes": "Descomposición del tallo basal si recibe poca luz.",
+      "algas asociadas": "Sensible a algas filamentosas por acumulación de restos orgánicos atrapados en sus finas hojas.",
+      "compatibilidad con peces": "Evitar con peces herbívoros grandes o carnívoros excavadores.",
+      "compatibilidad con gambas": "Excelente refugio para crías de gamba.",
+      "uso en low-tech/high-tech": "Mejor rendimiento en sistemas High-Tech.",
+      "uso en acuarios de agua fría": "Apta para acuarios templados.",
+      "ALT descriptivo": "Planta de tallo Cabomba con hojas finas y plumosas de color verde intenso.",
+      "enlaces a plantas similares": [
+        "Limnophila sessiliflora (Ambulia)",
+        "Rotala rotundifolia"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/poda-plantas-tallo.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/cabomba-caroliniana"
+    }
+  },
+  {
+    "id": "4",
+    "nombre": "Elodea",
+    "nombreCientifico": "Egeria densa",
+    "slug": "elodea",
+    "descripcionCatalogo": "Nombre científico: Egeria densa | Dificultad: Fácil | Ubicación: Fondo o medio plano | Luz: Media",
+    "imagen": "/imagenes/tienda/elodea.jpg",
+    "altText": "Elodea verde brillante con tallos frondosos ideales para oxigenación.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/elodea",
+    "ficha": {
+      "legacyArchivo": "elodea.html",
+      "legacyRuta": "/paginas/fichas/elodea.html",
+      "ruta": "/plantas/elodea/"
+    },
+    "seo": {
+      "title": "Elodea (Egeria densa): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Elodea (Egeria densa), dificultad fácil, luz media, temperatura 10 - 26 °C, pH 6.5 - 8.0, ubicación Fondo o medio plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Cabomba",
+        "href": "/plantas/cabomba/"
+      },
+      {
+        "label": "Hygrophila polysperma",
+        "href": "/plantas/hygrophila-polysperma/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "4",
+      "nombre común": "Elodea",
+      "nombre científico": "Egeria densa",
+      "familia": "Hydrocharitaceae",
+      "origen": "Sudamérica",
+      "dificultad": "Fácil",
+      "altura": "30 - 60 cm",
+      "ancho": "3 - 5 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "10 - 26 °C",
+      "pH": "6.5 - 8.0",
+      "GH/KH": "GH 6 - 20",
+      "iluminación": "Media",
+      "CO₂": "No necesario",
+      "fertilización": "Absorción directa de la columna de agua",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Fondo o medio plano",
+      "cómo plantarla": "Enterrar los tallos en grupos o dejarla flotar libremente.",
+      "cómo reproducirla": "Mediante esquejes cortados del tallo principal.",
+      "problemas frecuentes": "Intolerancia a temperaturas tropicales muy altas (>28°C prolongadas).",
+      "algas asociadas": "Ayuda a prevenir algas consumiendo nutrientes rápidamente.",
+      "compatibilidad con peces": "Muy buena; gran oxigenadora.",
+      "compatibilidad con gambas": "Totalmente compatible.",
+      "uso en low-tech/high-tech": "Excelente en Low-Tech y estanques.",
+      "uso en acuarios de agua fría": "Excepcional para agua fría y estanques exteriores.",
+      "ALT descriptivo": "Elodea verde brillante con tallos frondosos ideales para oxigenación.",
+      "enlaces a plantas similares": [
+        "Cabomba",
+        "Hygrophila polysperma"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/oxigenacion-acuario.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/elodea"
+    }
+  },
+  {
+    "id": "5",
+    "nombre": "Potus de Agua",
+    "nombreCientifico": "Epipremnum aureum",
+    "slug": "potus-de-agua",
+    "descripcionCatalogo": "Nombre científico: Epipremnum aureum | Dificultad: Muy Fácil | Ubicación: Filtración / Parte superior del acuario (raíces sumergidas) | Luz: Baja a Alta (fuera del agua)",
+    "imagen": "/imagenes/tienda/potus-en-agua.jpg",
+    "altText": "Potus con raíces sumergidas en el agua y hojas verdes acorazonadas en el exterior.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "potusdeagua.html",
+      "legacyRuta": "/paginas/fichas/potusdeagua.html",
+      "ruta": "/plantas/potus-de-agua/"
+    },
+    "seo": {
+      "title": "Potus de Agua (Epipremnum aureum): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Potus de Agua (Epipremnum aureum), dificultad muy fácil, luz baja a alta (fuera del agua), temperatura 15 - 30 °C, pH 6.0 - 8.0, ubicación Filtración / Parte s…"
+    },
+    "relacionadas": [
+      {
+        "label": "Lirio de Agua",
+        "href": "/plantas/lirio-de-agua/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "5",
+      "nombre común": "Potus de Agua",
+      "nombre científico": "Epipremnum aureum",
+      "familia": "Araceae",
+      "origen": "Islas Salomón",
+      "dificultad": "Muy Fácil",
+      "altura": "Emergido (crecimiento libre)",
+      "ancho": "Variable",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "15 - 30 °C",
+      "pH": "6.0 - 8.0",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Baja a Alta (fuera del agua)",
+      "CO₂": "No requerido",
+      "fertilización": "Se alimenta directamente de los nitratos del acuario",
+      "tipo de crecimiento": "Trepador / Emergido",
+      "ubicación recomendada": "Filtración / Parte superior del acuario (raíces sumergidas)",
+      "cómo plantarla": "Colocar únicamente los tallos o nudos cortados sumergidos en el agua, manteniendo las hojas fuera.",
+      "cómo reproducirla": "Por esquejes de nudo con raíces aéreas.",
+      "problemas frecuentes": "Podredumbre si se sumergen las hojas completamente.",
+      "algas asociadas": "Ayuda a eliminar nitratos, reduciendo las algas en el acuario.",
+      "compatibilidad con peces": "Segura; excelente purificadora biológica.",
+      "compatibilidad con gambas": "Sus raíces densas son refugio ideal para crías.",
+      "uso en low-tech/high-tech": "Perfecto para filtración biológica natural en cualquier sistema.",
+      "uso en acuarios de agua fría": "Apto.",
+      "ALT descriptivo": "Potus con raíces sumergidas en el agua y hojas verdes acorazonadas en el exterior.",
+      "enlaces a plantas similares": [
+        "Lirio de Agua"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/hidrocultivo-potus.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "6",
+    "nombre": "Camalote",
+    "nombreCientifico": "Eichhornia crassipes",
+    "slug": "camalote",
+    "descripcionCatalogo": "Nombre científico: Eichhornia crassipes | Dificultad: Fácil | Ubicación: Superficie del acuario abierto / Estanque | Luz: Alta",
+    "imagen": "/imagenes/tienda/camalote.jpg",
+    "altText": "Camalote flotante con pecíolos inflados y hojas verdes brillantes.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/camalote",
+    "ficha": {
+      "legacyArchivo": "camalote.html",
+      "legacyRuta": "/paginas/fichas/camalote.html",
+      "ruta": "/plantas/camalote/"
+    },
+    "seo": {
+      "title": "Camalote (Eichhornia crassipes): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Camalote (Eichhornia crassipes), dificultad fácil, luz alta, temperatura 15 - 30 °C, pH 6.0 - 7.5, ubicación Superficie del acuario abierto / Estanque"
+    },
+    "relacionadas": [
+      {
+        "label": "Salvinia Natans",
+        "href": "/plantas/salvinia-natans/"
+      },
+      {
+        "label": "Lentejita de agua",
+        "href": "/plantas/lentejita-de-agua/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "6",
+      "nombre común": "Camalote",
+      "nombre científico": "Eichhornia crassipes",
+      "familia": "Pontederiaceae",
+      "origen": "Sudamérica (Cuenca del Amazonas)",
+      "dificultad": "Fácil",
+      "altura": "10 - 30 cm (sobre la superficie)",
+      "ancho": "10 - 20 cm por roseta",
+      "velocidad de crecimiento": "Muy Rápido",
+      "temperatura": "15 - 30 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Alta",
+      "CO₂": "No necesario (aire libre)",
+      "fertilización": "Alta demanda de nutrientes en el agua",
+      "tipo de crecimiento": "Flotante",
+      "ubicación recomendada": "Superficie del acuario abierto / Estanque",
+      "cómo plantarla": "Dejar flotar libremente en la superficie con acceso directo a la luz.",
+      "cómo reproducirla": "Por estolones flotantes laterales que generan nuevas rosetas.",
+      "problemas frecuentes": "Quemaduras en las hojas si la iluminación de cubierta está muy cerca y genera calor excesivo.",
+      "algas asociadas": "Bloquea la luz, limitando el crecimiento de otras plantas y algas.",
+      "compatibilidad con peces": "Excelente sombra para peces de superficie o laberíntidos.",
+      "compatibilidad con gambas": "Raíces densas muy seguras para gambas.",
+      "uso en low-tech/high-tech": "Ideal para estanques o acuarios abiertos Low-Tech.",
+      "uso en acuarios de agua fría": "Muy usado en estanques de jardín de clima templado/cálido.",
+      "ALT descriptivo": "Camalote flotante con pecíolos inflados y hojas verdes brillantes.",
+      "enlaces a plantas similares": [
+        "Salvinia Natans",
+        "Lentejita de agua"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantas-flotantes-control.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/camalote"
+    }
+  },
+  {
+    "id": "7",
+    "nombre": "Salvinia Natans",
+    "nombreCientifico": "Salvinia natans",
+    "slug": "salvinia-natans",
+    "descripcionCatalogo": "Nombre científico: Salvinia natans | Dificultad: Fácil | Ubicación: Superficie del acuario | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/salvinia.jpg",
+    "altText": "Salvinia Natans flotante con pequeñas hojas aterciopeladas.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "salvinia.html",
+      "legacyRuta": "/paginas/fichas/salvinia.html",
+      "ruta": "/plantas/salvinia-natans/"
+    },
+    "seo": {
+      "title": "Salvinia Natans (Salvinia natans): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Salvinia Natans (Salvinia natans), dificultad fácil, luz media a alta, temperatura 18 - 28 °C, pH 6.0 - 7.5, ubicación Superficie del acuario"
+    },
+    "relacionadas": [
+      {
+        "label": "Camalote",
+        "href": "/plantas/camalote/"
+      },
+      {
+        "label": "Riccia fluitans",
+        "href": "/plantas/riccia-fluitans/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "7",
+      "nombre común": "Salvinia Natans",
+      "nombre científico": "Salvinia natans",
+      "familia": "Salviniaceae",
+      "origen": "Cosmopolita / Regiones templadas y tropicales",
+      "dificultad": "Fácil",
+      "altura": "Flotante (superficie)",
+      "ancho": "Cobertura expansiva",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "18 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "Blando a moderado",
+      "iluminación": "Media a Alta",
+      "CO₂": "No necesario",
+      "fertilización": "Absorción directa de nitratos y fosfatos",
+      "tipo de crecimiento": "Flotante",
+      "ubicación recomendada": "Superficie del acuario",
+      "cómo plantarla": "Colocar sobre la superficie del agua sin corrientes fuertes directas.",
+      "cómo reproducirla": "Ramificación natural y fragmentación del tallo flotante.",
+      "problemas frecuentes": "Se pudre si recibe condensación excesiva de agua en sus hojas superiores por tapas cerradas sin ventilación.",
+      "algas asociadas": "Reduce drásticamente las algas al competir por la luz superficial.",
+      "compatibilidad con peces": "Proporciona refugio calmante.",
+      "compatibilidad con gambas": "Sus raíces filamentosas recogen microorganismos para las gambas.",
+      "uso en low-tech/high-tech": "Ideal para Low-Tech.",
+      "uso en acuarios de agua fría": "Apto para agua fría.",
+      "ALT descriptivo": "Salvinia Natans flotante con pequeñas hojas aterciopeladas.",
+      "enlaces a plantas similares": [
+        "Camalote",
+        "Riccia fluitans"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/manejo-flotantes.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "8",
+    "nombre": "Helecho de Sumatra",
+    "nombreCientifico": "Ceratopteris thalictroides",
+    "slug": "helecho-de-sumatra",
+    "descripcionCatalogo": "Nombre científico: Ceratopteris thalictroides | Dificultad: Media | Ubicación: Medio plano o fondo | Luz: Media",
+    "imagen": "/imagenes/tienda/helecho-sumatra.jpg",
+    "altText": "Helecho de Sumatra con hojas encajesas muy vistosas.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "helechosumatra.html",
+      "legacyRuta": "/paginas/fichas/helechosumatra.html",
+      "ruta": "/plantas/helecho-de-sumatra/"
+    },
+    "seo": {
+      "title": "Helecho de Sumatra (Ceratopteris thalictroides): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Helecho de Sumatra (Ceratopteris thalictroides), dificultad media, luz media, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Medio plano o fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Helecho de java",
+        "href": "/plantas/helecho-de-java/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "8",
+      "nombre común": "Helecho de Sumatra",
+      "nombre científico": "Ceratopteris thalictroides",
+      "familia": "Pteridaceae",
+      "origen": "Pantanos tropicales de todo el mundo",
+      "dificultad": "Media",
+      "altura": "15 - 30 cm",
+      "ancho": "15 - 25 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "20 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 2 - 12",
+      "iluminación": "Media",
+      "CO₂": "Opcional",
+      "fertilización": "Micronutrientes y potasio",
+      "tipo de crecimiento": "Roseta / Flotante facultativo",
+      "ubicación recomendada": "Medio plano o fondo",
+      "cómo plantarla": "Plantar suavemente en el sustrato dejando la base de los pecíolos despejada.",
+      "cómo reproducirla": "Generación de plántulas adventicias en los bordes de las hojas viejas.",
+      "problemas frecuentes": "Melancolía o deshacerse si hay cambios radicales en la química del agua.",
+      "algas asociadas": "Sensible a algas filamentosas si el crecimiento se estanca.",
+      "compatibilidad con peces": "Excelente con peces pacíficos.",
+      "compatibilidad con gambas": "Muy amigable.",
+      "uso en low-tech/high-tech": "Funciona bien en ambos sistemas.",
+      "uso en acuarios de agua fría": "No recomendado (prefiere clima tropical).",
+      "ALT descriptivo": "Helecho de Sumatra con hojas encajesas muy vistosas.",
+      "enlaces a plantas similares": [
+        "Helecho de java"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/propagacion-helechos.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "9",
+    "nombre": "Lirio de Agua",
+    "nombreCientifico": "Zantedeschia aethiopica",
+    "slug": "lirio-de-agua",
+    "descripcionCatalogo": "Nombre científico: Zantedeschia aethiopica | Dificultad: Fácil (cultivo palustre/emergido) | Ubicación: Márgenes de estanques o macetas de filtración | Luz: Alta",
+    "imagen": "/imagenes/tienda/liriodeagua.jpg",
+    "altText": "Lirio de agua con grandes hojas acorazonadas y elegante espata blanca.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "liriodeagua.html",
+      "legacyRuta": "/paginas/fichas/liriodeagua.html",
+      "ruta": "/plantas/lirio-de-agua/"
+    },
+    "seo": {
+      "title": "Lirio de Agua (Zantedeschia aethiopica): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Lirio de Agua (Zantedeschia aethiopica), dificultad fácil (cultivo palustre/emergido), luz alta, temperatura 15 - 25 °C, pH 6.0 - 7.5, ubicación Márgenes de es…"
+    },
+    "relacionadas": [
+      {
+        "label": "Potus de Agua",
+        "href": "/plantas/potus-de-agua/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "9",
+      "nombre común": "Lirio de Agua",
+      "nombre científico": "Zantedeschia aethiopica",
+      "familia": "Araceae",
+      "origen": "Sudáfrica",
+      "dificultad": "Fácil (cultivo palustre/emergido)",
+      "altura": "60 - 100+ cm",
+      "ancho": "30 - 50 cm",
+      "velocidad de crecimiento": "Moderado",
+      "temperatura": "15 - 25 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Alta",
+      "CO₂": "No necesario",
+      "fertilización": "Sustrato rico o abonado general",
+      "tipo de crecimiento": "Palustre / Emergido",
+      "ubicación recomendada": "Márgenes de estanques o macetas de filtración",
+      "cómo plantarla": "En la zona palustre o semi-sumergida, con la base del rizoma enterrada y hojas al aire.",
+      "cómo reproducirla": "División de rizomas laterales.",
+      "problemas frecuentes": "Intolerancia a la sumersión total de su follaje.",
+      "algas asociadas": "No aplica directamente por su hábito emergido.",
+      "compatibilidad con peces": "Ideal para la zona exterior de estanques con peces.",
+      "compatibilidad con gambas": "Segura en áreas de raíces.",
+      "uso en low-tech/high-tech": "Uso exclusivo en proyectos palustres o estanques.",
+      "uso en acuarios de agua fría": "Excelente para estanques de exterior resistentes al frío leve.",
+      "ALT descriptivo": "Lirio de agua con grandes hojas acorazonadas y elegante espata blanca.",
+      "enlaces a plantas similares": [
+        "Potus de Agua"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/acuarios-palustres.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "10",
+    "nombre": "Hygrophila polysperma",
+    "nombreCientifico": "Hygrophila polysperma",
+    "slug": "hygrophila-polysperma",
+    "descripcionCatalogo": "Nombre científico: Hygrophila polysperma | Dificultad: Fácil | Ubicación: Fondo o medio plano | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/Hygrophilapolysperma.jpg",
+    "altText": "Hygrophila polysperma con tallos rectos y hojas ovaladas de color verde claro.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/hygrophila-polysperma",
+    "ficha": {
+      "legacyArchivo": "Hygrophilapolysperma.html",
+      "legacyRuta": "/paginas/fichas/Hygrophilapolysperma.html",
+      "ruta": "/plantas/hygrophila-polysperma/"
+    },
+    "seo": {
+      "title": "Hygrophila polysperma (Hygrophila polysperma): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Hygrophila polysperma (Hygrophila polysperma), dificultad fácil, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 8.0, ubicación Fondo o medio plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Hygrophila polysperma Rosanervig",
+        "href": "/plantas/hygrophila-polysperma-rosanervig/"
+      },
+      {
+        "label": "Bacopa monnieri",
+        "href": "/plantas/bacopa-monnieri/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "10",
+      "nombre común": "Hygrophila polysperma",
+      "nombre científico": "Hygrophila polysperma",
+      "familia": "Acanthaceae",
+      "origen": "Sudeste Asiático",
+      "dificultad": "Fácil",
+      "altura": "25 - 40 cm",
+      "ancho": "4 - 8 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "18 - 30 °C",
+      "pH": "6.0 - 8.0",
+      "GH/KH": "GH 4 - 20",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Abonado básico",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Fondo o medio plano",
+      "cómo plantarla": "Insertar los tallos recortados individualmente en el sustrato con una separación de 2 cm.",
+      "cómo reproducirla": "Esquejes de tallo laterales y superiores.",
+      "problemas frecuentes": "Crecimiento tan veloz que puede sombrear otras especies si no se poda.",
+      "algas asociadas": "Poco propensa a algas gracias a su gran voracidad de nutrientes.",
+      "compatibilidad con peces": "Muy resistente a daños por peces.",
+      "compatibilidad con gambas": "Excelente complemento.",
+      "uso en low-tech/high-tech": "Excepcional para acuarios Low-Tech de fácil arranque.",
+      "uso en acuarios de agua fría": "Apta para rangos templados.",
+      "ALT descriptivo": "Hygrophila polysperma con tallos rectos y hojas ovaladas de color verde claro.",
+      "enlaces a plantas similares": [
+        "Hygrophila polysperma Rosanervig",
+        "Bacopa monnieri"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/iniciacion-plantas-faciles.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/hygrophila-polysperma"
+    }
+  },
+  {
+    "id": "11",
+    "nombre": "Sagitaria subulata",
+    "nombreCientifico": "Sagittaria subulata",
+    "slug": "sagitaria-subulata",
+    "descripcionCatalogo": "Nombre científico: Sagittaria subulata | Dificultad: Fácil | Ubicación: Primer plano o medio plano | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/Sagitariasubulata.jpg",
+    "altText": "Sagitaria subulata formando un césped compacto de hojas lineales.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/sagitaria-subulata",
+    "ficha": {
+      "legacyArchivo": "sagitariasubulata.html",
+      "legacyRuta": "/paginas/fichas/sagitariasubulata.html",
+      "ruta": "/plantas/sagitaria-subulata/"
+    },
+    "seo": {
+      "title": "Sagitaria subulata (Sagittaria subulata): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Sagitaria subulata (Sagittaria subulata), dificultad fácil, luz baja a media, temperatura 15 - 26 °C, pH 6.0 - 8.0, ubicación Primer plano o medio plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Echinodorus tenellus",
+        "href": "/plantas/echinodorus-tenellus/"
+      },
+      {
+        "label": "Marsilea hirsuta",
+        "href": "/plantas/marsilea-hirsuta/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "11",
+      "nombre común": "Sagitaria subulata",
+      "nombre científico": "Sagittaria subulata",
+      "familia": "Alismataceae",
+      "origen": "América del Norte",
+      "dificultad": "Fácil",
+      "altura": "5 - 15 cm",
+      "ancho": "Estolones continuos",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "15 - 26 °C",
+      "pH": "6.0 - 8.0",
+      "GH/KH": "GH 4 - 15",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Sustrato nutritivo o pastillas radiculares",
+      "tipo de crecimiento": "Tapizante / Estolones",
+      "ubicación recomendada": "Primer plano o medio plano",
+      "cómo plantarla": "Separar los pequeños manojos e introducirlos en el sustrato dejando una pequeña distancia para que formen el césped por estolones.",
+      "cómo reproducirla": "Mediante estolones subterráneos que emiten nuevas matas con rapidez.",
+      "problemas frecuentes": "Tendencia a estirarse en exceso si falta iluminación.",
+      "algas asociadas": "Puede acumular algas verdes spot si recibe demasiada luz directa sin suficientes nutrientes.",
+      "compatibilidad con peces": "Resistente, aunque peces excavadores grandes pueden desenterrar los brotes nuevos.",
+      "compatibilidad con gambas": "Muy segura.",
+      "uso en low-tech/high-tech": "Ideal para tapizar acuarios Low-Tech sin CO₂.",
+      "uso en acuarios de agua fría": "Muy apta para agua fría.",
+      "ALT descriptivo": "Sagitaria subulata formando un césped compacto de hojas lineales.",
+      "enlaces a plantas similares": [
+        "Echinodorus tenellus",
+        "Marsilea hirsuta"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/como-hacer-tapiz.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/sagitaria-subulata"
+    }
+  },
+  {
+    "id": "12",
+    "nombre": "Echinodorus",
+    "nombreCientifico": "Echinodorus spp.",
+    "slug": "echinodorus",
+    "descripcionCatalogo": "Nombre científico: Echinodorus spp. | Dificultad: Fácil | Ubicación: Medio plano o punto focal aislado | Luz: Media",
+    "imagen": "/imagenes/tienda/Echinodorus.jpg",
+    "altText": "Echinodorus de grandes hojas anchas y vistosas en roseta.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "echinodorus.html",
+      "legacyRuta": "/paginas/fichas/echinodorus.html",
+      "ruta": "/plantas/echinodorus/"
+    },
+    "seo": {
+      "title": "Echinodorus (Echinodorus spp.): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Echinodorus (Echinodorus spp.), dificultad fácil, luz media, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Medio plano o punto focal aislado"
+    },
+    "relacionadas": [
+      {
+        "label": "Cryptocoryne crispatula balansae",
+        "href": "/plantas/cryptocoryne-crispatula-balansae/"
+      },
+      {
+        "label": "Anubias",
+        "href": "/plantas/anubias/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "12",
+      "nombre común": "Echinodorus",
+      "nombre científico": "Echinodorus spp.",
+      "familia": "Alismataceae",
+      "origen": "América tropical",
+      "dificultad": "Fácil",
+      "altura": "20 - 50+ cm",
+      "ancho": "20 - 40 cm",
+      "velocidad de crecimiento": "Moderado",
+      "temperatura": "20 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 3 - 15",
+      "iluminación": "Media",
+      "CO₂": "Opcional",
+      "fertilización": "Alta exigencia radicular (pastillas de fondo)",
+      "tipo de crecimiento": "Roseta grande",
+      "ubicación recomendada": "Medio plano o punto focal aislado",
+      "cómo plantarla": "Plantar de forma individual en el sustrato debido a su gran volumen, dejando espacio libre a su alrededor.",
+      "cómo reproducirla": "Por tallos florales que generan plantas adventicias o división de la corona.",
+      "problemas frecuentes": "Clorosis férrica (hojas amarillentas) si el sustrato carece de hierro.",
+      "algas asociadas": "Poco afectada si está sana; las hojas viejas pueden atraer algas punto verde.",
+      "compatibilidad con peces": "Excelente opción para acuarios de cíclidos por su robustez.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Se adapta de forma excelente a Low-Tech.",
+      "uso en acuarios de agua fría": "Apta para rangos templados.",
+      "ALT descriptivo": "Echinodorus de grandes hojas anchas y vistosas en roseta.",
+      "enlaces a plantas similares": [
+        "Cryptocoryne crispatula balansae",
+        "Anubias"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/nutricion-plantas-roseta.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "13",
+    "nombre": "Musgo de Java",
+    "nombreCientifico": "Taxiphyllum barbieri",
+    "slug": "musgo-de-java",
+    "descripcionCatalogo": "Nombre científico: Taxiphyllum barbieri | Dificultad: Muy Fácil | Ubicación: Troncos, rocas, suelos o paredes de malla | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/mussodejava.jpg",
+    "altText": "Musgo de Java denso cubriendo un soporte de madera.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/musgo-java",
+    "ficha": {
+      "legacyArchivo": "musgodejava.html",
+      "legacyRuta": "/paginas/fichas/musgodejava.html",
+      "ruta": "/plantas/musgo-de-java/"
+    },
+    "seo": {
+      "title": "Musgo de Java (Taxiphyllum barbieri): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Musgo de Java (Taxiphyllum barbieri), dificultad muy fácil, luz baja a media, temperatura 15 - 28 °C, pH 5.5 - 8.0, ubicación Troncos, rocas, suelos o paredes…"
+    },
+    "relacionadas": [
+      {
+        "label": "Vesicularia reticulata",
+        "href": "/plantas/vesicularia-reticulata/"
+      },
+      {
+        "label": "Riccia fluitans",
+        "href": "/plantas/riccia-fluitans/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "13",
+      "nombre común": "Musgo de Java",
+      "nombre científico": "Taxiphyllum barbieri",
+      "familia": "Hypnaceae",
+      "origen": "Sudeste Asiático",
+      "dificultad": "Muy Fácil",
+      "altura": "3 - 10 cm (alfombra o volumen)",
+      "ancho": "Expansivo",
+      "velocidad de crecimiento": "Lento a Moderado",
+      "temperatura": "15 - 28 °C",
+      "pH": "5.5 - 8.0",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Abono líquido general mínimo",
+      "tipo de crecimiento": "Musgo / Epífito",
+      "ubicación recomendada": "Troncos, rocas, suelos o paredes de malla",
+      "cómo plantarla": "Atar con hilo transparente o malla sobre maderas y rocas; se adhiere sola con el tiempo.",
+      "cómo reproducirla": "Por fragmentación y división de manojos.",
+      "problemas frecuentes": "Acumulación de detritos y suciedad en su interior si no hay buena corriente.",
+      "algas asociadas": "Muy susceptible a algas filamentosas si hay desequilibrios de luz/nutrientes.",
+      "compatibilidad con peces": "Perfecto; resguarda a peces pequeños y alevines.",
+      "compatibilidad con gambas": "El hábitat preferido por excelencia para gambas y crías.",
+      "uso en low-tech/high-tech": "Estelar en sistemas Low-Tech.",
+      "uso en acuarios de agua fría": "Resiste muy bien el agua fría.",
+      "ALT descriptivo": "Musgo de Java denso cubriendo un soporte de madera.",
+      "enlaces a plantas similares": [
+        "Vesicularia reticulata",
+        "Riccia fluitans"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/como-cultivar-musgos.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/musgo-java"
+    }
+  },
+  {
+    "id": "14",
+    "nombre": "Anubias",
+    "nombreCientifico": "Anubias barteri",
+    "slug": "anubias",
+    "descripcionCatalogo": "Nombre científico: Anubias barteri | Dificultad: Muy Fácil | Ubicación: Primer plano o medio plano sobre rocas y troncos | Luz: Baja",
+    "imagen": "/imagenes/tienda/anubias.jpg",
+    "altText": "Anubias con hojas gruesas, oscuras y duras sobre un tronco.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "anubias.html",
+      "legacyRuta": "/paginas/fichas/anubias.html",
+      "ruta": "/plantas/anubias/"
+    },
+    "seo": {
+      "title": "Anubias (Anubias barteri): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Anubias (Anubias barteri), dificultad muy fácil, luz baja, temperatura 20 - 30 °C, pH 6.0 - 8.0, ubicación Primer plano o medio plano sobre rocas y troncos"
+    },
+    "relacionadas": [
+      {
+        "label": "Helecho de java",
+        "href": "/plantas/helecho-de-java/"
+      },
+      {
+        "label": "Bucephalandra Red Cherry",
+        "href": "/plantas/bucephalandra-red-cherry/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "14",
+      "nombre común": "Anubias",
+      "nombre científico": "Anubias barteri",
+      "familia": "Araceae",
+      "origen": "África Occidental",
+      "dificultad": "Muy Fácil",
+      "altura": "5 - 30 cm (según variedad)",
+      "ancho": "10 - 20 cm",
+      "velocidad de crecimiento": "Lento",
+      "temperatura": "20 - 30 °C",
+      "pH": "6.0 - 8.0",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Baja",
+      "CO₂": "No necesario",
+      "fertilización": "Abono líquido ligero",
+      "tipo de crecimiento": "Rizoma",
+      "ubicación recomendada": "Primer plano o medio plano sobre rocas y troncos",
+      "cómo plantarla": "Atar o pegar el rizoma a elementos duros; nunca enterrar el rizoma principal.",
+      "cómo reproducirla": "Cortando fragmentos del rizoma que contengan al menos 3-4 hojas sanas.",
+      "problemas frecuentes": "Pudrición del rizoma por enterramiento accidental o ataque de hongos.",
+      "algas asociadas": "Propensa a algas punto verde en sus hojas duras si recibe luz directa muy intensa.",
+      "compatibilidad con peces": "Inmune a peces herbívoros gracias a sus hojas coriáceas.",
+      "compatibilidad con gambas": "Segura y duradera.",
+      "uso en low-tech/high-tech": "Ideal para Low-Tech y acuarios sombríos.",
+      "uso en acuarios de agua fría": "Apta para rangos templados.",
+      "ALT descriptivo": "Anubias con hojas gruesas, oscuras y duras sobre un tronco.",
+      "enlaces a plantas similares": [
+        "Helecho de java",
+        "Bucephalandra Red Cherry"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/cuidado-de-anubias.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "15",
+    "nombre": "Cryptocoryne Wendti Green",
+    "nombreCientifico": "Cryptocoryne wendtii 'Green'",
+    "slug": "cryptocoryne-wendti-green",
+    "descripcionCatalogo": "Nombre científico: Cryptocoryne wendtii 'Green' | Dificultad: Fácil | Ubicación: Primer plano o medio plano | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/CryptocoryneWendtiGreen.jpg",
+    "altText": "Cryptocoryne Wendtii Green con hojas lanceoladas de color verde brillante.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/cryptocoryne-green",
+    "ficha": {
+      "legacyArchivo": "CryptocoryneWendtiGreen.html",
+      "legacyRuta": "/paginas/fichas/CryptocoryneWendtiGreen.html",
+      "ruta": "/plantas/cryptocoryne-wendti-green/"
+    },
+    "seo": {
+      "title": "Cryptocoryne Wendti Green (Cryptocoryne wendtii 'Green'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Cryptocoryne Wendti Green (Cryptocoryne wendtii 'Green'), dificultad fácil, luz baja a media, temperatura 20 - 30 °C, pH 6.0 - 7.5, ubicación Primer plano o me…"
+    },
+    "relacionadas": [
+      {
+        "label": "Cryptocoryne wendtii red",
+        "href": "/plantas/cryptocoryne-wendtii-red/"
+      },
+      {
+        "label": "Cryptocoryne parva",
+        "href": "/plantas/cryptocoryne-parva/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "15",
+      "nombre común": "Cryptocoryne Wendti Green",
+      "nombre científico": "Cryptocoryne wendtii 'Green'",
+      "familia": "Araceae",
+      "origen": "Sri Lanka",
+      "dificultad": "Fácil",
+      "altura": "10 - 25 cm",
+      "ancho": "8 - 15 cm",
+      "velocidad de crecimiento": "Lento a Moderado",
+      "temperatura": "20 - 30 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 3 - 14",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Sustrato nutritivo o pastillas de fondo",
+      "tipo de crecimiento": "Roseta / Estolones cortos",
+      "ubicación recomendada": "Primer plano o medio plano",
+      "cómo plantarla": "Enterrar las raíces verticalmente en el sustrato asegurando que la corona quede justo a nivel de la superficie del mismo.",
+      "cómo reproducirla": "Mediante estolones cortos que brotan alrededor de la planta madre.",
+      "problemas frecuentes": "El llamado 'cáncer o enfermedad de las Cryptocorynes' (desintegración foliar por cambios bruscos de parámetros químicos).",
+      "algas asociadas": "Poco propensa a algas debido a su desarrollo radicular robusto.",
+      "compatibilidad con peces": "Excelente; los cíclidos no suelen dañarla.",
+      "compatibilidad con gambas": "Muy compatible.",
+      "uso en low-tech/high-tech": "Perfecta para acuarios Low-Tech de baja tecnología.",
+      "uso en acuarios de agua fría": "Soporta temperaturas moderadas.",
+      "ALT descriptivo": "Cryptocoryne Wendtii Green con hojas lanceoladas de color verde brillante.",
+      "enlaces a plantas similares": [
+        "Cryptocoryne wendtii red",
+        "Cryptocoryne parva"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/enfermedad-cryptocoryne.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/cryptocoryne-green"
+    }
+  },
+  {
+    "id": "16",
+    "nombre": "Hierba de Cuba",
+    "nombreCientifico": "Hemianthus callitrichoides",
+    "slug": "hemianthus-callitrichoides",
+    "descripcionCatalogo": "Nombre científico: Hemianthus callitrichoides | Dificultad: Alta | Ubicación: Primer plano | Luz: Alta",
+    "imagen": "/imagenes/tienda/hemianthuscallitrichoides.jpg",
+    "altText": "Hemianthus callitrichoides formando un tapiz verde brillante tipo alfombra.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "hemianthuscallitrichoides.html",
+      "legacyRuta": "/paginas/fichas/hemianthuscallitrichoides.html",
+      "ruta": "/plantas/hemianthus-callitrichoides/"
+    },
+    "seo": {
+      "title": "Hierba de Cuba (Hemianthus callitrichoides): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Hierba de Cuba (Hemianthus callitrichoides), dificultad alta, luz alta, temperatura 18 - 26 °C, pH 5.5 - 7.0, ubicación Primer plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Staurogyne repens",
+        "href": "/plantas/staurogyne-repens/"
+      },
+      {
+        "label": "Utricularia graminifolia",
+        "href": "/plantas/utricularia-graminifolia/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "16",
+      "nombre común": "Hierba de Cuba",
+      "nombre científico": "Hemianthus callitrichoides",
+      "familia": "Scrophulariaceae",
+      "origen": "Cuba",
+      "dificultad": "Alta",
+      "altura": "3 - 5 cm",
+      "ancho": "Césped denso expansivo",
+      "velocidad de crecimiento": "Moderado a Rápido (con condiciones altas)",
+      "temperatura": "18 - 26 °C",
+      "pH": "5.5 - 7.0",
+      "GH/KH": "Blando",
+      "iluminación": "Alta",
+      "CO₂": "Obligatorio (Inyección constante)",
+      "fertilización": "Macro y micronutrientes completos con hierro",
+      "tipo de crecimiento": "Tapizante rastrero",
+      "ubicación recomendada": "Primer plano",
+      "cómo plantarla": "Dividir en pequeñísimos manojos y pinzas individuales separadas 1-2 cm en el sustrato fino.",
+      "cómo reproducirla": "Extensión horizontal de tallos rastreros sobre el sustrato.",
+      "problemas frecuentes": "Flotación inicial masiva y marchitamiento si falta CO₂ o luz intensa.",
+      "algas asociadas": "Muy vulnerable a algas filamentosas y cianobacterias por estar pegada al sustrato con alta luz.",
+      "compatibilidad con peces": "Incompatible con peces excavadores grandes.",
+      "compatibilidad con gambas": "Excelente para paisajismo con gambas.",
+      "uso en low-tech/high-tech": "Exclusivo de acuarios High-Tech avanzados.",
+      "uso en acuarios de agua fría": "No apto.",
+      "ALT descriptivo": "Hemianthus callitrichoides formando un tapiz verde brillante tipo alfombra.",
+      "enlaces a plantas similares": [
+        "Staurogyne repens",
+        "Utricularia graminifolia"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/montaje-high-tech-tapizado.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "17",
+    "nombre": "Vallisneria gigantea",
+    "nombreCientifico": "Vallisneria gigantea",
+    "slug": "vallisneria-gigantea",
+    "descripcionCatalogo": "Nombre científico: Vallisneria gigantea | Dificultad: Fácil | Ubicación: Fondo de acuarios grandes | Luz: Media",
+    "imagen": "/imagenes/tienda/vallisneriagigantea.jpg",
+    "altText": "Vallisneria gigantea con hojas en cinta larguísimas flotando en la superficie.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/gigantea",
+    "ficha": {
+      "legacyArchivo": "valisneriagigantea.html",
+      "legacyRuta": "/paginas/fichas/valisneriagigantea.html",
+      "ruta": "/plantas/vallisneria-gigantea/"
+    },
+    "seo": {
+      "title": "Vallisneria gigantea (Vallisneria gigantea): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Vallisneria gigantea (Vallisneria gigantea), dificultad fácil, luz media, temperatura 18 - 28 °C, pH 6.5 - 8.0, ubicación Fondo de acuarios grandes"
+    },
+    "relacionadas": [
+      {
+        "label": "Valisneria",
+        "href": "/plantas/valisneria/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "17",
+      "nombre común": "Vallisneria gigantea",
+      "nombre científico": "Vallisneria gigantea",
+      "familia": "Hydrocharitaceae",
+      "origen": "Asia sudoriental y Nueva Guinea",
+      "dificultad": "Fácil",
+      "altura": "50 - 150+ cm",
+      "ancho": "15 - 25 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "18 - 28 °C",
+      "pH": "6.5 - 8.0",
+      "GH/KH": "GH 6 - 20",
+      "iluminación": "Media",
+      "CO₂": "No necesario",
+      "fertilización": "Sustrato nutritivo",
+      "tipo de crecimiento": "Cinta / Estolones",
+      "ubicación recomendada": "Fondo de acuarios grandes",
+      "cómo plantarla": "Plantar en la parte posterior del acuario dejando espacio para su propagación por estolones.",
+      "cómo reproducirla": "Estolones basales frecuentes.",
+      "problemas frecuentes": "Sus hojas largas pueden bloquear la luz de otras plantas más pequeñas al flotar en la superficie.",
+      "algas asociadas": "Poco afectada; resiste muy bien.",
+      "compatibilidad con peces": "Excelente para grandes cíclidos u otros peces robustos.",
+      "compatibilidad con gambas": "Totalmente segura.",
+      "uso en low-tech/high-tech": "Perfecta para Low-Tech.",
+      "uso en acuarios de agua fría": "Muy apta para agua fría y estanques.",
+      "ALT descriptivo": "Vallisneria gigantea con hojas en cinta larguísimas flotando en la superficie.",
+      "enlaces a plantas similares": [
+        "Valisneria"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/acuarios-grandes-fondo.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/gigantea"
+    }
+  },
+  {
+    "id": "18",
+    "nombre": "Bacopa monnieri",
+    "nombreCientifico": "Bacopa monnieri",
+    "slug": "bacopa-monnieri",
+    "descripcionCatalogo": "Nombre científico: Bacopa monnieri | Dificultad: Fácil | Ubicación: Primer plano o medio plano | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/bacopamonnieri.jpg",
+    "altText": "Bacopa monnieri con hojas carnosas redondeadas de color verde claro.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "bacopamonnieri.html",
+      "legacyRuta": "/paginas/fichas/bacopamonnieri.html",
+      "ruta": "/plantas/bacopa-monnieri/"
+    },
+    "seo": {
+      "title": "Bacopa monnieri (Bacopa monnieri): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Bacopa monnieri (Bacopa monnieri), dificultad fácil, luz baja a media, temperatura 15 - 30 °C, pH 5.5 - 8.0, ubicación Primer plano o medio plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Hygrophila polysperma",
+        "href": "/plantas/hygrophila-polysperma/"
+      },
+      {
+        "label": "Ludwigia repens",
+        "href": "/plantas/ludwigia-repens/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "18",
+      "nombre común": "Bacopa monnieri",
+      "nombre científico": "Bacopa monnieri",
+      "familia": "Plantaginaceae",
+      "origen": "Regiones tropicales y subtropicales (Pantanos)",
+      "dificultad": "Fácil",
+      "altura": "15 - 30 cm",
+      "ancho": "3 - 5 cm",
+      "velocidad de crecimiento": "Lento a Moderado",
+      "temperatura": "15 - 30 °C",
+      "pH": "5.5 - 8.0",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Abonado estándar",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Primer plano o medio plano",
+      "cómo plantarla": "Insertar los tallos en grupos pequeños de 3 a 5 unidades dejando separación.",
+      "cómo reproducirla": "Mediante esquejes de tallo laterales.",
+      "problemas frecuentes": "Pérdida de hojas inferiores por sombra densa.",
+      "algas asociadas": "Baja susceptibilidad a algas.",
+      "compatibilidad con peces": "Muy resistente.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Ideal para Low-Tech y acuarios de agua fría.",
+      "uso en acuarios de agua fría": "Excelente adaptación al agua fría.",
+      "ALT descriptivo": "Bacopa monnieri con hojas carnosas redondeadas de color verde claro.",
+      "enlaces a plantas similares": [
+        "Hygrophila polysperma",
+        "Ludwigia repens"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantas-para-principiantes.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "19",
+    "nombre": "Cryptocoryne wendtii red",
+    "nombreCientifico": "Cryptocoryne wendtii 'Red'",
+    "slug": "cryptocoryne-wendtii-red",
+    "descripcionCatalogo": "Nombre científico: Cryptocoryne wendtii 'Red' | Dificultad: Fácil | Ubicación: Medio plano | Luz: Media",
+    "imagen": "/imagenes/tienda/cryptocorynewendtiired.jpg",
+    "altText": "Cryptocoryne wendtii red con tonalidades marrones y rojizas oscuras.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "cryptocorynewendtiired.html",
+      "legacyRuta": "/paginas/fichas/cryptocorynewendtiired.html",
+      "ruta": "/plantas/cryptocoryne-wendtii-red/"
+    },
+    "seo": {
+      "title": "Cryptocoryne wendtii red (Cryptocoryne wendtii 'Red'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Cryptocoryne wendtii red (Cryptocoryne wendtii 'Red'), dificultad fácil, luz media, temperatura 20 - 30 °C, pH 6.0 - 7.5, ubicación Medio plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Cryptocoryne Wendti Green",
+        "href": "/plantas/cryptocoryne-wendti-green/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "19",
+      "nombre común": "Cryptocoryne wendtii red",
+      "nombre científico": "Cryptocoryne wendtii 'Red'",
+      "familia": "Araceae",
+      "origen": "Sri Lanka",
+      "dificultad": "Fácil",
+      "altura": "10 - 25 cm",
+      "ancho": "10 - 15 cm",
+      "velocidad de crecimiento": "Lento",
+      "temperatura": "20 - 30 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 3 - 14",
+      "iluminación": "Media",
+      "CO₂": "Opcional",
+      "fertilización": "Sustrato nutritivo o pastillas de fondo",
+      "tipo de crecimiento": "Roseta",
+      "ubicación recomendada": "Medio plano",
+      "cómo plantarla": "Enterrar las raíces manteniendo la corona fuera del sustrato.",
+      "cómo reproducirla": "Por estolones cortos subterráneos.",
+      "problemas frecuentes": "Adaptación lenta al cambiar de parámetros (melt inicial común).",
+      "algas asociadas": "Resistente a las algas por su crecimiento pausado.",
+      "compatibilidad con peces": "Excelente resistencia.",
+      "compatibilidad con gambas": "Muy compatible.",
+      "uso en low-tech/high-tech": "Apta para Low-Tech.",
+      "uso en acuarios de agua fría": "Soporta temperaturas moderadas.",
+      "ALT descriptivo": "Cryptocoryne wendtii red con tonalidades marrones y rojizas oscuras.",
+      "enlaces a plantas similares": [
+        "Cryptocoryne Wendti Green"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantas-rojas-faciles.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "20",
+    "nombre": "Ambulia",
+    "nombreCientifico": "Limnophila sessiliflora",
+    "slug": "limnophila-sessiliflora-ambulia",
+    "descripcionCatalogo": "Nombre científico: Limnophila sessiliflora | Dificultad: Fácil | Ubicación: Fondo | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/limnophilasessiliflora.jpg",
+    "altText": "Limnophila sessiliflora con hojas plumosas verdes muy finas.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/limnophila-sessiliflora",
+    "ficha": {
+      "legacyArchivo": "limnophilasessiliflora.html",
+      "legacyRuta": "/paginas/fichas/limnophilasessiliflora.html",
+      "ruta": "/plantas/limnophila-sessiliflora-ambulia/"
+    },
+    "seo": {
+      "title": "Ambulia (Limnophila sessiliflora): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Ambulia (Limnophila sessiliflora), dificultad fácil, luz media a alta, temperatura 22 - 28 °C, pH 6.0 - 7.5, ubicación Fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Cabomba",
+        "href": "/plantas/cabomba/"
+      },
+      {
+        "label": "Rotala rotundifolia",
+        "href": "/plantas/rotala-rotundifolia/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "20",
+      "nombre común": "Ambulia",
+      "nombre científico": "Limnophila sessiliflora",
+      "familia": "Plantaginaceae",
+      "origen": "Sudeste Asiático",
+      "dificultad": "Fácil",
+      "altura": "30 - 40+ cm",
+      "ancho": "3 - 5 cm",
+      "velocidad de crecimiento": "Muy Rápido",
+      "temperatura": "22 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 2 - 12",
+      "iluminación": "Media a Alta",
+      "CO₂": "Opcional",
+      "fertilización": "Abono líquido y hierro",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Fondo",
+      "cómo plantarla": "Plantar los tallos separados unos 2 cm para que no compitan drásticamente por la luz.",
+      "cómo reproducirla": "Mediante esquejes de tallo.",
+      "problemas frecuentes": "Se debilita y estira demasiado si la iluminación es escasa.",
+      "algas asociadas": "Sensible a algas filamentosas si hay exceso de materia orgánica en suspensión.",
+      "compatibilidad con peces": "Buena compatibilidad.",
+      "compatibilidad con gambas": "Segura para alevines de gamba.",
+      "uso en low-tech/high-tech": "Se desarrolla con gran facilidad en Low-Tech.",
+      "uso en acuarios de agua fría": "Apta para rangos templados.",
+      "ALT descriptivo": "Limnophila sessiliflora con hojas plumosas verdes muy finas.",
+      "enlaces a plantas similares": [
+        "Cabomba",
+        "Rotala rotundifolia"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantas-crecimiento-rapido.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/limnophila-sessiliflora"
+    }
+  },
+  {
+    "id": "21",
+    "nombre": "Staurogyne repens",
+    "nombreCientifico": "Staurogyne repens",
+    "slug": "staurogyne-repens",
+    "descripcionCatalogo": "Nombre científico: Staurogyne repens | Dificultad: Media | Ubicación: Primer plano o medio plano | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/Staurogynerepens.jpg",
+    "altText": "Staurogyne repens con tallos cortos y hojas verdes densas para alfombras.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "Staurogynerepens.html",
+      "legacyRuta": "/paginas/fichas/Staurogynerepens.html",
+      "ruta": "/plantas/staurogyne-repens/"
+    },
+    "seo": {
+      "title": "Staurogyne repens (Staurogyne repens): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Staurogyne repens (Staurogyne repens), dificultad media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano o medio plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Hydrocotyle tripartita",
+        "href": "/plantas/hydrocotyle-tripartita/"
+      },
+      {
+        "label": "Hemianthus callitrichoides",
+        "href": "/plantas/hemianthus-callitrichoides/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "21",
+      "nombre común": "Staurogyne repens",
+      "nombre científico": "Staurogyne repens",
+      "familia": "Acanthaceae",
+      "origen": "Sudamérica (Brasil)",
+      "dificultad": "Media",
+      "altura": "5 - 10 cm",
+      "ancho": "5 - 10 cm (formando matas)",
+      "velocidad de crecimiento": "Moderado",
+      "temperatura": "20 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 4 - 15",
+      "iluminación": "Media a Alta",
+      "CO₂": "Recomendado",
+      "fertilización": "Macro y micronutrientes equilibrados",
+      "tipo de crecimiento": "Tallo rastrero / Tapizante",
+      "ubicación recomendada": "Primer plano o medio plano",
+      "cómo plantarla": "Cortar la punta de los tallos e insertarlas horizontalmente o inclinadas en el sustrato.",
+      "cómo reproducirla": "Mediante esquejes de los brotes laterales.",
+      "problemas frecuentes": "Pérdida de hojas inferiores si el tapiz se vuelve demasiado espeso y no penetra la luz.",
+      "algas asociadas": "Vulnerable a algas punto verde bajo iluminación prolongada.",
+      "compatibilidad con peces": "Buena; resiste bien.",
+      "compatibilidad con gambas": "Excelente entorno para gambas.",
+      "uso en low-tech/high-tech": "Mejor resultados en High-Tech, posible en Low-Tech con buena luz.",
+      "uso en acuarios de agua fría": "No recomendado.",
+      "ALT descriptivo": "Staurogyne repens con tallos cortos y hojas verdes densas para alfombras.",
+      "enlaces a plantas similares": [
+        "Hydrocotyle tripartita",
+        "Hemianthus callitrichoides"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/poda-staurogyne.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "22",
+    "nombre": "Rotala rotundifolia",
+    "nombreCientifico": "Rotala rotundifolia",
+    "slug": "rotala-rotundifolia",
+    "descripcionCatalogo": "Nombre científico: Rotala rotundifolia | Dificultad: Fácil a Media | Ubicación: Medio plano o fondo | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/rotalarotundifolia.jpg",
+    "altText": "Rotala rotundifolia con tallos delgados y pequeñas hojas alargadas rojizas.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/rot-rot",
+    "ficha": {
+      "legacyArchivo": "rotalarotundifolia.html",
+      "legacyRuta": "/paginas/fichas/rotalarotundifolia.html",
+      "ruta": "/plantas/rotala-rotundifolia/"
+    },
+    "seo": {
+      "title": "Rotala rotundifolia (Rotala rotundifolia): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Rotala rotundifolia (Rotala rotundifolia), dificultad fácil a media, luz media a alta, temperatura 18 - 28 °C, pH 6.0 - 7.5, ubicación Medio plano o fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Cabomba",
+        "href": "/plantas/cabomba/"
+      },
+      {
+        "label": "Ludwigia repens",
+        "href": "/plantas/ludwigia-repens/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "22",
+      "nombre común": "Rotala rotundifolia",
+      "nombre científico": "Rotala rotundifolia",
+      "familia": "Lythraceae",
+      "origen": "Sudeste Asiático",
+      "dificultad": "Fácil a Media",
+      "altura": "15 - 30 cm",
+      "ancho": "3 - 5 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "18 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 3 - 12",
+      "iluminación": "Media a Alta",
+      "CO₂": "Opcional (mejora tonos rojizos)",
+      "fertilización": "Hierro y micronutrientes para potenciar color",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Medio plano o fondo",
+      "cómo plantarla": "Plantar los tallos en pequeños manojos espaciados en el sustrato.",
+      "cómo reproducirla": "Mediante esquejes cortados y replantados.",
+      "problemas frecuentes": "Tono verde apagado si la iluminación y el hierro son escasos.",
+      "algas asociadas": "Sensible a algas filamentosas con luz alta desbalanceada.",
+      "compatibilidad con peces": "Compatible con peces pacíficos.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Apta para Low-Tech (verde) y High-Tech (tonos rojizos).",
+      "uso en acuarios de agua fría": "Apta para agua templada.",
+      "ALT descriptivo": "Rotala rotundifolia con tallos delgados y pequeñas hojas alargadas rojizas.",
+      "enlaces a plantas similares": [
+        "Cabomba",
+        "Ludwigia repens"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/como-rojo-plantas.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/rot-rot"
+    }
+  },
+  {
+    "id": "23",
+    "nombre": "Hierba de Amazonas",
+    "nombreCientifico": "Echinodorus tenellus",
+    "slug": "echinodorus-tenellus",
+    "descripcionCatalogo": "Nombre científico: Echinodorus tenellus | Dificultad: Media | Ubicación: Primer plano | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/echinodorustenellus.jpg",
+    "altText": "Echinodorus tenellus formando un césped bajo de hojas en forma de aguja.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "echinodorustenellus.html",
+      "legacyRuta": "/paginas/fichas/echinodorustenellus.html",
+      "ruta": "/plantas/echinodorus-tenellus/"
+    },
+    "seo": {
+      "title": "Hierba de Amazonas (Echinodorus tenellus): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Hierba de Amazonas (Echinodorus tenellus), dificultad media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Sagitaria subulata",
+        "href": "/plantas/sagitaria-subulata/"
+      },
+      {
+        "label": "Marsilea hirsuta",
+        "href": "/plantas/marsilea-hirsuta/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "23",
+      "nombre común": "Hierba de Amazonas",
+      "nombre científico": "Echinodorus tenellus",
+      "familia": "Alismataceae",
+      "origen": "América del Sur y del Norte",
+      "dificultad": "Media",
+      "altura": "5 - 10 cm",
+      "ancho": "Estolones en red",
+      "velocidad de crecimiento": "Moderado a Rápido",
+      "temperatura": "20 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 3 - 12",
+      "iluminación": "Media a Alta",
+      "CO₂": "Recomendado",
+      "fertilización": "Sustrato nutritivo rico en hierro",
+      "tipo de crecimiento": "Tapizante / Estolones",
+      "ubicación recomendada": "Primer plano",
+      "cómo plantarla": "Separar los estolones individuales y plantarlos superficialmente dejando espacio para su expansión.",
+      "cómo reproducirla": "Mediante estolones rastreros muy prolíficos.",
+      "problemas frecuentes": "Oscurecimiento de hojas si el sustrato se compacta demasiado.",
+      "algas asociadas": "Susceptible a algas pincel si el flujo de agua es deficiente.",
+      "compatibilidad con peces": "Puede ser desenterrada por peces excavadores.",
+      "compatibilidad con gambas": "Muy buena.",
+      "uso en low-tech/high-tech": "Mejor rendimiento en High-Tech.",
+      "uso en acuarios de agua fría": "No recomendado.",
+      "ALT descriptivo": "Echinodorus tenellus formando un césped bajo de hojas en forma de aguja.",
+      "enlaces a plantas similares": [
+        "Sagitaria subulata",
+        "Marsilea hirsuta"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/tapizados-con-estolones.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "24",
+    "nombre": "Cryptocoryne parva",
+    "nombreCientifico": "Cryptocoryne parva",
+    "slug": "cryptocoryne-parva",
+    "descripcionCatalogo": "Nombre científico: Cryptocoryne parva | Dificultad: Media | Ubicación: Primer plano | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/cryptocoryneparva.jpg",
+    "altText": "Cryptocoryne parva con diminutas hojas verdes formando una alfombra baja.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "cryptocoryneparva.html",
+      "legacyRuta": "/paginas/fichas/cryptocoryneparva.html",
+      "ruta": "/plantas/cryptocoryne-parva/"
+    },
+    "seo": {
+      "title": "Cryptocoryne parva (Cryptocoryne parva): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Cryptocoryne parva (Cryptocoryne parva), dificultad media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Cryptocoryne Wendti Green",
+        "href": "/plantas/cryptocoryne-wendti-green/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "24",
+      "nombre común": "Cryptocoryne parva",
+      "nombre científico": "Cryptocoryne parva",
+      "familia": "Araceae",
+      "origen": "Sri Lanka",
+      "dificultad": "Media",
+      "altura": "3 - 5 cm",
+      "ancho": "Estolones compactos",
+      "velocidad de crecimiento": "Muy Lento",
+      "temperatura": "20 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 4 - 14",
+      "iluminación": "Media a Alta",
+      "CO₂": "Opcional",
+      "fertilización": "Pastillas de fondo radiculares",
+      "tipo de crecimiento": "Roseta enana / Estolones",
+      "ubicación recomendada": "Primer plano",
+      "cómo plantarla": "Plantar en pequeños grupos muy juntos para acelerar su unificación visual.",
+      "cómo reproducirla": "Por lentos estolones basales.",
+      "problemas frecuentes": "Crecimiento extremadamente lento que permite la invasión de algas si hay desequilibrios.",
+      "algas asociadas": "Muy propensa a algas verde-marrón debido a su lenta tasa fotosintética.",
+      "compatibilidad con peces": "Segura.",
+      "compatibilidad con gambas": "Excelente.",
+      "uso en low-tech/high-tech": "Apta para ambos, requiriendo paciencia en Low-Tech.",
+      "uso en acuarios de agua fría": "No recomendado.",
+      "ALT descriptivo": "Cryptocoryne parva con diminutas hojas verdes formando una alfombra baja.",
+      "enlaces a plantas similares": [
+        "Cryptocoryne Wendti Green"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantas-crecimiento-lento.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "25",
+    "nombre": "Helecho de Java Windelov",
+    "nombreCientifico": "Microsorum pteropus 'Windelov'",
+    "slug": "microsorum-pteropus-windelov",
+    "descripcionCatalogo": "Nombre científico: Microsorum pteropus 'Windelov' | Dificultad: Fácil | Ubicación: Troncos y rocas | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/MicrosorumPteropusWindelov.jpg",
+    "altText": "Helecho de Java Windelov con puntas de hojas fuertemente ramificadas y rizadas.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "MicrosorumPteropusWindelov.html",
+      "legacyRuta": "/paginas/fichas/MicrosorumPteropusWindelov.html",
+      "ruta": "/plantas/microsorum-pteropus-windelov/"
+    },
+    "seo": {
+      "title": "Helecho de Java Windelov (Microsorum pteropus 'Windelov'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Helecho de Java Windelov (Microsorum pteropus 'Windelov'), dificultad fácil, luz baja a media, temperatura 18 - 30 °C, pH 6.0 - 7.5, ubicación Troncos y rocas"
+    },
+    "relacionadas": [
+      {
+        "label": "Helecho de java",
+        "href": "/plantas/helecho-de-java/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "25",
+      "nombre común": "Helecho de Java Windelov",
+      "nombre científico": "Microsorum pteropus 'Windelov'",
+      "familia": "Polypodiaceae",
+      "origen": "Variedad cultivada (Origen base: Sudeste Asiático)",
+      "dificultad": "Fácil",
+      "altura": "10 - 20 cm",
+      "ancho": "10 - 15 cm",
+      "velocidad de crecimiento": "Lento",
+      "temperatura": "18 - 30 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 2 - 15",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Abono líquido en columna",
+      "tipo de crecimiento": "Rizoma epífito",
+      "ubicación recomendada": "Troncos y rocas",
+      "cómo plantarla": "Atar el rizoma a superficies duras con hilo.",
+      "cómo reproducirla": "Separación de rizomas o plántulas en las puntas de las hojas.",
+      "problemas frecuentes": "Pudrición si se entierra el rizoma.",
+      "algas asociadas": "Algas pincel en condiciones de corriente pobre.",
+      "compatibilidad con peces": "Excelente con peces herbívoros.",
+      "compatibilidad con gambas": "Muy segura.",
+      "uso en low-tech/high-tech": "Perfecto para Low-Tech.",
+      "uso en acuarios de agua fría": "Apto para agua templada.",
+      "ALT descriptivo": "Helecho de Java Windelov con puntas de hojas fuertemente ramificadas y rizadas.",
+      "enlaces a plantas similares": [
+        "Helecho de java"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/variedades-microsorum.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "26",
+    "nombre": "Riccia",
+    "nombreCientifico": "Riccia fluitans",
+    "slug": "riccia-fluitans",
+    "descripcionCatalogo": "Nombre científico: Riccia fluitans | Dificultad: Media | Ubicación: Superficie o atada a mallas en primer plano | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/ricciafluitans.jpg",
+    "altText": "Riccia fluitans formando cojines verdes flotantes muy compactos.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/riccia",
+    "ficha": {
+      "legacyArchivo": "ricciafluitans.html",
+      "legacyRuta": "/paginas/fichas/ricciafluitans.html",
+      "ruta": "/plantas/riccia-fluitans/"
+    },
+    "seo": {
+      "title": "Riccia (Riccia fluitans): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Riccia (Riccia fluitans), dificultad media, luz media a alta, temperatura 15 - 28 °C, pH 6.0 - 7.5, ubicación Superficie o atada a mallas en primer plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Salvinia Natans",
+        "href": "/plantas/salvinia-natans/"
+      },
+      {
+        "label": "Musgo de Java",
+        "href": "/plantas/musgo-de-java/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "26",
+      "nombre común": "Riccia",
+      "nombre científico": "Riccia fluitans",
+      "familia": "Ricciaceae",
+      "origen": "Cosmopolita",
+      "dificultad": "Media",
+      "altura": "1 - 5 cm",
+      "ancho": "Cojines expansivos",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "15 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Media a Alta",
+      "CO₂": "Recomendado",
+      "fertilización": "Abonado líquido completo",
+      "tipo de crecimiento": "Flotante / Epífito atado",
+      "ubicación recomendada": "Superficie o atada a mallas en primer plano",
+      "cómo plantarla": "Atar en red o malla fina sobre rocas para formar arbustos sumergidos, o dejar flotar.",
+      "cómo reproducirla": "Por fragmentación natural de los cojines.",
+      "problemas frecuentes": "Desprendimiento de los cojines si crecen demasiado y flotan por el empuje del oxígeno.",
+      "algas asociadas": "Atrapa detritos fácilmente, propensa a algas filamentosas si descuidas la limpieza.",
+      "compatibilidad con peces": "Excelente refugio superficial.",
+      "compatibilidad con gambas": "Muy útil para refugio de gambas.",
+      "uso en low-tech/high-tech": "Funciona flotando en Low-Tech; requiere High-Tech para mantenerla sumergida en malla.",
+      "uso en acuarios de agua fría": "Excelente en agua fría.",
+      "ALT descriptivo": "Riccia fluitans formando cojines verdes flotantes muy compactos.",
+      "enlaces a plantas similares": [
+        "Salvinia Natans",
+        "Musgo de Java"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/efecto-riccia-malla.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/riccia"
+    }
+  },
+  {
+    "id": "27",
+    "nombre": "Utricularia graminifolia",
+    "nombreCientifico": "Utricularia graminifolia",
+    "slug": "utricularia-graminifolia",
+    "descripcionCatalogo": "Nombre científico: Utricularia graminifolia | Dificultad: Alta | Ubicación: Primer plano | Luz: Alta",
+    "imagen": "/imagenes/tienda/utriculariagraminifolia.jpg",
+    "altText": "Utricularia graminifolia con césped verde claro de aspecto herbáceo.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "utriculariagraminifolia.html",
+      "legacyRuta": "/paginas/fichas/utriculariagraminifolia.html",
+      "ruta": "/plantas/utricularia-graminifolia/"
+    },
+    "seo": {
+      "title": "Utricularia graminifolia (Utricularia graminifolia): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Utricularia graminifolia (Utricularia graminifolia), dificultad alta, luz alta, temperatura 22 - 28 °C, pH 5.5 - 6.8, ubicación Primer plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Hemianthus callitrichoides",
+        "href": "/plantas/hemianthus-callitrichoides/"
+      },
+      {
+        "label": "Sagitaria subulata",
+        "href": "/plantas/sagitaria-subulata/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "27",
+      "nombre común": "Utricularia graminifolia",
+      "nombre científico": "Utricularia graminifolia",
+      "familia": "Lentibulariaceae",
+      "origen": "Asia tropical",
+      "dificultad": "Alta",
+      "altura": "2 - 5 cm",
+      "ancho": "Césped denso",
+      "velocidad de crecimiento": "Moderado",
+      "temperatura": "22 - 28 °C",
+      "pH": "5.5 - 6.8",
+      "GH/KH": "Blando",
+      "iluminación": "Alta",
+      "CO₂": "Obligatorio",
+      "fertilización": "Fertilización líquida y radicular cuidadosa (planta carnívora parcial)",
+      "tipo de crecimiento": "Tapizante estolonífero",
+      "ubicación recomendada": "Primer plano",
+      "cómo plantarla": "Dividir en pequeños bloques y presionar suavemente en el sustrato.",
+      "cómo reproducirla": "Extensión por estolones rastreros.",
+      "problemas frecuentes": "Tendencia a desprenderse en masa en acuarios de reciente montaje.",
+      "algas asociadas": "Muy sensible a algas filamentosas en fase de enraizamiento.",
+      "compatibilidad con peces": "Evitar peces cavadores.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Exclusivo de High-Tech.",
+      "uso en acuarios de agua fría": "No apto.",
+      "ALT descriptivo": "Utricularia graminifolia con césped verde claro de aspecto herbáceo.",
+      "enlaces a plantas similares": [
+        "Hemianthus callitrichoides",
+        "Sagitaria subulata"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantas-especiales-high-tech.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "28",
+    "nombre": "Moneda de Brasil",
+    "nombreCientifico": "Hydrocotyle tripartita",
+    "slug": "hydrocotyle-tripartita",
+    "descripcionCatalogo": "Nombre científico: Hydrocotyle tripartita | Dificultad: Fácil a Media | Ubicación: Primer plano o medio plano (también trepadora en troncos) | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/hydrocotyletripartita.jpg",
+    "altText": "Hydrocotyle tripartita con hojas divididas en forma de pequeños tréboles verdes.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/hidrocotyle-tripartita",
+    "ficha": {
+      "legacyArchivo": "hydrocotyletripartita.html",
+      "legacyRuta": "/paginas/fichas/hydrocotyletripartita.html",
+      "ruta": "/plantas/hydrocotyle-tripartita/"
+    },
+    "seo": {
+      "title": "Moneda de Brasil (Hydrocotyle tripartita): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Moneda de Brasil (Hydrocotyle tripartita), dificultad fácil a media, luz media a alta, temperatura 20 - 28 °C, pH 6.0 - 7.5, ubicación Primer plano o medio pla…"
+    },
+    "relacionadas": [
+      {
+        "label": "Marsilea hirsuta",
+        "href": "/plantas/marsilea-hirsuta/"
+      },
+      {
+        "label": "Staurogyne repens",
+        "href": "/plantas/staurogyne-repens/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "28",
+      "nombre común": "Moneda de Brasil",
+      "nombre científico": "Hydrocotyle tripartita",
+      "familia": "Araliaceae",
+      "origen": "Sudeste Asiático (Australia / Asia)",
+      "dificultad": "Fácil a Media",
+      "altura": "3 - 5 cm",
+      "ancho": "Alfombra vertical expansiva",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "20 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 3 - 15",
+      "iluminación": "Media a Alta",
+      "CO₂": "Opcional (crece más compacto con CO₂)",
+      "fertilización": "Abono líquido general",
+      "tipo de crecimiento": "Rastrero / Tapizante",
+      "ubicación recomendada": "Primer plano o medio plano (también trepadora en troncos)",
+      "cómo plantarla": "Enterrar pequeños fragmentos con tallo en el sustrato o fijarlos a maderas.",
+      "cómo reproducirla": "Por esquejes y ramificación constante de tallos.",
+      "problemas frecuentes": "Si no se poda con regularidad, tiende a crecer hacia arriba en lugar de formar un tapiz bajo.",
+      "algas asociadas": "Poco afectada si se mantiene limpia de detritos.",
+      "compatibilidad con peces": "Excelente.",
+      "compatibilidad con gambas": "Muy recomendada.",
+      "uso en low-tech/high-tech": "Excelente rendimiento en ambos sistemas.",
+      "uso en acuarios de agua fría": "Apta para temperaturas templadas.",
+      "ALT descriptivo": "Hydrocotyle tripartita con hojas divididas en forma de pequeños tréboles verdes.",
+      "enlaces a plantas similares": [
+        "Marsilea hirsuta",
+        "Staurogyne repens"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/poda-hydrocotyle.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/hidrocotyle-tripartita"
+    }
+  },
+  {
+    "id": "29",
+    "nombre": "Trébol de 4 hojas",
+    "nombreCientifico": "Marsilea hirsuta",
+    "slug": "marsilea-hirsuta",
+    "descripcionCatalogo": "Nombre científico: Marsilea hirsuta | Dificultad: Fácil | Ubicación: Primer plano | Luz: Media",
+    "imagen": "/imagenes/tienda/marsileahirsuta.jpg",
+    "altText": "Marsilea hirsuta con hojas parecidas a pequeños tréboles rastreros.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "marsileahirsuta.html",
+      "legacyRuta": "/paginas/fichas/marsileahirsuta.html",
+      "ruta": "/plantas/marsilea-hirsuta/"
+    },
+    "seo": {
+      "title": "Trébol de 4 hojas (Marsilea hirsuta): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Trébol de 4 hojas (Marsilea hirsuta), dificultad fácil, luz media, temperatura 18 - 26 °C, pH 6.0 - 7.5, ubicación Primer plano"
+    },
+    "relacionadas": [
+      {
+        "label": "Sagitaria subulata",
+        "href": "/plantas/sagitaria-subulata/"
+      },
+      {
+        "label": "Hydrocotyle tripartita",
+        "href": "/plantas/hydrocotyle-tripartita/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "29",
+      "nombre común": "Trébol de 4 hojas",
+      "nombre científico": "Marsilea hirsuta",
+      "familia": "Marsileaceae",
+      "origen": "Australia",
+      "dificultad": "Fácil",
+      "altura": "2 - 5 cm",
+      "ancho": "Césped rastrero",
+      "velocidad de crecimiento": "Moderado",
+      "temperatura": "18 - 26 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 3 - 15",
+      "iluminación": "Media",
+      "CO₂": "No necesario",
+      "fertilización": "Sustrato nutritivo",
+      "tipo de crecimiento": "Tapizante por estolones",
+      "ubicación recomendada": "Primer plano",
+      "cómo plantarla": "Cortar secciones de la esterilla comercial e insertarlas a poca profundidad en el sustrato.",
+      "cómo reproducirla": "Mediante estolones horizontales subterráneos.",
+      "problemas frecuentes": "Cambio de forma de hoja (de trébol a hoja simple) según la iluminación y adaptación anfibia.",
+      "algas asociadas": "Resistente a las algas por su bajo perfil.",
+      "compatibilidad con peces": "Buena resistencia.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Una de las mejores opciones tapizantes para Low-Tech.",
+      "uso en acuarios de agua fría": "Muy apta para agua fría.",
+      "ALT descriptivo": "Marsilea hirsuta con hojas parecidas a pequeños tréboles rastreros.",
+      "enlaces a plantas similares": [
+        "Sagitaria subulata",
+        "Hydrocotyle tripartita"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/tapizado-facil-sin-co2.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "30",
+    "nombre": "Alternanthera reineckii",
+    "nombreCientifico": "Alternanthera reineckii",
+    "slug": "alternanthera-reineckii",
+    "descripcionCatalogo": "Nombre científico: Alternanthera reineckii | Dificultad: Media | Ubicación: Medio plano o fondo | Luz: Alta",
+    "imagen": "/imagenes/tienda/alternantherareineckii.jpg",
+    "altText": "Alternanthera reineckii con hojas lanceoladas de color rojo intenso y vibrante.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/alternantera-reineki",
+    "ficha": {
+      "legacyArchivo": "alternantherareineckii.html",
+      "legacyRuta": "/paginas/fichas/alternantherareineckii.html",
+      "ruta": "/plantas/alternanthera-reineckii/"
+    },
+    "seo": {
+      "title": "Alternanthera reineckii (Alternanthera reineckii): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Alternanthera reineckii (Alternanthera reineckii), dificultad media, luz alta, temperatura 17 - 28 °C, pH 6.0 - 7.0, ubicación Medio plano o fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Ludwigia repens",
+        "href": "/plantas/ludwigia-repens/"
+      },
+      {
+        "label": "Rotala rotundifolia",
+        "href": "/plantas/rotala-rotundifolia/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "30",
+      "nombre común": "Alternanthera reineckii",
+      "nombre científico": "Alternanthera reineckii",
+      "familia": "Amaranthaceae",
+      "origen": "Sudamérica",
+      "dificultad": "Media",
+      "altura": "20 - 50 cm",
+      "ancho": "10 - 15 cm",
+      "velocidad de crecimiento": "Moderado",
+      "temperatura": "17 - 28 °C",
+      "pH": "6.0 - 7.0",
+      "GH/KH": "GH 2 - 12",
+      "iluminación": "Alta",
+      "CO₂": "Recomendado",
+      "fertilización": "Hierro, nitratos y fosfatos altos para mantener tono rojo",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Medio plano o fondo",
+      "cómo plantarla": "Plantar los tallos individualmente con espacio para recibir luz directa en todas sus hojas.",
+      "cómo reproducirla": "Esquejes laterales de tallo.",
+      "problemas frecuentes": "Pérdida de hojas basales y decoloración a verde opaco si falta luz o hierro.",
+      "algas asociadas": "Vulnerable a algas pincel en los bordes de hojas si el flujo de agua es bajo.",
+      "compatibilidad con peces": "Compatible con peces comunitarios pacíficos.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Requiere High-Tech para mantener su característico color rojo intenso.",
+      "uso en acuarios de agua fría": "No recomendado.",
+      "ALT descriptivo": "Alternanthera reineckii con hojas lanceoladas de color rojo intenso y vibrante.",
+      "enlaces a plantas similares": [
+        "Ludwigia repens",
+        "Rotala rotundifolia"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/cultivo-plantas-rojas.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/alternantera-reineki"
+    }
+  },
+  {
+    "id": "31",
+    "nombre": "Lirio de agua / Nymphaea",
+    "nombreCientifico": "Nymphaea spp.",
+    "slug": "nymphaea",
+    "descripcionCatalogo": "Nombre científico: Nymphaea spp. | Dificultad: Media | Ubicación: Punto focal en medio plano o fondo | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/nymphaea.jpg",
+    "altText": "Nymphaea con hojas sagitadas manchadas y tallos largos que ascienden desde un bulbo.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "nymphaea.html",
+      "legacyRuta": "/paginas/fichas/nymphaea.html",
+      "ruta": "/plantas/nymphaea/"
+    },
+    "seo": {
+      "title": "Lirio de agua / Nymphaea (Nymphaea spp.): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Lirio de agua / Nymphaea (Nymphaea spp.), dificultad media, luz media a alta, temperatura 22 - 30 °C, pH 6.0 - 7.5, ubicación Punto focal en medio plano o fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Echinodorus",
+        "href": "/plantas/echinodorus/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "31",
+      "nombre común": "Lirio de agua / Nymphaea",
+      "nombre científico": "Nymphaea spp.",
+      "familia": "Nymphaeaceae",
+      "origen": "Regiones tropicales y templadas",
+      "dificultad": "Media",
+      "altura": "30 - 50+ cm",
+      "ancho": "25 - 50 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "22 - 30 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "GH 4 - 15",
+      "iluminación": "Media a Alta",
+      "CO₂": "Opcional",
+      "fertilización": "Pastillas nutritivas ricas en el sustrato",
+      "tipo de crecimiento": "Bulbo / Roseta grande",
+      "ubicación recomendada": "Punto focal en medio plano o fondo",
+      "cómo plantarla": "Colocar el bulbo enterrando solo la mitad inferior en el sustrato nutritivo, dejando la parte superior expuesta.",
+      "cómo reproducirla": "Por división de bulbos o brotes laterales.",
+      "problemas frecuentes": "Hojas flotantes gigantes que tapan demasiado la luz si no se podan los tallos largos.",
+      "algas asociadas": "Poco afectada por su rápido desarrollo foliar.",
+      "compatibilidad con peces": "Excelente punto de sombra y descanso para peces de superficie.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Excelente en Low-Tech para acuarios medianos y grandes.",
+      "uso en acuarios de agua fría": "Algunas variedades son aptas para estanques exteriores de clima templado.",
+      "ALT descriptivo": "Nymphaea con hojas sagitadas manchadas y tallos largos que ascienden desde un bulbo.",
+      "enlaces a plantas similares": [
+        "Echinodorus"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/manejo-bulbos-acuaticos.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "32",
+    "nombre": "Cryptocoryne crispatula balansae",
+    "nombreCientifico": "Cryptocoryne crispatula var. balansae",
+    "slug": "cryptocoryne-crispatula-balansae",
+    "descripcionCatalogo": "Nombre científico: Cryptocoryne crispatula var. balansae | Dificultad: Fácil | Ubicación: Fondo o medio plano | Luz: Media",
+    "imagen": "/imagenes/tienda/Cryptocorynecrispatulabalansae.jpg",
+    "altText": "Cryptocoryne crispatula balansae con hojas largas, acintadas y con bordes fuertemente ondulados.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "Cryptocorynecrispatulabalansae.html",
+      "legacyRuta": "/paginas/fichas/Cryptocorynecrispatulabalansae.html",
+      "ruta": "/plantas/cryptocoryne-crispatula-balansae/"
+    },
+    "seo": {
+      "title": "Cryptocoryne crispatula balansae (Cryptocoryne crispatula var. balansae): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Cryptocoryne crispatula balansae (Cryptocoryne crispatula var. balansae), dificultad fácil, luz media, temperatura 22 - 28 °C, pH 7.0 - 8.0, ubicación Fondo o…"
+    },
+    "relacionadas": [
+      {
+        "label": "Vallisneria gigantea",
+        "href": "/plantas/vallisneria-gigantea/"
+      },
+      {
+        "label": "Cryptocoryne Wendti Green",
+        "href": "/plantas/cryptocoryne-wendti-green/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "32",
+      "nombre común": "Cryptocoryne crispatula balansae",
+      "nombre científico": "Cryptocoryne crispatula var. balansae",
+      "familia": "Araceae",
+      "origen": "Tailandia / Sudeste Asiático",
+      "dificultad": "Fácil",
+      "altura": "30 - 60 cm",
+      "ancho": "15 - 25 cm",
+      "velocidad de crecimiento": "Lento a Moderado",
+      "temperatura": "22 - 28 °C",
+      "pH": "7.0 - 8.0",
+      "GH/KH": "GH 8 - 25 (Prefiere aguas duras)",
+      "iluminación": "Media",
+      "CO₂": "No necesario",
+      "fertilización": "Sustrato nutritivo",
+      "tipo de crecimiento": "Roseta / Hojas encintadas rugosas",
+      "ubicación recomendada": "Fondo o medio plano",
+      "cómo plantarla": "Plantar de forma individual en el sustrato cuidando de no dañar el sistema radicular.",
+      "cómo reproducirla": "Mediante estolones subterráneos.",
+      "problemas frecuentes": "Sensibilidad al choque osmótico al cambiar de agua blanda a dura bruscamente.",
+      "algas asociadas": "Muy resistente a las algas por la textura coriácea de sus hojas.",
+      "compatibilidad con peces": "Excelente en acuarios de cíclidos africanos o aguas duras.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Ideal para Low-Tech.",
+      "uso en acuarios de agua fría": "Apta para aguas duras templadas.",
+      "ALT descriptivo": "Cryptocoryne crispatula balansae con hojas largas, acintadas y con bordes fuertemente ondulados.",
+      "enlaces a plantas similares": [
+        "Vallisneria gigantea",
+        "Cryptocoryne Wendti Green"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/plantas-aguas-duras.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "33",
+    "nombre": "Ludwigia repens",
+    "nombreCientifico": "Ludwigia repens",
+    "slug": "ludwigia-repens",
+    "descripcionCatalogo": "Nombre científico: Ludwigia repens | Dificultad: Fácil | Ubicación: Medio plano o fondo | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/ludwigia.jpg",
+    "altText": "Ludwigia repens con tallos robustos y hojas opuestas de color rojo cobrizo.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "ludwigiarepens.html",
+      "legacyRuta": "/paginas/fichas/ludwigiarepens.html",
+      "ruta": "/plantas/ludwigia-repens/"
+    },
+    "seo": {
+      "title": "Ludwigia repens (Ludwigia repens): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Ludwigia repens (Ludwigia repens), dificultad fácil, luz media a alta, temperatura 15 - 28 °C, pH 5.5 - 7.5, ubicación Medio plano o fondo"
+    },
+    "relacionadas": [
+      {
+        "label": "Alternanthera reineckii",
+        "href": "/plantas/alternanthera-reineckii/"
+      },
+      {
+        "label": "Rotala rotundifolia",
+        "href": "/plantas/rotala-rotundifolia/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "33",
+      "nombre común": "Ludwigia repens",
+      "nombre científico": "Ludwigia repens",
+      "familia": "Onagraceae",
+      "origen": "América del Norte y Central",
+      "dificultad": "Fácil",
+      "altura": "20 - 50 cm",
+      "ancho": "5 - 8 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "15 - 28 °C",
+      "pH": "5.5 - 7.5",
+      "GH/KH": "GH 2 - 15",
+      "iluminación": "Media a Alta",
+      "CO₂": "Opcional",
+      "fertilización": "Hierro y micronutrientes",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Medio plano o fondo",
+      "cómo plantarla": "Cortar y plantar los tallos individuales separados unos 2 cm en el sustrato.",
+      "cómo reproducirla": "Mediante esquejes de tallo laterales.",
+      "problemas frecuentes": "Pérdida de hojas inferiores si el grupo es demasiado denso y bloquea la luz.",
+      "algas asociadas": "Poco propensa a algas si crece a buen ritmo.",
+      "compatibilidad con peces": "Muy resistente.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Excelente en Low-Tech (tonos pardos/verdosos) y High-Tech (rojos intensos).",
+      "uso en acuarios de agua fría": "Muy apta para agua fría y templada.",
+      "ALT descriptivo": "Ludwigia repens con tallos robustos y hojas opuestas de color rojo cobrizo.",
+      "enlaces a plantas similares": [
+        "Alternanthera reineckii",
+        "Rotala rotundifolia"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/poda-ludwigia.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "34",
+    "nombre": "Bucephalandra Red Cherry",
+    "nombreCientifico": "Bucephalandra sp. 'Red Cherry'",
+    "slug": "bucephalandra-red-cherry",
+    "descripcionCatalogo": "Nombre científico: Bucephalandra sp. 'Red Cherry' | Dificultad: Media | Ubicación: Troncos, rocas y primeros planos elevados | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/BucephalandraRedCherry.jpg",
+    "altText": "Bucephalandra Red Cherry con hojas pequeñas, gruesas y visos rojizos metálicos sobre roca.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "BucephalandraRedCherry.html",
+      "legacyRuta": "/paginas/fichas/BucephalandraRedCherry.html",
+      "ruta": "/plantas/bucephalandra-red-cherry/"
+    },
+    "seo": {
+      "title": "Bucephalandra Red Cherry (Bucephalandra sp. 'Red Cherry'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Bucephalandra Red Cherry (Bucephalandra sp. 'Red Cherry'), dificultad media, luz baja a media, temperatura 20 - 28 °C, pH 5.5 - 7.5, ubicación Troncos, rocas y…"
+    },
+    "relacionadas": [
+      {
+        "label": "Anubias",
+        "href": "/plantas/anubias/"
+      },
+      {
+        "label": "Helecho de java",
+        "href": "/plantas/helecho-de-java/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "34",
+      "nombre común": "Bucephalandra Red Cherry",
+      "nombre científico": "Bucephalandra sp. 'Red Cherry'",
+      "familia": "Araceae",
+      "origen": "Borneo (Isla tropical)",
+      "dificultad": "Media",
+      "altura": "3 - 8 cm",
+      "ancho": "Expansión lenta en rizoma",
+      "velocidad de crecimiento": "Muy Lento",
+      "temperatura": "20 - 28 °C",
+      "pH": "5.5 - 7.5",
+      "GH/KH": "GH 3 - 12",
+      "iluminación": "Baja a Media",
+      "CO₂": "Opcional (aprecia su aporte para mejores colores)",
+      "fertilización": "Abono líquido moderado",
+      "tipo de crecimiento": "Rizoma epífito",
+      "ubicación recomendada": "Troncos, rocas y primeros planos elevados",
+      "cómo plantarla": "Atar o pegar el rizoma a elementos decorativos duros.",
+      "cómo reproducirla": "Cortando fragmentos del rizoma con varias hojas.",
+      "problemas frecuentes": "Derretimiento parcial de hojas (melt) al trasplantarla a un acuario con parámetros diferentes a los de cultivo emergido.",
+      "algas asociadas": "Vulnerable a algas punto verde si se expone a iluminación excesiva debido a su lentitud.",
+      "compatibilidad con peces": "Totalmente inmune al daño por peces herbívoros.",
+      "compatibilidad con gambas": "Excepcional; muy apreciada en gambarios.",
+      "uso en low-tech/high-tech": "Apta para ambos sistemas, excelente en nano acuarios.",
+      "uso en acuarios de agua fría": "No recomendado.",
+      "ALT descriptivo": "Bucephalandra Red Cherry con hojas pequeñas, gruesas y visos rojizos metálicos sobre roca.",
+      "enlaces a plantas similares": [
+        "Anubias",
+        "Helecho de java"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/cultivo-bucephalandras.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "35",
+    "nombre": "Vesicularia reticulata",
+    "nombreCientifico": "Vesicularia reticulata (Delta Moss)",
+    "slug": "vesicularia-reticulata",
+    "descripcionCatalogo": "Nombre científico: Vesicularia reticulata (Delta Moss) | Dificultad: Fácil | Ubicación: Troncos y rocas | Luz: Baja a Media",
+    "imagen": "/imagenes/tienda/Vesiculariareticulata.jpg",
+    "altText": "Vesicularia reticulata con patrón de ramificación en forma de delta muy característico.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "Vesiculariareticulata.html",
+      "legacyRuta": "/paginas/fichas/Vesiculariareticulata.html",
+      "ruta": "/plantas/vesicularia-reticulata/"
+    },
+    "seo": {
+      "title": "Vesicularia reticulata (Vesicularia reticulata (Delta Moss)): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Vesicularia reticulata (Vesicularia reticulata (Delta Moss)), dificultad fácil, luz baja a media, temperatura 18 - 28 °C, pH 6.0 - 7.5, ubicación Troncos y roc…"
+    },
+    "relacionadas": [
+      {
+        "label": "Musgo de Java",
+        "href": "/plantas/musgo-de-java/"
+      },
+      {
+        "label": "Riccia fluitans",
+        "href": "/plantas/riccia-fluitans/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "35",
+      "nombre común": "Vesicularia reticulata",
+      "nombre científico": "Vesicularia reticulata (Delta Moss)",
+      "familia": "Hypnaceae",
+      "origen": "Asia tropical",
+      "dificultad": "Fácil",
+      "altura": "3 - 8 cm",
+      "ancho": "Cojines densos",
+      "velocidad de crecimiento": "Moderado",
+      "temperatura": "18 - 28 °C",
+      "pH": "6.0 - 7.5",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Baja a Media",
+      "CO₂": "No necesario",
+      "fertilización": "Abono líquido ligero",
+      "tipo de crecimiento": "Musgo epífito",
+      "ubicación recomendada": "Troncos y rocas",
+      "cómo plantarla": "Atar con hilo o red sobre la decoración.",
+      "cómo reproducirla": "Por fragmentación.",
+      "problemas frecuentes": "Acumulación de suciedad y deshechos si hay poca corriente.",
+      "algas asociadas": "Susceptible a algas filamentosas con exceso de luz.",
+      "compatibilidad con peces": "Excelente refugio para peces pequeños.",
+      "compatibilidad con gambas": "Ideal para cría de gambas.",
+      "uso en low-tech/high-tech": "Perfecto para Low-Tech.",
+      "uso en acuarios de agua fría": "Apto para agua fría.",
+      "ALT descriptivo": "Vesicularia reticulata con patrón de ramificación en forma de delta muy característico.",
+      "enlaces a plantas similares": [
+        "Musgo de Java",
+        "Riccia fluitans"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/tipos-de-musgos.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "36",
+    "nombre": "Lentejita de agua",
+    "nombreCientifico": "Lemna minor",
+    "slug": "lentejita-de-agua",
+    "descripcionCatalogo": "Nombre científico: Lemna minor | Dificultad: Muy Fácil | Ubicación: Superficie del acuario | Luz: Baja a Alta",
+    "imagen": "/imagenes/tienda/Lentejadeagua.jpg",
+    "altText": "Lentejita de agua cubriendo la superficie con diminutos discos verdes.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "ficha": {
+      "legacyArchivo": "Lentejadeagua.html",
+      "legacyRuta": "/paginas/fichas/Lentejadeagua.html",
+      "ruta": "/plantas/lentejita-de-agua/"
+    },
+    "seo": {
+      "title": "Lentejita de agua (Lemna minor): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Lentejita de agua (Lemna minor), dificultad muy fácil, luz baja a alta, temperatura 10 - 30 °C, pH 5.0 - 8.0, ubicación Superficie del acuario"
+    },
+    "relacionadas": [
+      {
+        "label": "Salvinia Natans",
+        "href": "/plantas/salvinia-natans/"
+      },
+      {
+        "label": "Camalote",
+        "href": "/plantas/camalote/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "36",
+      "nombre común": "Lentejita de agua",
+      "nombre científico": "Lemna minor",
+      "familia": "Araceae",
+      "origen": "Cosmopolita",
+      "dificultad": "Muy Fácil",
+      "altura": "Flotante (superficie)",
+      "ancho": "Cobertura total masiva",
+      "velocidad de crecimiento": "Muy Rápido",
+      "temperatura": "10 - 30 °C",
+      "pH": "5.0 - 8.0",
+      "GH/KH": "Amplio rango",
+      "iluminación": "Baja a Alta",
+      "CO₂": "No necesario",
+      "fertilización": "Absorción directa masiva de nitratos",
+      "tipo de crecimiento": "Flotante libre",
+      "ubicación recomendada": "Superficie del acuario",
+      "cómo plantarla": "Depositar unas pocas hojas en la superficie; se multiplicarán solas exponencialmente.",
+      "cómo reproducirla": "Gemación y división vegetativa ultrarrápida.",
+      "problemas frecuentes": "Se vuelve una plaga difícil de erradicar por completo si se desea retirar del acuario.",
+      "algas asociadas": "Elimina las algas bloqueando la luz directa por completo.",
+      "compatibilidad con peces": "Muy buena sombra.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Excelente para depurar agua en Low-Tech y estanques.",
+      "uso en acuarios de agua fría": "Resiste inviernos templados en estanques exteriores.",
+      "ALT descriptivo": "Lentejita de agua cubriendo la superficie con diminutos discos verdes.",
+      "enlaces a plantas similares": [
+        "Salvinia Natans",
+        "Camalote"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/control-plagas-flotantes.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/"
+    }
+  },
+  {
+    "id": "37",
+    "nombre": "Hygrophila polysperma Rosanervig",
+    "nombreCientifico": "Hygrophila polysperma 'Rosanervig'",
+    "slug": "hygrophila-polysperma-rosanervig",
+    "descripcionCatalogo": "Nombre científico: Hygrophila polysperma 'Rosanervig' | Dificultad: Fácil | Ubicación: Medio plano o fondo | Luz: Media a Alta",
+    "imagen": "/imagenes/tienda/poliespermarosanervig.jpg",
+    "altText": "Hygrophila polysperma Rosanervig con hojas verdes y llamativos nervios rosados o blanquecinos.",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/buy/code/poliesperma-rosanervig",
+    "ficha": {
+      "legacyArchivo": "poliespermarosanervig.html",
+      "legacyRuta": "/paginas/fichas/poliespermarosanervig.html",
+      "ruta": "/plantas/hygrophila-polysperma-rosanervig/"
+    },
+    "seo": {
+      "title": "Hygrophila polysperma Rosanervig (Hygrophila polysperma 'Rosanervig'): cuidados, luz, temperatura y pH | Plantas Acuáticas",
+      "description": "Hygrophila polysperma Rosanervig (Hygrophila polysperma 'Rosanervig'), dificultad fácil, luz media a alta, temperatura 18 - 30 °C, pH 6.0 - 8.0, ubicación Medi…"
+    },
+    "relacionadas": [
+      {
+        "label": "Hygrophila polysperma",
+        "href": "/plantas/hygrophila-polysperma/"
+      },
+      {
+        "label": "Ludwigia repens",
+        "href": "/plantas/ludwigia-repens/"
+      }
+    ],
+    "guiasRelacionadas": [],
+    "fuente": {
+      "id": "37",
+      "nombre común": "Hygrophila polysperma Rosanervig",
+      "nombre científico": "Hygrophila polysperma 'Rosanervig'",
+      "familia": "Acanthaceae",
+      "origen": "Variedad cultivada (Sudeste Asiático)",
+      "dificultad": "Fácil",
+      "altura": "25 - 40 cm",
+      "ancho": "4 - 8 cm",
+      "velocidad de crecimiento": "Rápido",
+      "temperatura": "18 - 30 °C",
+      "pH": "6.0 - 8.0",
+      "GH/KH": "GH 4 - 20",
+      "iluminación": "Media a Alta",
+      "CO₂": "No necesario",
+      "fertilización": "Abono básico y buena iluminación",
+      "tipo de crecimiento": "Tallo",
+      "ubicación recomendada": "Medio plano o fondo",
+      "cómo plantarla": "Insertar los tallos recortados individualmente en el sustrato.",
+      "cómo reproducirla": "Esquejes de tallo laterales.",
+      "problemas frecuentes": "Pérdida del patrón rosáceo en las nervaduras si la intensidad lumínica es baja.",
+      "algas asociadas": "Poco propensa a algas gracias a su rápido crecimiento.",
+      "compatibilidad con peces": "Muy resistente.",
+      "compatibilidad con gambas": "Segura.",
+      "uso en low-tech/high-tech": "Apta para Low-Tech (con menor intensidad de nervios rosados) y High-Tech.",
+      "uso en acuarios de agua fría": "Apta para rangos templados.",
+      "ALT descriptivo": "Hygrophila polysperma Rosanervig con hojas verdes y llamativos nervios rosados o blanquecinos.",
+      "enlaces a plantas similares": [
+        "Hygrophila polysperma",
+        "Ludwigia repens"
+      ],
+      "enlace a guías relacionadas": [
+        "../paginas/guias/variedades-hygrophila.html"
+      ],
+      "link": "https://plantasacuaticasba.onrender.com/buy/code/poliesperma-rosanervig"
+    }
+  }
+]
