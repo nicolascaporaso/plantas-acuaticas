@@ -267,7 +267,7 @@
     "descripcionCatalogo": "Nombre científico: Epipremnum aureum | Dificultad: Muy Fácil | Ubicación: Filtración / Parte superior del acuario (raíces sumergidas) | Luz: Baja a Alta (fuera del agua)",
     "imagen": "/imagenes/tienda/potus-en-agua.jpg",
     "altText": "Potus con raíces sumergidas en el agua y hojas verdes acorazonadas en el exterior.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "potusdeagua.html",
       "legacyRuta": "/paginas/fichas/potusdeagua.html",
@@ -394,7 +394,7 @@
     "descripcionCatalogo": "Nombre científico: Salvinia natans | Dificultad: Fácil | Ubicación: Superficie del acuario | Luz: Media a Alta",
     "imagen": "/imagenes/tienda/salvinia.jpg",
     "altText": "Salvinia Natans flotante con pequeñas hojas aterciopeladas.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "salvinia.html",
       "legacyRuta": "/paginas/fichas/salvinia.html",
@@ -460,7 +460,7 @@
     "descripcionCatalogo": "Nombre científico: Ceratopteris thalictroides | Dificultad: Media | Ubicación: Medio plano o fondo | Luz: Media",
     "imagen": "/imagenes/tienda/helecho-sumatra.jpg",
     "altText": "Helecho de Sumatra con hojas encajesas muy vistosas.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "helechosumatra.html",
       "legacyRuta": "/paginas/fichas/helechosumatra.html",
@@ -521,7 +521,7 @@
     "descripcionCatalogo": "Nombre científico: Zantedeschia aethiopica | Dificultad: Fácil (cultivo palustre/emergido) | Ubicación: Márgenes de estanques o macetas de filtración | Luz: Alta",
     "imagen": "/imagenes/tienda/liriodeagua.jpg",
     "altText": "Lirio de agua con grandes hojas acorazonadas y elegante espata blanca.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "liriodeagua.html",
       "legacyRuta": "/paginas/fichas/liriodeagua.html",
@@ -714,7 +714,7 @@
     "descripcionCatalogo": "Nombre científico: Echinodorus spp. | Dificultad: Fácil | Ubicación: Medio plano o punto focal aislado | Luz: Media",
     "imagen": "/imagenes/tienda/Echinodorus.jpg",
     "altText": "Echinodorus de grandes hojas anchas y vistosas en roseta.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "echinodorus.html",
       "legacyRuta": "/paginas/fichas/echinodorus.html",
@@ -846,7 +846,7 @@
     "descripcionCatalogo": "Nombre científico: Anubias barteri | Dificultad: Muy Fácil | Ubicación: Primer plano o medio plano sobre rocas y troncos | Luz: Baja",
     "imagen": "/imagenes/tienda/anubias.jpg",
     "altText": "Anubias con hojas gruesas, oscuras y duras sobre un tronco.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "anubias.html",
       "legacyRuta": "/paginas/fichas/anubias.html",
@@ -978,7 +978,7 @@
     "descripcionCatalogo": "Nombre científico: Hemianthus callitrichoides | Dificultad: Alta | Ubicación: Primer plano | Luz: Alta",
     "imagen": "/imagenes/tienda/hemianthuscallitrichoides.jpg",
     "altText": "Hemianthus callitrichoides formando un tapiz verde brillante tipo alfombra.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "hemianthuscallitrichoides.html",
       "legacyRuta": "/paginas/fichas/hemianthuscallitrichoides.html",
@@ -1105,7 +1105,7 @@
     "descripcionCatalogo": "Nombre científico: Bacopa monnieri | Dificultad: Fácil | Ubicación: Primer plano o medio plano | Luz: Baja a Media",
     "imagen": "/imagenes/tienda/bacopamonnieri.jpg",
     "altText": "Bacopa monnieri con hojas carnosas redondeadas de color verde claro.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "bacopamonnieri.html",
       "legacyRuta": "/paginas/fichas/bacopamonnieri.html",
@@ -1171,7 +1171,7 @@
     "descripcionCatalogo": "Nombre científico: Cryptocoryne wendtii 'Red' | Dificultad: Fácil | Ubicación: Medio plano | Luz: Media",
     "imagen": "/imagenes/tienda/cryptocorynewendtiired.jpg",
     "altText": "Cryptocoryne wendtii red con tonalidades marrones y rojizas oscuras.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "cryptocorynewendtiired.html",
       "legacyRuta": "/paginas/fichas/cryptocorynewendtiired.html",
@@ -1298,7 +1298,7 @@
     "descripcionCatalogo": "Nombre científico: Staurogyne repens | Dificultad: Media | Ubicación: Primer plano o medio plano | Luz: Media a Alta",
     "imagen": "/imagenes/tienda/Staurogynerepens.jpg",
     "altText": "Staurogyne repens con tallos cortos y hojas verdes densas para alfombras.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "Staurogynerepens.html",
       "legacyRuta": "/paginas/fichas/Staurogynerepens.html",
@@ -1430,7 +1430,7 @@
     "descripcionCatalogo": "Nombre científico: Echinodorus tenellus | Dificultad: Media | Ubicación: Primer plano | Luz: Media a Alta",
     "imagen": "/imagenes/tienda/echinodorustenellus.jpg",
     "altText": "Echinodorus tenellus formando un césped bajo de hojas en forma de aguja.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "echinodorustenellus.html",
       "legacyRuta": "/paginas/fichas/echinodorustenellus.html",
@@ -1496,7 +1496,7 @@
     "descripcionCatalogo": "Nombre científico: Cryptocoryne parva | Dificultad: Media | Ubicación: Primer plano | Luz: Media a Alta",
     "imagen": "/imagenes/tienda/cryptocoryneparva.jpg",
     "altText": "Cryptocoryne parva con diminutas hojas verdes formando una alfombra baja.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "cryptocoryneparva.html",
       "legacyRuta": "/paginas/fichas/cryptocoryneparva.html",
@@ -1557,7 +1557,7 @@
     "descripcionCatalogo": "Nombre científico: Microsorum pteropus 'Windelov' | Dificultad: Fácil | Ubicación: Troncos y rocas | Luz: Baja a Media",
     "imagen": "/imagenes/tienda/MicrosorumPteropusWindelov.jpg",
     "altText": "Helecho de Java Windelov con puntas de hojas fuertemente ramificadas y rizadas.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "MicrosorumPteropusWindelov.html",
       "legacyRuta": "/paginas/fichas/MicrosorumPteropusWindelov.html",
@@ -1684,7 +1684,7 @@
     "descripcionCatalogo": "Nombre científico: Utricularia graminifolia | Dificultad: Alta | Ubicación: Primer plano | Luz: Alta",
     "imagen": "/imagenes/tienda/utriculariagraminifolia.jpg",
     "altText": "Utricularia graminifolia con césped verde claro de aspecto herbáceo.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "utriculariagraminifolia.html",
       "legacyRuta": "/paginas/fichas/utriculariagraminifolia.html",
@@ -1816,7 +1816,7 @@
     "descripcionCatalogo": "Nombre científico: Marsilea hirsuta | Dificultad: Fácil | Ubicación: Primer plano | Luz: Media",
     "imagen": "/imagenes/tienda/marsileahirsuta.jpg",
     "altText": "Marsilea hirsuta con hojas parecidas a pequeños tréboles rastreros.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "marsileahirsuta.html",
       "legacyRuta": "/paginas/fichas/marsileahirsuta.html",
@@ -1948,7 +1948,7 @@
     "descripcionCatalogo": "Nombre científico: Nymphaea spp. | Dificultad: Media | Ubicación: Punto focal en medio plano o fondo | Luz: Media a Alta",
     "imagen": "/imagenes/tienda/nymphaea.jpg",
     "altText": "Nymphaea con hojas sagitadas manchadas y tallos largos que ascienden desde un bulbo.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "nymphaea.html",
       "legacyRuta": "/paginas/fichas/nymphaea.html",
@@ -2009,7 +2009,7 @@
     "descripcionCatalogo": "Nombre científico: Cryptocoryne crispatula var. balansae | Dificultad: Fácil | Ubicación: Fondo o medio plano | Luz: Media",
     "imagen": "/imagenes/tienda/Cryptocorynecrispatulabalansae.jpg",
     "altText": "Cryptocoryne crispatula balansae con hojas largas, acintadas y con bordes fuertemente ondulados.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "Cryptocorynecrispatulabalansae.html",
       "legacyRuta": "/paginas/fichas/Cryptocorynecrispatulabalansae.html",
@@ -2075,7 +2075,7 @@
     "descripcionCatalogo": "Nombre científico: Ludwigia repens | Dificultad: Fácil | Ubicación: Medio plano o fondo | Luz: Media a Alta",
     "imagen": "/imagenes/tienda/ludwigia.jpg",
     "altText": "Ludwigia repens con tallos robustos y hojas opuestas de color rojo cobrizo.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "ludwigiarepens.html",
       "legacyRuta": "/paginas/fichas/ludwigiarepens.html",
@@ -2141,7 +2141,7 @@
     "descripcionCatalogo": "Nombre científico: Bucephalandra sp. 'Red Cherry' | Dificultad: Media | Ubicación: Troncos, rocas y primeros planos elevados | Luz: Baja a Media",
     "imagen": "/imagenes/tienda/BucephalandraRedCherry.jpg",
     "altText": "Bucephalandra Red Cherry con hojas pequeñas, gruesas y visos rojizos metálicos sobre roca.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "BucephalandraRedCherry.html",
       "legacyRuta": "/paginas/fichas/BucephalandraRedCherry.html",
@@ -2207,7 +2207,7 @@
     "descripcionCatalogo": "Nombre científico: Vesicularia reticulata (Delta Moss) | Dificultad: Fácil | Ubicación: Troncos y rocas | Luz: Baja a Media",
     "imagen": "/imagenes/tienda/Vesiculariareticulata.jpg",
     "altText": "Vesicularia reticulata con patrón de ramificación en forma de delta muy característico.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "Vesiculariareticulata.html",
       "legacyRuta": "/paginas/fichas/Vesiculariareticulata.html",
@@ -2273,7 +2273,7 @@
     "descripcionCatalogo": "Nombre científico: Lemna minor | Dificultad: Muy Fácil | Ubicación: Superficie del acuario | Luz: Baja a Alta",
     "imagen": "/imagenes/tienda/Lentejadeagua.jpg",
     "altText": "Lentejita de agua cubriendo la superficie con diminutos discos verdes.",
-    "tiendaUrl": "https://plantasacuaticasba.onrender.com/",
+    "tiendaUrl": "https://plantasacuaticasba.onrender.com/products",
     "ficha": {
       "legacyArchivo": "Lentejadeagua.html",
       "legacyRuta": "/paginas/fichas/Lentejadeagua.html",

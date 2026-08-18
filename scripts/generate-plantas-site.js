@@ -15,6 +15,8 @@ const HOME_URL = "/index.html";
 const STORE_URL = "/paginas/tienda.html";
 const PLANTS_HUB_URL = "/plantas/";
 const FICHA_CSS_URL = "/paginas/fichas/css/estilo.css";
+const COMMERCIAL_BASE_URL = "https://plantasacuaticasba.onrender.com/";
+const COMMERCIAL_PRODUCTS_URL = "https://plantasacuaticasba.onrender.com/products";
 
 function readJson(filePath, fallback = null) {
     if (!fs.existsSync(filePath)) {
@@ -88,6 +90,16 @@ function findExistingGuideLinks(guideLinks) {
         .map((link) => ({ href: toRootRelativePath(link), exists: fileExistsFromPublicPath(link) }))
         .filter((item) => item.exists)
         .map((item) => item.href);
+}
+
+function resolveCommercialUrl(value) {
+    const url = String(value || "").trim();
+
+    if (!url || url === COMMERCIAL_BASE_URL) {
+        return COMMERCIAL_PRODUCTS_URL;
+    }
+
+    return url;
 }
 
 function buildLegacyMaps() {
@@ -350,7 +362,7 @@ function buildJsonLd(plant) {
 }
 
 function buildBuyCta(plant) {
-    const shopUrl = plant.tiendaUrl || "https://plantasacuaticasba.onrender.com/";
+    const shopUrl = plant.tiendaUrl || COMMERCIAL_PRODUCTS_URL;
     const hasSpecificProduct = /\/buy\/code\//i.test(shopUrl);
     const buttonText = hasSpecificProduct ? `Comprar ${plant.nombre}` : "Ver tienda";
 
@@ -769,7 +781,7 @@ function normalizePlant(item, legacyMaps) {
         descripcionCatalogo: buildCatalogDescription(item),
         imagen,
         altText: item["ALT descriptivo"] || `${commonName} en un acuario plantado.`,
-        tiendaUrl: item.link || legacyPlant?.tiendaUrl || "https://plantasacuaticasba.onrender.com/",
+        tiendaUrl: resolveCommercialUrl(item.link || legacyPlant?.tiendaUrl),
         ficha: {
             legacyArchivo,
             legacyRuta,
