@@ -14,9 +14,15 @@ const IMAGES_DIR = path.join(ROOT_DIR, "imagenes", "tienda");
 const HOME_URL = "/index.html";
 const STORE_URL = "/paginas/tienda.html";
 const PLANTS_HUB_URL = "/plantas/";
+const TERRESTRIAL_URL = "/paginas/plantas.html";
+const GALLERY_URL = "/paginas/galeria.html";
+const COURSES_URL = "/paginas/cursos.html";
+const BASIC_GUIDE_URL = "/paginas/guiaBasica.html";
+const ADVANCED_GUIDE_URL = "/paginas/guiaAvanzada.html";
 const FICHA_CSS_URL = "/paginas/fichas/css/estilo.css";
 const COMMERCIAL_BASE_URL = "https://plantasacuaticasba.onrender.com/";
 const COMMERCIAL_PRODUCTS_URL = "https://plantasacuaticasba.onrender.com/products";
+const DEFAULT_SOCIAL_IMAGE_URL = `${SITE_URL}/imagenes/banner/imagen-principalb.jpg`;
 
 function readJson(filePath, fallback = null) {
     if (!fs.existsSync(filePath)) {
@@ -29,6 +35,36 @@ function readJson(filePath, fallback = null) {
 function writeFile(filePath, content) {
     fs.mkdirSync(path.dirname(filePath), { recursive: true });
     fs.writeFileSync(filePath, content, "utf8");
+}
+
+function formatDateForSitemap(value) {
+    return new Date(value).toISOString().slice(0, 10);
+}
+
+function resolveSitePathToFile(sitePath) {
+    if (sitePath === "/") {
+        return path.join(ROOT_DIR, "index.html");
+    }
+
+    if (sitePath === PLANTS_HUB_URL) {
+        return path.join(PLANTAS_DIR, "index.html");
+    }
+
+    if (/^\/plantas\/[^/]+\/$/.test(sitePath)) {
+        return path.join(ROOT_DIR, sitePath.replace(/^\//, ""), "index.html");
+    }
+
+    return path.join(ROOT_DIR, sitePath.replace(/^\//, ""));
+}
+
+function getSitemapLastmod(sitePath) {
+    const filePath = resolveSitePathToFile(sitePath);
+
+    if (!fs.existsSync(filePath)) {
+        return formatDateForSitemap(Date.now());
+    }
+
+    return formatDateForSitemap(fs.statSync(filePath).mtime);
 }
 
 function slugify(value) {
@@ -195,6 +231,26 @@ function resolveCommercialUrl(value) {
     }
 
     return url;
+}
+
+function buildSiteMenuHtml() {
+    const items = [
+        { href: HOME_URL, label: "Inicio" },
+        { href: STORE_URL, label: "Plantas acuáticas" },
+        { href: PLANTS_HUB_URL, label: "Índice de fichas" },
+        { href: TERRESTRIAL_URL, label: "Plantas terrestres" },
+        { href: GALLERY_URL, label: "Galería" },
+        { href: COURSES_URL, label: "Cursos" },
+        { href: BASIC_GUIDE_URL, label: "Guía básica" },
+        { href: ADVANCED_GUIDE_URL, label: "Guía avanzada" },
+        { href: COMMERCIAL_PRODUCTS_URL, label: "Tienda", external: true }
+    ];
+
+    return `<nav class="site-links" aria-label="Navegación principal">
+      ${items
+          .map((item) => `<a href="${escapeHtml(item.href)}"${item.external ? ' target="_blank" rel="noopener noreferrer"' : ""}>${escapeHtml(item.label)}</a>`)
+          .join("")}
+    </nav>`;
 }
 
 function buildLegacyMaps() {
@@ -605,6 +661,7 @@ ${buildJsonLd(plant)}
   <link rel="stylesheet" href="${FICHA_CSS_URL}">
 </head>
 <body class="ficha-page">
+      ${buildSiteMenuHtml()}
   <main class="ficha-layout">
     <nav class="ficha-breadcrumbs" aria-label="Breadcrumb">
       <a href="${HOME_URL}">Inicio</a>
@@ -653,10 +710,16 @@ function buildPlantsHubHtml(plants) {
   <meta property="og:title" content="Fichas de plantas acuáticas: índice completo | Plantas Acuáticas">
   <meta property="og:description" content="Listado completo de fichas técnicas de plantas acuáticas con enlaces HTML directos.">
   <meta property="og:url" content="${escapeHtml(toAbsoluteUrl(PLANTS_HUB_URL))}">
+      <meta property="og:image" content="${escapeHtml(DEFAULT_SOCIAL_IMAGE_URL)}">
   <meta property="og:site_name" content="Plantas Acuaticas">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Fichas de plantas acuáticas: índice completo | Plantas Acuáticas">
+      <meta name="twitter:description" content="Listado completo de fichas técnicas de plantas acuáticas con enlaces HTML directos.">
+      <meta name="twitter:image" content="${escapeHtml(DEFAULT_SOCIAL_IMAGE_URL)}">
   <link rel="stylesheet" href="${FICHA_CSS_URL}">
 </head>
 <body class="ficha-page">
+      ${buildSiteMenuHtml()}
   <main class="ficha-layout">
     <nav class="ficha-breadcrumbs" aria-label="Breadcrumb">
       <a href="${HOME_URL}">Inicio</a>
@@ -680,7 +743,8 @@ function buildPlantsHubHtml(plants) {
         <h2>Cómo usar este índice</h2>
         <p>Esta página reúne todas las fichas técnicas importantes del sitio con enlaces HTML permanentes. Te sirve para encontrar rápido una planta por nombre común o científico, y también ayuda a Google a descubrir todas las URLs canónicas sin depender de JavaScript.</p>
         <div class="ficha-cta__acciones">
-          <a class="ficha-cta__boton ficha-cta__boton--secondary" href="${STORE_URL}">Ir al catálogo comercial</a>
+              <a class="ficha-cta__boton ficha-cta__boton--secondary" href="${STORE_URL}">Ir al catálogo de plantas</a>
+              <a class="ficha-cta__boton ficha-cta__boton--primary" href="${COMMERCIAL_PRODUCTS_URL}" target="_blank" rel="noopener noreferrer">Ir a la tienda</a>
         </div>
       </div>
     </section>
@@ -737,7 +801,18 @@ function buildStoreHtmlContent(plants) {
         content="plantasacuaticasba, un jardín bajo el agua, tienda online, https://maps.app.goo.gl/owfaRDHtynTZ1Sw98, tienda de plantas, tiendas de plantas acuáticas, plantas acuáticas, acuarios, tutoriales de acuarofilia, acuáticas de ribera, acuáticas flotantes, acuáticas oxigenadoras, cactus, suculentas, helechos, musgos, plantas carnívoras, jardinería">
     <meta name=author content="nicolas caporaso">
     <link rel="canonical" href="${escapeHtml(toAbsoluteUrl(STORE_URL))}">
-    <meta name="robots" content="index, follow">
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+        <meta property="og:locale" content="es_AR">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Catálogo de plantas acuáticas: variedades y características">
+        <meta property="og:description" content="Explorá fichas, cuidados, luz, temperatura y pH de plantas acuáticas para elegir mejor las especies de tu acuario.">
+        <meta property="og:url" content="${escapeHtml(toAbsoluteUrl(STORE_URL))}">
+        <meta property="og:image" content="${escapeHtml(DEFAULT_SOCIAL_IMAGE_URL)}">
+        <meta property="og:site_name" content="Plantas Acuaticas">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Catálogo de plantas acuáticas: variedades y características">
+        <meta name="twitter:description" content="Explorá fichas, cuidados, luz, temperatura y pH de plantas acuáticas para elegir mejor las especies de tu acuario.">
+        <meta name="twitter:image" content="${escapeHtml(DEFAULT_SOCIAL_IMAGE_URL)}">
     <title>Catálogo de plantas acuáticas: variedades y características</title>
     <script src=https://kit.fontawesome.com/eff7621339.js crossorigin=anonymous></script>
     <link href=../css/estilo.css rel=stylesheet>
@@ -751,21 +826,23 @@ function buildStoreHtmlContent(plants) {
         <nav class=barra>
             <ul class="barra__lista pl-0 m-0">
                 <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none"
-                        href=https://plantasacuaticasba.onrender.com/> Tienda </a></li>
+                        href="${COMMERCIAL_PRODUCTS_URL}" target="_blank" rel="noopener noreferrer"> Tienda </a></li>
                 <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none"
-                        href=../index.html> <i class="fa-solid fa-house-chimney"></i></a></li>
-                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=tienda.html>
+                        href="${HOME_URL}"> <i class="fa-solid fa-house-chimney"></i></a></li>
+                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href="${STORE_URL}">
                         Plantas Acuáticas </a></li>
-                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=plantas.html>
+                    <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href="${PLANTS_HUB_URL}">
+                            Índice de fichas </a></li>
+                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href="${TERRESTRIAL_URL}">
                         Plantas Terrestres </a></li>
-                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=galeria.html>
+                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href="${GALLERY_URL}">
                         Galería de Acuarios </a></li>
-                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href=cursos.html>
+                <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none" href="${COURSES_URL}">
                         Cursos </a></li>
                 <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none"
-                        href=./guiaBasica.html> Guía básica para acuarios </a></li>
+                        href="${BASIC_GUIDE_URL}"> Guía básica para acuarios </a></li>
                 <li class=barra__lista__item><a class="barra__lista__item__link text-decoration-none"
-                        href=./guiaAvanzada.html> Guía avanzada para acuarios </a></li>
+                        href="${ADVANCED_GUIDE_URL}"> Guía avanzada para acuarios </a></li>
             </ul>
         </nav>
         <div class=portada>
@@ -784,10 +861,10 @@ function buildStoreHtmlContent(plants) {
                     media="(min-width: 768px)">
                 <source class=portada__picture__source srcset=../imagenes/banner/imagen-principalb.jpg
                     media="(min-width: 450px)">
-                <img class=portada__picture__imagen src=../imagenes/banner/imagen-principalb.jpg
-                    alt="fuente de agua al aire libre con Plantas Acuáticas flotantes">
+                    <img class=portada__picture__imagen src=../imagenes/banner/imagen-principalb.jpg
+                        alt="Fuente de agua al aire libre con plantas acuáticas flotantes">
             </picture>
-            <h1 class=portada__titulo>PLANTASACUATICAS.COM.AR</h1>
+                <h1 class=portada__titulo>Catálogo de plantas acuáticas</h1>
         </div>
     </header>
     <main class=tienda>
@@ -825,7 +902,7 @@ function buildStoreHtmlContent(plants) {
             </a>
         </div>
     </footer>
-    <script src=//cdn.jsdelivr.net/npm/sweetalert2@11></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src=../js/tienda/generaweb.js></script>
 </body>
 </html>
@@ -939,11 +1016,11 @@ function serializePlants(plants) {
 function generateSitemap(plants) {
     const staticPages = [
         { path: "/", changefreq: "weekly", priority: "1.0" },
-        { path: "/plantas/", changefreq: "weekly", priority: "0.9" },
+        { path: PLANTS_HUB_URL, changefreq: "weekly", priority: "0.9" },
         { path: "/paginas/cursos.html", changefreq: "monthly", priority: "0.8" },
         { path: "/paginas/galeria.html", changefreq: "monthly", priority: "0.6" },
         { path: "/paginas/plantas.html", changefreq: "monthly", priority: "0.8" },
-        { path: "/paginas/tienda.html", changefreq: "weekly", priority: "0.9" },
+        { path: STORE_URL, changefreq: "weekly", priority: "0.9" },
         { path: "/paginas/guiaBasica.html", changefreq: "monthly", priority: "0.8" },
         { path: "/paginas/guiaAvanzada.html", changefreq: "monthly", priority: "0.8" }
     ];
@@ -955,8 +1032,10 @@ function generateSitemap(plants) {
     }));
 
     const entries = [...staticPages, ...plantPages]
+        .filter((entry, index, collection) => collection.findIndex((candidate) => candidate.path === entry.path) === index)
         .map((entry) => `  <url>
     <loc>${ensureNoTrailingSlash(SITE_URL)}${entry.path}</loc>
+        <lastmod>${getSitemapLastmod(entry.path)}</lastmod>
     <changefreq>${entry.changefreq}</changefreq>
     <priority>${entry.priority}</priority>
   </url>`)

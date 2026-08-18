@@ -86,6 +86,29 @@ body {
     padding: 20px !important;
 }
 
+.site-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    background: #196e1d;
+}
+
+.site-links a {
+    color: #fff;
+    font-size: 1rem;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, .14);
+    text-decoration: none;
+}
+
+.site-links a:hover {
+    background: rgba(255, 255, 255, .24);
+}
+
 .flex__center,
 .grilla {
     display: flex;
